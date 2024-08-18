@@ -1,0 +1,139 @@
+/* 애니메이션을 위한 키프레임 정의 */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px); /* 약간 아래에서 나타나도록 설정 */
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.birthColor {
+  width: 100vw;
+  height: 100vh;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transition: background-image 0.5s ease-in-out;
+}
+
+.page-0 {
+  background-image: url("../public/001.png");
+}
+
+.page-1 {
+  background-image: url("../public/003.png");
+}
+
+.page-2 {
+  background-image: url("../public/003.png");
+}
+
+.startPageLayout, .inputPageLayout {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+
+.startButton{
+  font-size: 45px;
+  font-weight: 700;
+  cursor:pointer;
+  opacity: 0;
+  animation: fadeIn 1s ease-in-out forwards;
+}
+
+.inputPageLayout button {
+  font-size: 17px;
+  font-weight: 700;
+  cursor: pointer;
+  opacity: 0; /* 초기 상태에서 숨김 */
+  animation: fadeIn 1s ease-in-out forwards; /* 애니메이션 적용 */
+}
+
+.inputPageLayout h2 {
+  font-size: 26px;
+  opacity: 0;
+  animation: fadeIn 1s ease-in-out forwards; /* 애니메이션 적용 */
+}
+
+.inputFields {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.inputContainer {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.inputContainer input {
+  margin-right: 10px; /* 입력 필드와 레이블 사이의 간격 */
+  padding: 10px;
+  font-size: 16px;
+  width: 80px; /* 입력 필드의 가로 길이 조정 */
+  text-align: center; /* 입력 내용 가운데 정렬 */
+  opacity: 0; /* 초기 상태에서 숨김 */
+  animation: fadeIn 1s ease-in-out forwards; /* 애니메이션 적용 */
+}
+
+.inputLabel {
+  font-size: 24px;
+  font-weight: 700;
+  opacity: 0; /* 초기 상태에서 숨김 */
+  animation: fadeIn 1s ease-in-out forwards; /* 애니메이션 적용 */
+}
+
+button {
+  margin-top: 20px; /* 입력 필드와 버튼 사이의 간격 */
+  padding: 10px 20px;
+  font-size: 17px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.resultPageLayout {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.colorContentsBox{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  height: 180px;
+}
+
+.colorBox {
+  width: 100px; /* 네모 칸의 너비 */
+  height: 100px; /* 네모 칸의 높이 */
+  margin-bottom: 10px; /* 네모 칸과 다른 요소 간의 간격 */
+  display:inline-block;
+}
+
+.resultText {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+/* 에러 메시지 스타일링 */
+.error {
+  color: red;
+  font-size: 14px;
+  margin-top: 10px;
+}
