@@ -218,7 +218,15 @@ function App() {
               <span className="inputLabel">일</span>
             </div>
           </div>
-          <button className="buttonStyle" onClick={handleSubmit}>
+          <button
+            className="buttonStyle"
+            style={{
+              width: "12vw",
+              padding: "10px 20px",
+              fontSize: `clamp(24px, 1.8vw, 64px)`,
+            }}
+            onClick={handleSubmit}
+          >
             결과
           </button>
           {error && <p className="error">{error}</p>}
@@ -238,7 +246,7 @@ function App() {
                 color={loadingColor}
                 loading={true}
                 // cssOverride={override}
-                size={25}
+                size={40}
                 speedMultiplier={0.8}
                 margin={5}
               />
@@ -247,6 +255,7 @@ function App() {
                   padding: "20px",
                   color: loadingColor,
                   fontWeight: "700",
+                  fontSize: "clamp(16px, 3vw, 48px)",
                 }}
               >
                 <h> 탄생컬러를 찾고 있어요 </h>
