@@ -49,18 +49,19 @@
   transition: background-image 0.5s ease-in-out;
   flex-direction: column;
   font-family: "Ownglyph_ParkDaHyun";
+  color: #fff;
 }
 
 .page-0 {
-  background-image: url("../public/crumpled_paper_1405.jpg");
+  background-image: url("../public/bg.jpg");
 }
 
 .page-1 {
-  background-image: url("../public/crumpled_paper_1405.jpg");
+  background-image: url("../public/bg.jpg");
 }
 
 .page-2 {
-  background-image: url("../public/crumpled_paper_1405.jpg");
+  background-image: url("../public/bg.jpg");
 }
 .page-3 {
   background-image: url("../public/003.png");
@@ -82,6 +83,7 @@
   opacity: 0;
   animation: fadeIn 1s ease-in-out forwards;
   margin-top: 20px;
+  color: #db6138;
 }
 
 .startButton:hover {
