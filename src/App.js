@@ -308,7 +308,8 @@ function App() {
                   <div className="flexCenter" style={{ gap: "8px" }}>
                     <div> #{result.keyword1}</div>
                     <div> #{result.keyword2}</div>
-                    <div> #{result.keyword3}</div>
+                    {result?.keyword3 && <div> #{result.keyword3}</div>}
+                    {result?.keyword4 && <div> #{result.keyword4}</div>}
                   </div>
                   <div
                     style={{

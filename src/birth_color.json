@@ -1,3613 +1,3615 @@
 [
- {
-  "month": "1월",
-  "day": "1일",
-  "birth_color": "#FFFFE5",
-  "name": "순백",
-  "keyword1": "순수",
-  "keyword2": "우아",
-  "keyword3": "심플",
-  "sentence": "마음이 아름다운 최고의 여성"
- },
- {
-  "month": "1월",
-  "day": "2일",
-  "birth_color": "#E6EAE6",
-  "name": "프로스티 화이트",
-  "keyword1": "감성",
-  "keyword2": "논리",
-  "keyword3": "청정",
-  "sentence": "미학적인 사고에 매료된 사람"
- },
- {
-  "month": "1월",
-  "day": "3일",
-  "birth_color": "#AFAFB0",
-  "name": "실버 그레이",
-  "keyword1": "용기",
-  "keyword2": "밸런스",
-  "keyword3": "경영력",
-  "sentence": "품격 높은 마음의 소유자"
- },
- {
-  "month": "1월",
-  "day": "4일",
-  "birth_color": "#8D9192",
-  "name": "알루미늄 그레이",
-  "keyword1": "밝음",
-  "keyword2": "에너지",
-  "sentence": "두려움을 모르는 밝은 도전자"
- },
- {
-  "month": "1월",
-  "day": "5일",
-  "birth_color": "#736D71",
-  "name": "스틸 그레이",
-  "keyword1": "직관력",
-  "keyword2": "동찰력",
-  "keyword3": "잠재력",
-  "sentence": "재치 있는 야무진 사람"
- },
- {
-  "month": "1월",
-  "day": "6일",
-  "birth_color": "#705B67",
-  "name": "포도 회색",
-  "keyword1": "논리",
-  "keyword2": "스피드",
-  "keyword3": "모험심",
-  "sentence": "드라마틱한 생활의 실천자"
- },
- {
-  "month": "1월",
-  "day": "7일",
-  "birth_color": "#0D0015",
-  "name": "칠흑",
-  "keyword1": "정열",
-  "keyword2": "재능",
-  "keyword3": "상상력",
-  "sentence": "도전하는 발상력 풍부한 정열가"
- },
- {
-  "month": "1월",
-  "day": "8일",
-  "birth_color": "#B8C43A",
-  "name": "시트론 옐로",
-  "keyword1": "종교적",
-  "keyword2": "우주적 구상",
-  "sentence": "자연을 사랑하는 서정가"
- },
- {
-  "month": "1월",
-  "day": "9일",
-  "birth_color": "#69821B",
-  "name": "이끼색",
-  "keyword1": "신비성",
-  "keyword2": "상상력",
-  "sentence": "타인의 따듯함을 느낄 수 있는 사람"
- },
- {
-  "month": "1월",
-  "day": "10일",
-  "birth_color": "#7B8D42",
-  "name": "풀색",
-  "keyword1": "영지",
-  "keyword2": "예술",
-  "keyword3": "세련",
-  "sentence": "광대한 감정세계의 소유자"
- },
- {
-  "month": "1월",
-  "day": "11일",
-  "birth_color": "#BDD99F",
-  "name": "미스트 그린",
-  "keyword1": "노력",
-  "keyword2": "재능",
-  "keyword3": "용기",
-  "sentence": "신시대를 만드는 이상적인 사람"
- },
- {
-  "month": "1월",
-  "day": "12일",
-  "birth_color": "#D6E9CA",
-  "name": "백록",
-  "keyword1": "기품",
-  "keyword2": "외교",
-  "keyword3": "동찰력",
-  "sentence": "행동력 있는 도전가"
- },
- {
-  "month": "1월",
-  "day": "13일",
-  "birth_color": "#37A34A",
-  "name": "패럿 그린",
-  "keyword1": "행동력",
-  "keyword2": "겸손",
-  "keyword3": "냉정",
-  "keyword4": "침착",
-  "sentence": "자기만의 방식으로 살아가는 자립가"
- },
- {
-  "month": "1월",
-  "day": "14일",
-  "birth_color": "#7B8D42",
-  "name": "그래스 그린",
-  "keyword1": "감성",
-  "keyword2": "유머러스",
-  "keyword3": "숙성",
-  "sentence": "성숙한 감성의 예술가"
- },
- {
-  "month": "1월",
-  "day": "15일",
-  "birth_color": "#00552E",
-  "name": "심록",
-  "keyword1": "신조",
-  "keyword2": "모범",
-  "keyword3": "자애",
-  "sentence": "빛나는 별 같은 눈동자의 소유자"
- },
- {
-  "month": "1월",
-  "day": "16일",
-  "birth_color": "#F0F6DA",
-  "name": "화이트 릴리",
-  "keyword1": "대담",
-  "keyword2": "상상력",
-  "keyword3": "신념",
-  "sentence": "자연을 사랑하는 실천가"
- },
- {
-  "month": "1월",
-  "day": "17일",
-  "birth_color": "#006E54",
-  "name": "맹황색",
-  "keyword1": "생활",
-  "keyword2": "지도력",
-  "keyword3": "미소",
-  "sentence": "배짱과 호기심많은 미식가"
- },
- {
-  "month": "1월",
-  "day": "18일",
-  "birth_color": "#44744B",
-  "name": "포리지",
-  "keyword1": "성실",
-  "keyword2": "세련",
-  "keyword3": "겸허",
-  "sentence": "어리고 순수한 사람"
- },
- {
-  "month": "1월",
-  "day": "19일",
-  "birth_color": "#9FC24D",
-  "name": "리프 그린",
-  "keyword1": "상냥함",
-  "keyword2": "자존심",
-  "keyword3": "정신성",
-  "sentence": "어떤 일에도 열심인 노력가"
- },
- {
-  "month": "1월",
-  "day": "20일",
-  "birth_color": "#288C66",
-  "name": "포레스트 그린",
-  "keyword1": "에너지",
-  "keyword2": "자기투자",
-  "sentence": "이상이 확실한 사람"
- },
- {
-  "month": "1월",
-  "day": "21일",
-  "birth_color": "#A0D8EF",
-  "name": "하늘색",
-  "keyword1": "감성",
-  "keyword2": "가능성",
-  "keyword3": "예술성",
-  "sentence": "아름다움을 느끼는 재능"
- },
- {
-  "month": "1월",
-  "day": "22일",
-  "birth_color": "#00A3AF",
-  "name": "옥청색",
-  "keyword1": "행복",
-  "keyword2": "사랑",
-  "keyword3": "우정",
-  "sentence": "배려심 있는 사람"
- },
- {
-  "month": "1월",
-  "day": "23일",
-  "birth_color": "#38A1D8",
-  "name": "노초",
-  "keyword1": "젊음",
-  "keyword2": "정서",
-  "keyword3": "집중력",
-  "sentence": "평화롭고 평온한 마음의 소유자"
- },
- {
-  "month": "1월",
-  "day": "24일",
-  "birth_color": "#00688B",
-  "name": "오리깃색",
-  "keyword1": "두뇌명석",
-  "keyword2": "성실",
-  "keyword3": "감수성",
-  "sentence": "즐거움 꿈을 향해가는 낙천가"
- },
- {
-  "month": "1월",
-  "day": "25일",
-  "birth_color": "#0F2350",
-  "name": "농람",
-  "keyword1": "이상",
-  "keyword2": "현실",
-  "keyword3": "새로운 생활",
-  "sentence": "평안한 생활이 가능한 사람"
- },
- {
-  "month": "1월",
-  "day": "26일",
-  "birth_color": "#E3D7A3",
-  "name": "크림",
-  "keyword1": "풍부한표정",
-  "keyword2": "조직",
-  "keyword3": "재치",
-  "sentence": "태양 같은 개성의 소유자"
- },
- {
-  "month": "1월",
-  "day": "27일",
-  "birth_color": "#FEF400",
-  "name": "페일 레몬",
-  "keyword1": "맵시",
-  "keyword2": "신비적인 눈",
-  "sentence": "세련된 분위기를 가진 사람"
- },
- {
-  "month": "1월",
-  "day": "28일",
-  "birth_color": "#FFD900",
-  "name": "민들레색",
-  "keyword1": "모험",
-  "keyword2": "밝음",
-  "keyword3": "호기심",
-  "sentence": "태어날 때부터 낙천가"
- },
- {
-  "month": "1월",
-  "day": "29일",
-  "birth_color": "#C3D825",
-  "name": "어린풀색",
-  "keyword1": "운동신경",
-  "keyword2": "지각력",
-  "keyword3": "명예",
-  "sentence": "비범한 설득력의 소유자"
- },
- {
-  "month": "1월",
-  "day": "30일",
-  "birth_color": "#529C47",
-  "name": "메도 그린",
-  "keyword1": "넘치는 사랑",
-  "keyword2": "동물애호",
-  "sentence": "동식물과 상성이 좋은 사람"
- },
- {
-  "month": "1월",
-  "day": "31일",
-  "birth_color": "#E0EBAF",
-  "name": "어린싹색",
-  "keyword1": "감상적",
-  "keyword2": "순응",
-  "keyword3": "예의",
-  "sentence": "상처받기 쉬운 로맨티스트"
- },
- {
-  "month": "2월",
-  "day": "1일",
-  "birth_color": "#3F4E93",
-  "name": "콘플라워 블루",
-  "keyword1": "문화적",
-  "keyword2": "사교적",
-  "sentence": "사회적으로도 매우 인정받는 예술가"
- },
- {
-  "month": "2월",
-  "day": "2일",
-  "birth_color": "#BC64A4",
-  "name": "연보라",
-  "keyword1": "상상력",
-  "keyword2": "경모",
-  "keyword3": "직관력",
-  "sentence": "타인과 확실한 차가 있는 개성파"
- },
- {
-  "month": "2월",
-  "day": "3일",
-  "birth_color": "#21297E",
-  "name": "딥로얄 블루",
-  "keyword1": "직관력",
-  "keyword2": "수줍음",
-  "keyword3": "위엄",
-  "sentence": "자신의 가치를 아는 천상 프린세스"
- },
- {
-  "month": "2월",
-  "day": "4일",
-  "birth_color": "#CCA6BF",
-  "name": "홍등색",
-  "keyword1": "감성",
-  "keyword2": "재색겸비",
-  "keyword3": "외향성",
-  "sentence": "타인과 다르고 싶어하는 개성파"
- },
- {
-  "month": "2월",
-  "day": "5일",
-  "birth_color": "#50347E",
-  "name": "팬지 퍼플",
-  "keyword1": "교육적",
-  "keyword2": "시적",
-  "keyword3": "신비",
-  "keyword4": "몽환",
-  "sentence": "나아갈 길을 아는 영감의 소유자"
- },
- {
-  "month": "2월",
-  "day": "6일",
-  "birth_color": "#DEBDD8",
-  "name": "페일 라일락",
-  "keyword1": "가정",
-  "keyword2": "표현력",
-  "keyword3": "품위",
-  "sentence": "타인을 감동시키는 힘의 소유지"
- },
- {
-  "month": "2월",
-  "day": "7일",
-  "birth_color": "#B269A1",
-  "name": "모벳",
-  "keyword1": "자주성",
-  "keyword2": "천재",
-  "keyword3": "감성",
-  "sentence": "외곬수에 사명감이 있는 기대주"
- },
- {
-  "month": "2월",
-  "day": "8일",
-  "birth_color": "#6C2735",
-  "name": "버건디",
-  "keyword1": "정열",
-  "keyword2": "애교",
-  "keyword3": "사려깊음",
-  "sentence": "흉내가 특기인 귀여운 장난꾸러기"
- },
- {
-  "month": "2월",
-  "day": "9일",
-  "birth_color": "#EA4A6E",
-  "name": "푸크시아 퍼플",
-  "keyword1": "국제감각",
-  "keyword2": "활발",
-  "keyword3": "지도자",
-  "sentence": "활약하는 인간, 인간미 있는 열혈한"
- },
- {
-  "month": "2월",
-  "day": "10일",
-  "birth_color": "#EA618E",
-  "name": "로즈 레드",
-  "keyword1": "애정",
-  "keyword2": "감수성",
-  "keyword3": "지성",
-  "sentence": "타인을 돕고 북돋우는 상냥한 사람"
- },
- {
-  "month": "2월",
-  "day": "11일",
-  "birth_color": "#D3336F",
-  "name": "홍색",
-  "keyword1": "개방적",
-  "keyword2": "단순명쾌",
-  "keyword3": "표현",
-  "sentence": "어떤 일이든 마음속 깊이 기뻐하는 솔직한 사람"
- },
- {
-  "month": "2월",
-  "day": "12일",
-  "birth_color": "#D5345E",
-  "name": "카민",
-  "keyword1": "외교적",
-  "keyword2": "정열",
-  "keyword3": "격함",
-  "sentence": "조용하지만 적극적인 행도파"
- },
- {
-  "month": "2월",
-  "day": "13일",
-  "birth_color": "#585B54",
-  "name": "휘파람새색",
-  "keyword1": "가정",
-  "keyword2": "착실함",
-  "keyword3": "향상심",
-  "sentence": "자신의 가치관을 소중히 키우는 예술가"
- },
- {
-  "month": "2월",
-  "day": "14일",
-  "birth_color": "#726D40",
-  "name": "해송색",
-  "keyword1": "이율배반",
-  "keyword2": "성실",
-  "keyword3": "기품",
-  "sentence": "도회적인 센스를 갖춘 사람"
- },
- {
-  "month": "2월",
-  "day": "15일",
-  "birth_color": "#89C3EB",
-  "name": "물망초색",
-  "keyword1": "우정",
-  "keyword2": "평화",
-  "keyword3": "조화",
-  "sentence": "행동전에 2번 생각하는 신중파"
- },
- {
-  "month": "2월",
-  "day": "16일",
-  "birth_color": "#A4C1D7",
-  "name": "스모크 블루",
-  "keyword1": "겸허",
-  "keyword2": "견실",
-  "keyword3": "극기심",
-  "sentence": "항상 자신을 끌어올리려는 노력가"
- },
- {
-  "month": "2월",
-  "day": "17일",
-  "birth_color": "#4C5E74",
-  "name": "스몰트",
-  "keyword1": "끈기",
-  "keyword2": "완벽주의",
-  "keyword3": "품격",
-  "sentence": "일에 몰두하는 사람"
- },
- {
-  "month": "2월",
-  "day": "18일",
-  "birth_color": "#6C3524",
-  "name": "초콜릿",
-  "keyword1": "불굴",
-  "keyword2": "번뜩임",
-  "keyword3": "자기정당화",
-  "sentence": "자신의 생각의 올바르다 주장할 수 있는 사람"
- },
- {
-  "month": "2월",
-  "day": "19일",
-  "birth_color": "#223A70",
-  "name": "감색",
-  "keyword1": "그릇이큼",
-  "keyword2": "지도자",
-  "keyword3": "감성",
-  "sentence": "자신이 향하는 길을 아는 사람"
- },
- {
-  "month": "2월",
-  "day": "20일",
-  "birth_color": "#FFF1CF",
-  "name": "아기새색",
-  "keyword1": "매혹",
-  "keyword2": "개성",
-  "keyword3": "절도",
-  "sentence": "독창적인 센스를 가진 개성파"
- },
- {
-  "month": "2월",
-  "day": "21일",
-  "birth_color": "#FFF799",
-  "name": "라임라이트",
-  "keyword1": "매혹",
-  "keyword2": "개성",
-  "keyword3": "절도",
-  "sentence": "강렬한 개성과 주장의 소유자"
- },
- {
-  "month": "2월",
-  "day": "22일",
-  "birth_color": "#FABF14",
-  "name": "울금색",
-  "keyword1": "감성",
-  "keyword2": "즐거움",
-  "keyword3": "예술",
-  "sentence": "즐겁게 새로운 것을 추구하는 낙천가"
- },
- {
-  "month": "2월",
-  "day": "23일",
-  "birth_color": "#FFEC47",
-  "name": "유채꽃색",
-  "keyword1": "인도주의",
-  "keyword2": "불언실행",
-  "sentence": "사람들에게 환희를 가져다주는 행동파"
- },
- {
-  "month": "2월",
-  "day": "24일",
-  "birth_color": "#D8E2AE",
-  "name": "리드 그린",
-  "keyword1": "휴식",
-  "keyword2": "사교적",
-  "sentence": "항상 희망을 품고 전진하는 사람"
- },
- {
-  "month": "2월",
-  "day": "25일",
-  "birth_color": "#E5E8E1",
-  "name": "미스트 화이트",
-  "keyword1": "목적",
-  "keyword2": "감명",
-  "keyword3": "명예",
-  "sentence": "끈기로 목적을 달성하는 노력가"
- },
- {
-  "month": "2월",
-  "day": "26일",
-  "birth_color": "#BECEBC",
-  "name": "이엽색",
-  "keyword1": "원만",
-  "keyword2": "노력",
-  "keyword3": "정확",
-  "sentence": "어려운 문제에도 최선을 다하는 도전가"
- },
- {
-  "month": "2월",
-  "day": "27일",
-  "birth_color": "#A1A46D",
-  "name": "버들차",
-  "keyword1": "즐거움",
-  "keyword2": "대범함",
-  "keyword3": "개방적",
-  "sentence": "규율에 얽매이지 않는 인기인"
- },
- {
-  "month": "2월",
-  "day": "28일",
-  "birth_color": "#5F6527",
-  "name": "올리브 그린",
-  "keyword1": "감성",
-  "keyword2": "견실",
-  "keyword3": "우아",
-  "sentence": "사람들과의 교류를 소중히 하는 사람"
- },
- {
-  "month": "2월",
-  "day": "29일",
-  "birth_color": "#578A3D",
-  "name": "아이비 그린",
-  "keyword1": "도덕",
-  "keyword2": "지능",
-  "keyword3": "구상",
-  "sentence": "친구를 잘 돌보는 사람"
- },
- {
-  "month": "3월",
-  "day": "1일",
-  "birth_color": "#F5B199",
-  "name": "연홍색",
-  "keyword1": "책임감",
-  "keyword2": "배려",
-  "keyword3": "상냥함",
-  "sentence": "사람들에게 기운을 주는 인기인"
- },
- {
-  "month": "3월",
-  "day": "2일",
-  "birth_color": "#FDEDE4",
-  "name": "베이비 핑크",
-  "keyword1": "이상",
-  "keyword2": "가정적",
-  "keyword3": "포용력",
-  "sentence": "행복한 가정을 가진 사람"
- },
- {
-  "month": "3월",
-  "day": "3일",
-  "birth_color": "#F4B3C2",
-  "name": "연분홍색",
-  "keyword1": "연애",
-  "keyword2": "예의",
-  "keyword3": "반지르르함",
-  "sentence": "사랑받고 있으면 아릅답게 빛나는 사람"
- },
- {
-  "month": "3월",
-  "day": "4일",
-  "birth_color": "#EA5550",
-  "name": "파피 레드",
-  "keyword1": "주인공",
-  "keyword2": "고상",
-  "keyword3": "민감",
-  "sentence": "평균으론 만족하지 않는 사람"
- },
- {
-  "month": "3월",
-  "day": "5일",
-  "birth_color": "#CF0125",
-  "name": "체리 레드",
-  "keyword1": "현실주의",
-  "keyword2": "감성",
-  "keyword3": "정열",
-  "sentence": "이상적인 사고방식의 야무진 사람"
- },
- {
-  "month": "3월",
-  "day": "6일",
-  "birth_color": "#FEF4F4",
-  "name": "벚꽃색",
-  "keyword1": "애정",
-  "keyword2": "배려",
-  "keyword3": "건전",
-  "sentence": "사람을 감동시키는 힘이 깃든 사람"
- },
- {
-  "month": "3월",
-  "day": "7일",
-  "birth_color": "#F3A68C",
-  "name": "새먼 핑크",
-  "keyword1": "부드러움",
-  "keyword2": "상냥함",
-  "keyword3": "감성",
-  "sentence": "타인의 행복을 가슴 깊이 비는 인격자"
- },
- {
-  "month": "3월",
-  "day": "8일",
-  "birth_color": "#F2A0A1",
-  "name": "홍매색",
-  "keyword1": "애정",
-  "keyword2": "안정",
-  "keyword3": "여성스러움",
-  "sentence": "사랑이 흘러넘치는 여성스러운 사람"
- },
- {
-  "month": "3월",
-  "day": "9일",
-  "birth_color": "#F5B1AA",
-  "name": "산호색",
-  "keyword1": "의욕",
-  "keyword2": "용맹",
-  "keyword3": "외교적",
-  "sentence": "동경을 실현하려고 애쓰는 행동파"
- },
- {
-  "month": "3월",
-  "day": "10일",
-  "birth_color": "#E8383D",
-  "name": "시그널 레드",
-  "keyword1": "지속력",
-  "keyword2": "지도자",
-  "sentence": "많은 분야에서 활약하는 인기인"
- },
- {
-  "month": "3월",
-  "day": "11일",
-  "birth_color": "#F4DDA5",
-  "name": "숫돌가루색",
-  "keyword1": "자비로움",
-  "keyword2": "정열",
-  "keyword3": "손재주",
-  "sentence": "따듯하고 관대한 마음의 소유자"
- },
- {
-  "month": "3월",
-  "day": "12일",
-  "birth_color": "#E65454",
-  "name": "오렌지 버밀리온",
-  "keyword1": "천진함",
-  "keyword2": "감성",
-  "keyword3": "순수",
-  "sentence": "타인을 올바른 방향으로 이끄는 천사"
- },
- {
-  "month": "3월",
-  "day": "13일",
-  "birth_color": "#ED6D3D",
-  "name": "감색",
-  "keyword1": "튼튼함",
-  "keyword2": "조직력",
-  "keyword3": "대망",
-  "sentence": "건강함을 어필하는 인기인"
- },
- {
-  "month": "3월",
-  "day": "14일",
-  "birth_color": "#E23620",
-  "name": "스칼렛",
-  "keyword1": "에너지",
-  "keyword2": "명랑",
-  "keyword3": "정열",
-  "sentence": "화려한 활기로 넘치는 행동파"
- },
- {
-  "month": "3월",
-  "day": "15일",
-  "birth_color": "#D11C1E",
-  "name": "루즈",
-  "keyword1": "활발",
-  "keyword2": "건강",
-  "keyword3": "외향성",
-  "sentence": "자발적으로 행동하는 정열가"
- },
- {
-  "month": "3월",
-  "day": "16일",
-  "birth_color": "#D2A4C8",
-  "name": "연분홍 등나무",
-  "keyword1": "직관력",
-  "keyword2": "정신고양",
-  "keyword3": "품위",
-  "sentence": "몸도 마음도 여성스러운 솔직한 사람"
- },
- {
-  "month": "3월",
-  "day": "17일",
-  "birth_color": "#915DA3",
-  "name": "모브",
-  "keyword1": "상상력",
-  "keyword2": "센스",
-  "keyword3": "매혹적",
-  "sentence": "계속 새로운 것을 만들어내는 창조자"
- },
- {
-  "month": "3월",
-  "day": "18일",
-  "birth_color": "#985B9E",
-  "name": "캄파뉼라 퍼플",
-  "keyword1": "예민",
-  "keyword2": "신비적",
-  "keyword3": "고귀",
-  "sentence": "모든 것에 민감한 신비한 사람"
- },
- {
-  "month": "3월",
-  "day": "19일",
-  "birth_color": "#581074",
-  "name": "비오레",
-  "keyword1": "침착함",
-  "keyword2": "건강",
-  "keyword3": "안정감",
-  "sentence": "호수 같이 마음이 잔잔하고 아름다운 사람"
- },
- {
-  "month": "3월",
-  "day": "20일",
-  "birth_color": "#895B8A",
-  "name": "옛자색",
-  "keyword1": "침착함",
-  "keyword2": "품위",
-  "keyword3": "고귀",
-  "sentence": "언제나 냉정하게 사물을 판단하는 사람"
- },
- {
-  "month": "3월",
-  "day": "21일",
-  "birth_color": "#AAA7D0",
-  "name": "페일 오키드",
-  "keyword1": "천부적 재능",
-  "keyword2": "신비",
-  "keyword3": "무관계",
-  "sentence": "주위의 환경을 아름답게 바꾸는 사람"
- },
- {
-  "month": "3월",
-  "day": "22일",
-  "birth_color": "#B464A0",
-  "name": "딥 모벳",
-  "keyword1": "품격",
-  "keyword2": "민감함",
-  "keyword3": "사양",
-  "sentence": "어디에서든 누구에게든 사랑받는 인기인"
- },
- {
-  "month": "3월",
-  "day": "23일",
-  "birth_color": "#745399",
-  "name": "에도 보라",
-  "keyword1": "안정",
-  "keyword2": "세련",
-  "keyword3": "예술적 재능",
-  "sentence": "결코 자만하지 않은 품격자"
- },
- {
-  "month": "3월",
-  "day": "24일",
-  "birth_color": "#934491",
-  "name": "맬로",
-  "keyword1": "직감적",
-  "keyword2": "고상",
-  "keyword3": "주관적",
-  "sentence": "마음의 친구를 원하는 로맨티스트"
- },
- {
-  "month": "3월",
-  "day": "25일",
-  "birth_color": "#B33E5C",
-  "name": "와인 레드",
-  "keyword1": "주인공의 품격",
-  "keyword2": "개성",
-  "keyword3": "자신",
-  "sentence": "직관력과 위엄으로 이름을 떨치는 예술가"
- },
- {
-  "month": "3월",
-  "day": "26일",
-  "birth_color": "#CAE2C6",
-  "name": "실버 그린",
-  "keyword1": "가능성",
-  "keyword2": "행동력",
-  "keyword3": "명석",
-  "sentence": "과감하게 몰두하는 노력가"
- },
- {
-  "month": "3월",
-  "day": "27일",
-  "birth_color": "#BEE0CE",
-  "name": "오팔 그린",
-  "keyword1": "미모",
-  "keyword2": "육성",
-  "keyword3": "자기표현",
-  "sentence": "꽃의 생명이 피듯 아름다운 사람"
- },
- {
-  "month": "3월",
-  "day": "28일",
-  "birth_color": "#A7D3CF",
-  "name": "페일 아쿠아",
-  "keyword1": "감사",
-  "keyword2": "교양",
-  "keyword3": "배려",
-  "sentence": "옆에서 신기한 향이 풍기는 사람"
- },
- {
-  "month": "3월",
-  "day": "29일",
-  "birth_color": "#A3D3DD",
-  "name": "스프레이 그린",
-  "keyword1": "겸허",
-  "keyword2": "착실함",
-  "keyword3": "전문적",
-  "sentence": "복잡한 문제도 간단하게 해결하는 사람"
- },
- {
-  "month": "3월",
-  "day": "30일",
-  "birth_color": "#49BDF0",
-  "name": "파스텔 블루",
-  "keyword1": "트렌드",
-  "keyword2": "정열과 안락함",
-  "sentence": "창작력을 기르는 로맨티스트"
- },
- {
-  "month": "3월",
-  "day": "31일",
-  "birth_color": "#ECE093",
-  "name": "스트로",
-  "keyword1": "격려",
-  "keyword2": "감동",
-  "keyword3": "환희와 비애",
-  "sentence": "자유롭게 행동하는 스포츠맨"
- },
- {
-  "month": "4월",
-  "day": "1일",
-  "birth_color": "#FDEFF2",
-  "name": "연벚꽃",
-  "keyword1": "세련",
-  "keyword2": "친구",
-  "keyword3": "미소",
-  "sentence": "행복한 분위기를 만드는 로맨티스트"
- },
- {
-  "month": "4월",
-  "day": "2일",
-  "birth_color": "#FBDAC8",
-  "name": "셸 핑크",
-  "keyword1": "시적 정서",
-  "keyword2": "두뇌명석",
-  "keyword3": "순수",
-  "sentence": "천재적감성을 갖춘 노력가"
- },
- {
-  "month": "4월",
-  "day": "3일",
-  "birth_color": "#F5A0BD",
-  "name": "푸크시아 핑크",
-  "keyword1": "배려",
-  "keyword2": "천진함",
-  "keyword3": "상상력",
-  "sentence": "트렌드를 읽는 감각이 뛰어난 사람"
- },
- {
-  "month": "4월",
-  "day": "4일",
-  "birth_color": "#E383A4",
-  "name": "딥 오키드 핑크",
-  "keyword1": "정서",
-  "keyword2": "사교적",
-  "keyword3": "목표",
-  "sentence": "따듯한 마음으로 가득한 사람"
- },
- {
-  "month": "4월",
-  "day": "5일",
-  "birth_color": "#84A2D4",
-  "name": "청등색",
-  "keyword1": "친교",
-  "keyword2": "정열",
-  "keyword3": "세련",
-  "sentence": "모든 것이 세련된 베스트 드레서"
- },
- {
-  "month": "4월",
-  "day": "6일",
-  "birth_color": "#68A9CF",
-  "name": "초크 블루",
-  "keyword1": "천진함",
-  "keyword2": "맑은 시선",
-  "keyword3": "세련",
-  "sentence": "현실에서 유리된 아름다움을 추구하는 사람"
- },
- {
-  "month": "4월",
-  "day": "7일",
-  "birth_color": "#F1F5DC",
-  "name": "흰백합",
-  "keyword1": "다재",
-  "keyword2": "내향성",
-  "keyword3": "창의적",
-  "sentence": "흥미를 품고 다양한 시도를 하는 노력가"
- },
- {
-  "month": "4월",
-  "day": "8일",
-  "birth_color": "#69B076",
-  "name": "연두색",
-  "keyword1": "희망",
-  "keyword2": "용의주도",
-  "keyword3": "경애",
-  "sentence": "따스한 존재감을 풍기는 사람"
- },
- {
-  "month": "4월",
-  "day": "9일",
-  "birth_color": "#FBCA4D",
-  "name": "치자색",
-  "keyword1": "스포츠",
-  "keyword2": "유려한 동작",
-  "sentence": "상황에 맞춰 정확하게 행동하는 사람"
- },
- {
-  "month": "4월",
-  "day": "10일",
-  "birth_color": "#E5A323",
-  "name": "펌킨",
-  "keyword1": "맑은 눈",
-  "keyword2": "청순",
-  "keyword3": "치밀",
-  "sentence": "젊은 세대의 감성이 뛰어난 선구자"
- },
- {
-  "month": "4월",
-  "day": "11일",
-  "birth_color": "#ECDECF",
-  "name": "찐밤색",
-  "keyword1": "노력가",
-  "keyword2": "현실주의",
-  "keyword3": "양기",
-  "sentence": "세상일에 정통한 견실한 장인형"
- },
- {
-  "month": "4월",
-  "day": "12일",
-  "birth_color": "#A29779",
-  "name": "리큐 담갈색",
-  "keyword1": "전통",
-  "keyword2": "기교",
-  "keyword3": "주장",
-  "sentence": "전통을 중시하는 비기를 소지한 자신가"
- },
- {
-  "month": "4월",
-  "day": "13일",
-  "birth_color": "#E8ECE9",
-  "name": "프로스티 그레이",
-  "keyword1": "낙관적",
-  "keyword2": "밝음",
-  "keyword3": "철학적",
-  "sentence": "풍부한 생활경험이 있는 유머러스한 사람"
- },
- {
-  "month": "4월",
-  "day": "14일",
-  "birth_color": "#949495",
-  "name": "회색",
-  "keyword1": "미모",
-  "keyword2": "낭창함",
-  "keyword3": "배려",
-  "sentence": "사람의 영혼을 매료시키는 선녀 같은 사람"
- },
- {
-  "month": "4월",
-  "day": "15일",
-  "birth_color": "#D5DAD4",
-  "name": "페일 미스트 화이트",
-  "keyword1": "중립",
-  "keyword2": "보수적",
-  "keyword3": "전통",
-  "sentence": "의리와 인정이 두터운 정의감 넘치는 사람"
- },
- {
-  "month": "4월",
-  "day": "16일",
-  "birth_color": "#CBD0D3",
-  "name": "스카이 그레이",
-  "keyword1": "온건",
-  "keyword2": "쾌할",
-  "keyword3": "겸손",
-  "sentence": "일을 요령있게 해내는 온건파"
- },
- {
-  "month": "4월",
-  "day": "17일",
-  "birth_color": "#898989",
-  "name": "배틀쉽 그레이",
-  "keyword1": "올곧음",
-  "keyword2": "책임감",
-  "keyword3": "객관적",
-  "sentence": "어떤 장애에도 동요하지 않은 견실한 사람"
- },
- {
-  "month": "4월",
-  "day": "18일",
-  "birth_color": "#626063",
-  "name": "슬레이트 그레이",
-  "keyword1": "재치",
-  "keyword2": "긍지",
-  "keyword3": "양심",
-  "sentence": "기쁨을 얻기 위해 맹진하는 행동파"
- },
- {
-  "month": "4월",
-  "day": "19일",
-  "birth_color": "#524E4D",
-  "name": "소탄색",
-  "keyword1": "엄숙",
-  "keyword2": "성실",
-  "keyword3": "기량",
-  "sentence": "동찰력과 기량을 같이 겸비한 사람"
- },
- {
-  "month": "4월",
-  "day": "20일",
-  "birth_color": "#C7DC68",
-  "name": "어린묘목색",
-  "keyword1": "규율",
-  "keyword2": "말투",
-  "keyword3": "애정",
-  "sentence": "맑고 빛나는 감성의 소유자"
- },
- {
-  "month": "4월",
-  "day": "21일",
-  "birth_color": "#D8E698",
-  "name": "어린나물색",
-  "keyword1": "온후",
-  "keyword2": "성의",
-  "keyword3": "감상적",
-  "sentence": "항상 솔직한 자세로 임하는 사람"
- },
- {
-  "month": "4월",
-  "day": "22일",
-  "birth_color": "#2AA74B",
-  "name": "앵록",
-  "keyword1": "리더십",
-  "keyword2": "지도자",
-  "sentence": "일하는 것을 좋아하는 사람"
- },
- {
-  "month": "4월",
-  "day": "23일",
-  "birth_color": "#88CB9D",
-  "name": "갈대잎색",
-  "keyword1": "조화",
-  "keyword2": "순응",
-  "keyword3": "인간관계",
-  "sentence": "사회의 신용을 모으는 착실한 사람"
- },
- {
-  "month": "4월",
-  "day": "24일",
-  "birth_color": "#A3D49C",
-  "name": "스프라우트",
-  "keyword1": "우아",
-  "keyword2": "상냥함",
-  "keyword3": "문학",
-  "sentence": "문학에 이끌리느 상냥한 사람"
- },
- {
-  "month": "4월",
-  "day": "25일",
-  "birth_color": "#79C288",
-  "name": "에르브",
-  "keyword1": "섬세",
-  "keyword2": "스포츠",
-  "keyword3": "시간",
-  "sentence": "일에 보람을 느끼는 도전자"
- },
- {
-  "month": "4월",
-  "day": "26일",
-  "birth_color": "#73C266",
-  "name": "딥 피 그린",
-  "keyword1": "향상심",
-  "keyword2": "봉사",
-  "keyword3": "완성",
-  "sentence": "재능을 갈고 닦는 것을 잊지 않는 노력가"
- },
- {
-  "month": "4월",
-  "day": "27일",
-  "birth_color": "#00A968",
-  "name": "에메랄드 그린",
-  "keyword1": "인생",
-  "keyword2": "경험",
-  "keyword3": "단련",
-  "sentence": "꿈을 향해 도전하는 사람"
- },
- {
-  "month": "4월",
-  "day": "28일",
-  "birth_color": "#00947A",
-  "name": "터콰이즈 그린",
-  "keyword1": "성숙",
-  "keyword2": "밸런스",
-  "keyword3": "창의",
-  "sentence": "다양한 계획을 만들어내는 아이디어맨"
- },
- {
-  "month": "4월",
-  "day": "29일",
-  "birth_color": "#00A6AF",
-  "name": "연옥색",
-  "keyword1": "천진함",
-  "keyword2": "신비성",
-  "keyword3": "치유",
-  "sentence": "천진한 마음의 소유자"
- },
- {
-  "month": "4월",
-  "day": "30일",
-  "birth_color": "#00B2BC",
-  "name": "애저 블루",
-  "keyword1": "협조",
-  "keyword2": "행동",
-  "keyword3": "성장",
-  "sentence": "성장하는 사람"
- },
- {
-  "month": "5월",
-  "day": "1일",
-  "birth_color": "#009B9F",
-  "name": "터콰이즈",
-  "keyword1": "기민",
-  "keyword2": "서정성",
-  "sentence": "누구에게나 사랑받는 인기인"
- },
- {
-  "month": "5월",
-  "day": "2일",
-  "birth_color": "#009854",
-  "name": "말라카이트 그린",
-  "keyword1": "정열적",
-  "keyword2": "유머러스",
-  "keyword3": "정숙",
-  "sentence": "사교적이지만 선동을 싫어하는 자연파"
- },
- {
-  "month": "5월",
-  "day": "3일",
-  "birth_color": "#01686D",
-  "name": "틸 그린",
-  "keyword1": "대지",
-  "keyword2": "정서적",
-  "keyword3": "목가적",
-  "sentence": "맑은 시냇가를 동경하는 목가적인 사람"
- },
- {
-  "month": "5월",
-  "day": "4일",
-  "birth_color": "#014127",
-  "name": "쇠오리색",
-  "keyword1": "재생능력",
-  "keyword2": "경영력",
-  "keyword3": "쇄신력",
-  "sentence": "정정당당한 키퍼슨"
- },
- {
-  "month": "5월",
-  "day": "5일",
-  "birth_color": "#BCE2E8",
-  "name": "물색",
-  "keyword1": "분방",
-  "keyword2": "동찰",
-  "keyword3": "주역",
-  "sentence": "이념을 구현화할 수 있는 예술가"
- },
- {
-  "month": "5월",
-  "day": "6일",
-  "birth_color": "#70C6F5",
-  "name": "포겟-미-낫 블루",
-  "keyword1": "직관",
-  "keyword2": "상냥함",
-  "keyword3": "아이디어",
-  "sentence": "재능을 발휘하는 여성스러운 사람"
- },
- {
-  "month": "5월",
-  "day": "7일",
-  "birth_color": "#4C6CB3",
-  "name": "군청색",
-  "keyword1": "사려깊음",
-  "keyword2": "규율",
-  "keyword3": "낭창함",
-  "sentence": "칭찬을 받는 마돈나"
- },
- {
-  "month": "5월",
-  "day": "8일",
-  "birth_color": "#316745",
-  "name": "천세록",
-  "keyword1": "정중",
-  "keyword2": "인내",
-  "keyword3": "겸손",
-  "sentence": "숙고하고 발언하는 신중파"
- },
- {
-  "month": "5월",
-  "day": "9일",
-  "birth_color": "#2CB232",
-  "name": "패러킷 그린",
-  "keyword1": "조화",
-  "keyword2": "밸런스",
-  "sentence": "조화와 밸런스를 갖춘 행동파"
- },
- {
-  "month": "5월",
-  "day": "10일",
-  "birth_color": "#F5F6CA",
-  "name": "에그셸",
-  "keyword1": "소녀",
-  "keyword2": "감상적",
-  "keyword3": "관대",
-  "sentence": "장난스런 사랑에 빠지지 않는 야무진 사람"
- },
- {
-  "month": "5월",
-  "day": "11일",
-  "birth_color": "#D1DE4C",
-  "name": "레터스 그린",
-  "keyword1": "도전",
-  "keyword2": "수다쟁이",
-  "sentence": "실패를 각오하고 새로운 일에 도전하는 사람"
- },
- {
-  "month": "5월",
-  "day": "12일",
-  "birth_color": "#E3E548",
-  "name": "샤르트뢰즈 옐로",
-  "keyword1": "미식가",
-  "keyword2": "사교적",
-  "keyword3": "전원적",
-  "sentence": "성실한 인품과 사교성을 겸비한 사람"
- },
- {
-  "month": "5월",
-  "day": "13일",
-  "birth_color": "#E4DC8A",
-  "name": "마른풀색",
-  "keyword1": "이해력",
-  "keyword2": "아이디어",
-  "sentence": "자신의 생각을 정확하게 말할 수 있는 사람"
- },
- {
-  "month": "5월",
-  "day": "14일",
-  "birth_color": "#72640C",
-  "name": "올리브",
-  "keyword1": "자연",
-  "keyword2": "상냥함",
-  "sentence": "꽃이나 풀을 키우는 기쁨을 아는 자연애호가"
- },
- {
-  "month": "5월",
-  "day": "15일",
-  "birth_color": "#D0C67C",
-  "name": "콜로니얼 옐로",
-  "keyword1": "양심",
-  "keyword2": "향상심",
-  "keyword3": "체계화",
-  "sentence": "항상 지식을 모으는 향상심으로 가득찬 사람"
- },
- {
-  "month": "5월",
-  "day": "16일",
-  "birth_color": "#A49627",
-  "name": "페일 머스터드",
-  "keyword1": "올곧음",
-  "keyword2": "세심",
-  "keyword3": "강한마음",
-  "sentence": "견실하고 완고한 기질의 명인 타입"
- },
- {
-  "month": "5월",
-  "day": "17일",
-  "birth_color": "#8D6F2F",
-  "name": "골든 오커",
-  "keyword1": "명민",
-  "keyword2": "뛰어남",
-  "keyword3": "동찰",
-  "sentence": "자신의 생각을 굽히지 않는 완고한 사람"
- },
- {
-  "month": "5월",
-  "day": "18일",
-  "birth_color": "#464646",
-  "name": "올리브차",
-  "keyword1": "정확한발언",
-  "keyword2": "학식",
-  "keyword3": "보수",
-  "sentence": "지식이 풍부한 온건파"
- },
- {
-  "month": "5월",
-  "day": "19일",
-  "birth_color": "#494A41",
-  "name": "천세차",
-  "keyword1": "중립",
-  "keyword2": "공평",
-  "keyword3": "밸런스",
-  "sentence": "어떤 문제도 대응하는 뛰어난 사람"
- },
- {
-  "month": "5월",
-  "day": "20일",
-  "birth_color": "#8CCAB0",
-  "name": "딥 아쿠아",
-  "keyword1": "감상적",
-  "keyword2": "아름다운 용모",
-  "sentence": "센티멘탈한 행복의 여신"
- },
- {
-  "month": "5월",
-  "day": "21일",
-  "birth_color": "#47885E",
-  "name": "녹상색",
-  "keyword1": "두뇌명석",
-  "keyword2": "기교",
-  "keyword3": "적응",
-  "sentence": "항상 자극과 감동을 추구하는 긍정적인 사람"
- },
- {
-  "month": "5월",
-  "day": "22일",
-  "birth_color": "#036122",
-  "name": "스프루스 그린",
-  "keyword1": "정직",
-  "keyword2": "성실",
-  "keyword3": "밸런스",
-  "sentence": "대가없는 사랑으로 넘치는 인정많은 사람"
- },
- {
-  "month": "5월",
-  "day": "23일",
-  "birth_color": "#034415",
-  "name": "보틀 그린",
-  "keyword1": "자연",
-  "keyword2": "개성",
-  "keyword3": "관용",
-  "sentence": "낭랑하고 남을 꾸짖지 않는 마음 넓은 사람"
- },
- {
-  "month": "5월",
-  "day": "24일",
-  "birth_color": "#264939",
-  "name": "사이프러스 그린",
-  "keyword1": "조화",
-  "keyword2": "배려",
-  "keyword3": "정리",
-  "sentence": "모두에게서 신뢰받는 누님 타입"
- },
- {
-  "month": "5월",
-  "day": "25일",
-  "birth_color": "#FACE9D",
-  "name": "네이플스 옐로",
-  "keyword1": "낭랑함",
-  "keyword2": "순조로움",
-  "sentence": "남을 잘 돌보며 사랑받는 인기인"
- },
- {
-  "month": "5월",
-  "day": "26일",
-  "birth_color": "#F9CC77",
-  "name": "메리골드 옐로",
-  "keyword1": "생명력",
-  "keyword2": "정서적",
-  "keyword3": "정열",
-  "sentence": "태양 같은 밝고 건강미 넘치는 미인"
- },
- {
-  "month": "5월",
-  "day": "27일",
-  "birth_color": "#F8B500",
-  "name": "황매화색",
-  "keyword1": "씩씩함",
-  "keyword2": "영지",
-  "keyword3": "해방",
-  "sentence": "밝고 온화하며, 자유를 사랑하는 사람"
- },
- {
-  "month": "5월",
-  "day": "28일",
-  "birth_color": "#B36029",
-  "name": "올드 골드",
-  "keyword1": "전통계승",
-  "keyword2": "관찰력",
-  "sentence": "일을 즐길 줄 아는 야무진 사람"
- },
- {
-  "month": "5월",
-  "day": "29일",
-  "birth_color": "#7A5347",
-  "name": "커피 브라운",
-  "keyword1": "규율",
-  "keyword2": "모범",
-  "keyword3": "자신",
-  "sentence": "항상 위를 노릴 수 있는 기량을 갖춘 사람"
- },
- {
-  "month": "5월",
-  "day": "30일",
-  "birth_color": "#E8D3D1",
-  "name": "회벚꽃",
-  "keyword1": "로맨티스트",
-  "keyword2": "지식",
-  "sentence": "우아하고 세련된 윤곽의 소유자"
- },
- {
-  "month": "5월",
-  "day": "31일",
-  "birth_color": "#F0908D",
-  "name": "연분홍",
-  "keyword1": "교양",
-  "keyword2": "숭고",
-  "keyword3": "재원",
-  "sentence": "일을 착착 처리하는 능력자"
- },
- {
-  "month": "6월",
-  "day": "1일",
-  "birth_color": "#BEA2CA",
-  "name": "페일 크로커스",
-  "keyword1": "여성스러움",
-  "keyword2": "자만",
-  "sentence": "품위를 갖춘 여성 중의 여성"
- },
- {
-  "month": "6월",
-  "day": "2일",
-  "birth_color": "#7058A3",
-  "name": "제비꽃색",
-  "keyword1": "변덕",
-  "keyword2": "매력적",
-  "sentence": "결코 아양떨지 않는 품격 높은 여성"
- },
- {
-  "month": "6월",
-  "day": "3일",
-  "birth_color": "#5C1767",
-  "name": "플루플루",
-  "keyword1": "느긋함",
-  "keyword2": "진리",
-  "keyword3": "고독",
-  "sentence": "항상 밸런스를 명심하는 사람"
- },
- {
-  "month": "6월",
-  "day": "4일",
-  "birth_color": "#F7F7D9",
-  "name": "페일 화이트 릴리",
-  "keyword1": "천진함",
-  "keyword2": "풍부한 재능",
-  "keyword3": "자극",
-  "sentence": "어릴 때로 되돌아가고 싶은 순진한 마음의 소유자"
- },
- {
-  "month": "6월",
-  "day": "5일",
-  "birth_color": "#DDEAB2",
-  "name": "페일 프레쉬 그린",
-  "keyword1": "규칙적",
-  "keyword2": "역경에 강함",
-  "sentence": "리듬감 있는 생활을 즐기는 사람"
- },
- {
-  "month": "6월",
-  "day": "6일",
-  "birth_color": "#E0DE94",
-  "name": "멜론 옐로",
-  "keyword1": "인도주의",
-  "keyword2": "서비스정신",
-  "sentence": "인간관계를 소중히 하는 평온한 사람"
- },
- {
-  "month": "6월",
-  "day": "7일",
-  "birth_color": "#657D61",
-  "name": "엘름 그린",
-  "keyword1": "청렴결백",
-  "keyword2": "정신력",
-  "sentence": "커뮤니케이션이 특기인 국제파"
- },
- {
-  "month": "6월",
-  "day": "8일",
-  "birth_color": "#665A1A",
-  "name": "올리브 드랩",
-  "keyword1": "애정",
-  "keyword2": "밸런스",
-  "keyword3": "뛰어난 어학",
-  "sentence": "타인의 의견이나 행동에 관용적인 사람"
- },
- {
-  "month": "6월",
-  "day": "9일",
-  "birth_color": "#FFF8A8",
-  "name": "크림",
-  "keyword1": "몸가짐",
-  "keyword2": "세련",
-  "keyword3": "품격",
-  "sentence": "용모가 주위의 주목을 모으는 품격있는 사람"
- },
- {
-  "month": "6월",
-  "day": "10일",
-  "birth_color": "#FFF352",
-  "name": "레몬 옐로",
-  "keyword1": "밝음",
-  "keyword2": "현실",
-  "keyword3": "경영력",
-  "sentence": "밝고 주위를 기운 나게 하는 자신가"
- },
- {
-  "month": "6월",
-  "day": "11일",
-  "birth_color": "#F6D700",
-  "name": "노란 수선화",
-  "keyword1": "학문",
-  "keyword2": "연구개발",
-  "keyword3": "기획력",
-  "sentence": "가장 앞에서 연구를 즐기는 정열가"
- },
- {
-  "month": "6월",
-  "day": "12일",
-  "birth_color": "#FAC559",
-  "name": "사프란 옐로",
-  "keyword1": "체력",
-  "keyword2": "용모수려",
-  "sentence": "밸런스 있는 식사를 즐기는 사람"
- },
- {
-  "month": "6월",
-  "day": "13일",
-  "birth_color": "#FCC800",
-  "name": "해바라기색",
-  "keyword1": "수다쟁이",
-  "keyword2": "건강함",
-  "keyword3": "향상심",
-  "sentence": "희망에 가슴이 부푼 밝은 사람"
- },
- {
-  "month": "6월",
-  "day": "14일",
-  "birth_color": "#F8F4E6",
-  "name": "아이보리",
-  "keyword1": "신뢰",
-  "keyword2": "성실",
-  "keyword3": "보수적",
-  "sentence": "중간입장에 서는 신중한 사람"
- },
- {
-  "month": "6월",
-  "day": "15일",
-  "birth_color": "#F7B894",
-  "name": "라이트 애프리콧",
-  "keyword1": "인내심 강함",
-  "keyword2": "맹돌진",
-  "sentence": "철저한 성실성이 장점인 사람"
- },
- {
-  "month": "6월",
-  "day": "16일",
-  "birth_color": "#C39143",
-  "name": "황토색",
-  "keyword1": "평가",
-  "keyword2": "끈기있음",
-  "sentence": "노력으로 목표를 달성하는 노력형"
- },
- {
-  "month": "6월",
-  "day": "17일",
-  "birth_color": "#E29399",
-  "name": "올드 로즈",
-  "keyword1": "정신적 안정",
-  "keyword2": "일이 취미",
-  "sentence": "경험을 지식과 기술로 갖춘 사람"
- },
- {
-  "month": "6월",
-  "day": "18일",
-  "birth_color": "#724943",
-  "name": "마호가니 브라운",
-  "keyword1": "자신",
-  "keyword2": "침착함",
-  "keyword3": "자연",
-  "sentence": "유머 센스가 넘치는 견실한 사람"
- },
- {
-  "month": "6월",
-  "day": "19일",
-  "birth_color": "#FCD575",
-  "name": "달걀색",
-  "keyword1": "스포츠",
-  "keyword2": "건강",
-  "keyword3": "조직",
-  "sentence": "스포츠를 좋아하는 노력가"
- },
- {
-  "month": "6월",
-  "day": "20일",
-  "birth_color": "#F19D45",
-  "name": "선라이트 옐로",
-  "keyword1": "사교적",
-  "keyword2": "친구",
-  "keyword3": "에너지",
-  "sentence": "항생 행동으로 선도하는 모범생"
- },
- {
-  "month": "6월",
-  "day": "21일",
-  "birth_color": "#F39800",
-  "name": "금차",
-  "keyword1": "예술",
-  "keyword2": "스포츠",
-  "keyword3": "미식가",
-  "sentence": "요리도구도 따지는 미식가"
- },
- {
-  "month": "6월",
-  "day": "22일",
-  "birth_color": "#973B2C",
-  "name": "가넷 브라운",
-  "keyword1": "에너지",
-  "keyword2": "무아",
-  "keyword3": "수다쟁이",
-  "sentence": "사람을 좋아하고 애교 많은 발랄한 사람"
- },
- {
-  "month": "6월",
-  "day": "23일",
-  "birth_color": "#773C30",
-  "name": "적갈색",
-  "keyword1": "희망",
-  "keyword2": "향상심",
-  "keyword3": "지도력",
-  "sentence": "인생경험으로 원숙하고 관대한 사람"
- },
- {
-  "month": "6월",
-  "day": "24일",
-  "birth_color": "#F9BDC5",
-  "name": "라이트 오키드 핑크",
-  "keyword1": "미소",
-  "keyword2": "상냥함",
-  "keyword3": "영원",
-  "sentence": "요정처럼 기품 넘치는 사람"
- },
- {
-  "month": "6월",
-  "day": "25일",
-  "birth_color": "#E1849E",
-  "name": "페일 체리 핑크",
-  "keyword1": "용기",
-  "keyword2": "우아",
-  "keyword3": "안락함",
-  "sentence": "타인의 마음을 사로잡는 신중한 사람"
- },
- {
-  "month": "6월",
-  "day": "26일",
-  "birth_color": "#EB5381",
-  "name": "카네이션 핑크",
-  "keyword1": "낯 안가림",
-  "keyword2": "숭고",
-  "sentence": "호의적이고 타인에게 사랑받는 영원한 연인"
- },
- {
-  "month": "6월",
-  "day": "27일",
-  "birth_color": "#F19CA7",
-  "name": "로즈 핑크",
-  "keyword1": "격한 감정",
-  "keyword2": "외교적",
-  "sentence": "타인이 감격할 찬스를 주는 정열가"
- },
- {
-  "month": "6월",
-  "day": "28일",
-  "birth_color": "#CF0141",
-  "name": "페퍼 레드",
-  "keyword1": "에너지",
-  "keyword2": "맑은 마음",
-  "sentence": "긍정적인 마음가짐으로 사람들에게서 존경받는 재인"
- },
- {
-  "month": "6월",
-  "day": "29일",
-  "birth_color": "#BBE2F1",
-  "name": "베이비 블루",
-  "keyword1": "평화",
-  "keyword2": "정온",
-  "keyword3": "사려깊음",
-  "sentence": "타인의 요구에 곧바로 대응하는 사람"
- },
- {
-  "month": "6월",
-  "day": "30일",
-  "birth_color": "#5383C3",
-  "name": "박군청",
-  "keyword1": "개성",
-  "keyword2": "이상",
-  "keyword3": "향상심",
-  "sentence": "주위를 사로잡는 매력의 소유자"
- },
- {
-  "month": "7월",
-  "day": "1일",
-  "birth_color": "#007199",
-  "name": "덕 블루",
-  "keyword1": "평화",
-  "keyword2": "공상",
-  "keyword3": "환경문제",
-  "sentence": "지구를 생명이라 생각하는 환경론자"
- },
- {
-  "month": "7월",
-  "day": "2일",
-  "birth_color": "#0068B7",
-  "name": "코발트 블루",
-  "keyword1": "재주좋음",
-  "keyword2": "섬세",
-  "sentence": "감성 풍부한 세련된 도시파"
- },
- {
-  "month": "7월",
-  "day": "3일",
-  "birth_color": "#003F8E",
-  "name": "잉크 블루",
-  "keyword1": "기품",
-  "keyword2": "견디는 자",
-  "keyword3": "자신",
-  "sentence": "타인이 부러워할 정도의 자신가"
- },
- {
-  "month": "7월",
-  "day": "4일",
-  "birth_color": "#3FB5D3",
-  "name": "아쿠아",
-  "keyword1": "정온",
-  "keyword2": "숭고",
-  "keyword3": "자기발전",
-  "sentence": "정신상태를 컨트롤 할 수 있는 사람"
- },
- {
-  "month": "7월",
-  "day": "5일",
-  "birth_color": "#4593A0",
-  "name": "페일 색소폰 블루",
-  "keyword1": "감성",
-  "keyword2": "자유",
-  "keyword3": "감춰진 정열",
-  "sentence": "애정으로 가득한 조용한 성격의 사람"
- },
- {
-  "month": "7월",
-  "day": "6일",
-  "birth_color": "#59B9C6",
-  "name": "신바시색",
-  "keyword1": "상황판단",
-  "keyword2": "결정력",
-  "keyword3": "신념",
-  "sentence": "긍정적이며 일도 생활도 즐기는 사람"
- },
- {
-  "month": "7월",
-  "day": "7일",
-  "birth_color": "#016171",
-  "name": "블루 카나드",
-  "keyword1": "총명",
-  "keyword2": "대망",
-  "keyword3": "찬스",
-  "sentence": "하나를 들으면 열을 아는 재주 많은 사람"
- },
- {
-  "month": "7월",
-  "day": "8일",
-  "birth_color": "#006888",
-  "name": "마린 블루",
-  "keyword1": "다재",
-  "keyword2": "노력",
-  "keyword3": "침착함",
-  "sentence": "노력으로 진리를 추구하는 정열가"
- },
- {
-  "month": "7월",
-  "day": "9일",
-  "birth_color": "#F7F6F5",
-  "name": "펄 화이트",
-  "keyword1": "비밀",
-  "keyword2": "고독",
-  "keyword3": "정의감",
-  "sentence": "타인이 기대는 걸 좋아하는 고결한 사람"
- },
- {
-  "month": "7월",
-  "day": "10일",
-  "birth_color": "#608FC3",
-  "name": "페일 파스텔 블루",
-  "keyword1": "상냥함",
-  "keyword2": "감미",
-  "keyword3": "겸허",
-  "sentence": "여성의 아름다움을 상징하는 사람"
- },
- {
-  "month": "7월",
-  "day": "11일",
-  "birth_color": "#5371AD",
-  "name": "라벤더 블루",
-  "keyword1": "예의",
-  "keyword2": "심미안",
-  "keyword3": "색채감",
-  "sentence": "사람을 매혹하는 매력의 소유자"
- },
- {
-  "month": "7월",
-  "day": "12일",
-  "birth_color": "#044182",
-  "name": "마죠리카 블루",
-  "keyword1": "교양",
-  "keyword2": "품격높음",
-  "keyword3": "행복한 미래",
-  "sentence": "진리를 추구하는 사람들의 지도자"
- },
- {
-  "month": "7월",
-  "day": "13일",
-  "birth_color": "#192F60",
-  "name": "감청",
-  "keyword1": "자존심",
-  "keyword2": "공의로움",
-  "keyword3": "직관력",
-  "sentence": "불행한 사람을 지나치지 않는 자비로운 사람"
- },
- {
-  "month": "7월",
-  "day": "14일",
-  "birth_color": "#FDEDE4",
-  "name": "딥 베이비 핑크",
-  "keyword1": "감성",
-  "keyword2": "진심",
-  "keyword3": "따듯함",
-  "sentence": "일도 생활도 즐기는 긍정적인 사람"
- },
- {
-  "month": "7월",
-  "day": "15일",
-  "birth_color": "#B370A6",
-  "name": "페일 모벳",
-  "keyword1": "섬세",
-  "keyword2": "암시",
-  "keyword3": "신중함",
-  "sentence": "귀여운 것에 끌리는 아름다운 사람"
- },
- {
-  "month": "7월",
-  "day": "16일",
-  "birth_color": "#94ADDA",
-  "name": "파운틴 블루",
-  "keyword1": "춤과음악",
-  "keyword2": "자유",
-  "keyword3": "개성",
-  "sentence": "자유분방한 생활을 바라는 사람"
- },
- {
-  "month": "7월",
-  "day": "17일",
-  "birth_color": "#6B76AE",
-  "name": "샐비어 블루",
-  "keyword1": "경영력",
-  "keyword2": "세련",
-  "keyword3": "재치",
-  "sentence": "길을 갈고 닦기 위해 존재하는 여성"
- },
- {
-  "month": "7월",
-  "day": "18일",
-  "birth_color": "#7F1184",
-  "name": "로얄 퍼플",
-  "keyword1": "지성",
-  "keyword2": "신비성",
-  "keyword3": "향",
-  "sentence": "도와준 사람을 모두 성공으로 이끄는 사람"
- },
- {
-  "month": "7월",
-  "day": "19일",
-  "birth_color": "#F7A7A0",
-  "name": "딥 셸 핑크",
-  "keyword1": "섬세",
-  "keyword2": "즐거움",
-  "keyword3": "따듯함",
-  "sentence": "언제나 신중하고 변하지 않는 사랑의 소유자"
- },
- {
-  "month": "7월",
-  "day": "20일",
-  "birth_color": "#E49E61",
-  "name": "밀색",
-  "keyword1": "배려",
-  "keyword2": "공상",
-  "keyword3": "감수성",
-  "sentence": "우아함의 축복을 받은 요정 같은 여성"
- },
- {
-  "month": "7월",
-  "day": "21일",
-  "birth_color": "#C56950",
-  "name": "하바나 로즈",
-  "keyword1": "그윽함",
-  "keyword2": "약동",
-  "keyword3": "모성",
-  "sentence": "아름답고 예의바른 사람"
- },
- {
-  "month": "7월",
-  "day": "22일",
-  "birth_color": "#B94047",
-  "name": "연지",
-  "keyword1": "기지",
-  "keyword2": "향상심",
-  "keyword3": "탄력적",
-  "sentence": "자신의 역량을 깨닫고 갈고 닦는 사람"
- },
- {
-  "month": "7월",
-  "day": "23일",
-  "birth_color": "#B7282E",
-  "name": "꼭두서니색",
-  "keyword1": "엄격",
-  "keyword2": "가능성",
-  "keyword3": "적극성",
-  "sentence": "세계적 시야를 가진 온건파"
- },
- {
-  "month": "7월",
-  "day": "24일",
-  "birth_color": "#F5949F",
-  "name": "큐피드 핑크",
-  "keyword1": "미소",
-  "keyword2": "양식",
-  "keyword3": "소질",
-  "sentence": "자연스러운 색기로 도취시키는 미인"
- },
- {
-  "month": "7월",
-  "day": "25일",
-  "birth_color": "#DE82A7",
-  "name": "로터스 핑크",
-  "keyword1": "영구불변",
-  "keyword2": "헌신과 저항",
-  "sentence": "기품 있는 정신의 소유자"
- },
- {
-  "month": "7월",
-  "day": "26일",
-  "birth_color": "#AF363B",
-  "name": "로즈 매더",
-  "keyword1": "경애",
-  "keyword2": "우아",
-  "keyword3": "유머러스",
-  "sentence": "마음에 울리는 언동으로 감동시키는 정열가"
- },
- {
-  "month": "7월",
-  "day": "27일",
-  "birth_color": "#8D3446",
-  "name": "크림슨",
-  "keyword1": "경험",
-  "keyword2": "재능",
-  "keyword3": "행동력",
-  "sentence": "여성스러운 성숙이 혼재한 다감한 사람"
- },
- {
-  "month": "7월",
-  "day": "28일",
-  "birth_color": "#404040",
-  "name": "먹감나무색",
-  "keyword1": "유머러스",
-  "keyword2": "섬세",
-  "keyword3": "영지",
-  "sentence": "이상과 세련덴 정신의 정열가"
- },
- {
-  "month": "7월",
-  "day": "29일",
-  "birth_color": "#008DB7",
-  "name": "세루리언 블루",
-  "keyword1": "성실",
-  "keyword2": "영감",
-  "keyword3": "배려",
-  "sentence": "진심으로 사람을 대하는 상냥한 사람"
- },
- {
-  "month": "7월",
-  "day": "30일",
-  "birth_color": "#009E9F",
-  "name": "피콕 블루",
-  "keyword1": "깊은애정",
-  "keyword2": "조화",
-  "keyword3": "우정",
-  "sentence": "자신을 알고 갈고 닦는 사람"
- },
- {
-  "month": "7월",
-  "day": "31일",
-  "birth_color": "#044D78",
-  "name": "페르시안 블루",
-  "keyword1": "신비적",
-  "keyword2": "쿨함",
-  "keyword3": "밝음",
-  "sentence": "표정에 드러내지 않고 속으로 감동하는 사람"
- },
- {
-  "month": "8월",
-  "day": "1일",
-  "birth_color": "#438CB5",
-  "name": "블루 셸",
-  "keyword1": "사교적",
-  "keyword2": "참을성",
-  "keyword3": "성실",
-  "sentence": "모두에게 성실한 사교적인 사람"
- },
- {
-  "month": "8월",
-  "day": "2일",
-  "birth_color": "#0098D4",
-  "name": "피어 요트 블루",
-  "keyword1": "지능",
-  "keyword2": "책임",
-  "keyword3": "스피디",
-  "sentence": "내향적이고 격식을 중요시하는 보수주의자"
- },
- {
-  "month": "8월",
-  "day": "3일",
-  "birth_color": "#409ECC",
-  "name": "요트 블루",
-  "keyword1": "근엄",
-  "keyword2": "완벽주의",
-  "keyword3": "인맥",
-  "sentence": "사람을 마음 깊은 곳에서 믿는 믿음직한 사람"
- },
- {
-  "month": "8월",
-  "day": "4일",
-  "birth_color": "#0063A7",
-  "name": "시안 블루",
-  "keyword1": "기품있음",
-  "keyword2": "품격",
-  "keyword3": "정점",
-  "sentence": "끈기 있고 곤란한 상황에도 맞서는 인내심 있는 사람"
- },
- {
-  "month": "8월",
-  "day": "5일",
-  "birth_color": "#1E50A2",
-  "name": "유리색",
-  "keyword1": "온화함",
-  "keyword2": "신뢰",
-  "keyword3": "존경",
-  "sentence": "사람들에게 사랑받고 존경받는 사람"
- },
- {
-  "month": "8월",
-  "day": "6일",
-  "birth_color": "#004C97",
-  "name": "라피스 라줄리",
-  "keyword1": "조예",
-  "keyword2": "교양",
-  "sentence": "배려 넘치는 지적인 사람"
- },
- {
-  "month": "8월",
-  "day": "7일",
-  "birth_color": "#02428C",
-  "name": "로얄 블루",
-  "keyword1": "매력적",
-  "keyword2": "재치",
-  "sentence": "지식을 추구하여 달려가는 탐색가"
- },
- {
-  "month": "8월",
-  "day": "8일",
-  "birth_color": "#164A84",
-  "name": "감유리",
-  "keyword1": "직관",
-  "keyword2": "소박",
-  "keyword3": "승부",
-  "sentence": "직관의 저 너머를 바라보는 사람"
- },
- {
-  "month": "8월",
-  "day": "9일",
-  "birth_color": "#202F55",
-  "name": "네이비 블루",
-  "keyword1": "지적",
-  "keyword2": "문화",
-  "keyword3": "세련",
-  "sentence": "질 나쁜 것을 싫어하는 로맨티스트"
- },
- {
-  "month": "8월",
-  "day": "10일",
-  "birth_color": "#3F61A1",
-  "name": "하이드렌지아 블루",
-  "keyword1": "예술",
-  "keyword2": "재능",
-  "keyword3": "표현력",
-  "sentence": "감성을 갈고 닦아 아릅답게 나타내는 예술가"
- },
- {
-  "month": "8월",
-  "day": "11일",
-  "birth_color": "#55295B",
-  "name": "오디색",
-  "keyword1": "직관",
-  "keyword2": "신념",
-  "keyword3": "종교",
-  "sentence": "정신세계를 느끼기 쉬운 신비주의자"
- },
- {
-  "month": "8월",
-  "day": "12일",
-  "birth_color": "#A6A5C4",
-  "name": "등나무 회색",
-  "keyword1": "정열",
-  "keyword2": "고독",
-  "keyword3": "절도",
-  "sentence": "자신의 존재를 바라보는 로맨티스트"
- },
- {
-  "month": "8월",
-  "day": "13일",
-  "birth_color": "#83CCD2",
-  "name": "백군",
-  "keyword1": "감성",
-  "keyword2": "기민",
-  "keyword3": "신념",
-  "sentence": "견실한 인품으로 신뢰와 존경받는 사람"
- },
- {
-  "month": "8월",
-  "day": "14일",
-  "birth_color": "#4CB8E7",
-  "name": "마이오소티스",
-  "keyword1": "빛나는 미성",
-  "keyword2": "생기",
-  "keyword3": "표현력",
-  "sentence": "사람의 마음을 정점으로 이끄는 미성의 소유자"
- },
- {
-  "month": "8월",
-  "day": "15일",
-  "birth_color": "#FFD900",
-  "name": "황색",
-  "keyword1": "재치",
-  "keyword2": "상냥한마음",
-  "keyword3": "가정적",
-  "sentence": "따듯한 애정으로 자란 총명한 사람"
- },
- {
-  "month": "8월",
-  "day": "16일",
-  "birth_color": "#FFFA9C",
-  "name": "라이트 크림",
-  "keyword1": "감성",
-  "keyword2": "의사",
-  "keyword3": "리듬",
-  "sentence": "감성을 움직여 리듬으로 표현하는 천재"
- },
- {
-  "month": "8월",
-  "day": "17일",
-  "birth_color": "#FFF97D",
-  "name": "프림로즈 옐로",
-  "keyword1": "사랑과 우정",
-  "keyword2": "호기심",
-  "keyword3": "탐구심",
-  "sentence": "선명한 소녀시절을 보낸 순진무구한 사람"
- },
- {
-  "month": "8월",
-  "day": "18일",
-  "birth_color": "#F6AD49",
-  "name": "주황색",
-  "keyword1": "지고",
-  "keyword2": "명랑",
-  "keyword3": "자유",
-  "sentence": "정신을 중시하는 현자"
- },
- {
-  "month": "8월",
-  "day": "19일",
-  "birth_color": "#F79101",
-  "name": "골든 오렌지",
-  "keyword1": "제멋대로",
-  "keyword2": "선구자",
-  "sentence": "넘버 원을 추구하는 긍지 높은 사람"
- },
- {
-  "month": "8월",
-  "day": "20일",
-  "birth_color": "#F08300",
-  "name": "밀감색",
-  "keyword1": "에너지",
-  "keyword2": "대망",
-  "keyword3": "현실",
-  "sentence": "몸과 마음 모두 건강한 현실주의자"
- },
- {
-  "month": "8월",
-  "day": "21일",
-  "birth_color": "#DD7A56",
-  "name": "육계색",
-  "keyword1": "에너지",
-  "keyword2": "인간관계",
-  "sentence": "밸런스 좋게 전체를 통합하는 지도자"
- },
- {
-  "month": "8월",
-  "day": "22일",
-  "birth_color": "#FFCC83",
-  "name": "골든 콘",
-  "keyword1": "감정이입",
-  "keyword2": "창작력",
-  "sentence": "독특함이 가득한 마음의 소유자"
- },
- {
-  "month": "8월",
-  "day": "23일",
-  "birth_color": "#FEAE01",
-  "name": "딥 선플라워",
-  "keyword1": "타이밍",
-  "keyword2": "미학센스",
-  "sentence": "사물을 양측에서 볼 수 있는 창조자"
- },
- {
-  "month": "8월",
-  "day": "24일",
-  "birth_color": "#C4972F",
-  "name": "옐로 오커",
-  "keyword1": "노력",
-  "keyword2": "트레이닝",
-  "keyword3": "행동",
-  "sentence": "자신을 더 끌어올리려는 노력가"
- },
- {
-  "month": "8월",
-  "day": "25일",
-  "birth_color": "#CAAC71",
-  "name": "버프",
-  "keyword1": "절도",
-  "keyword2": "평화",
-  "keyword3": "우아",
-  "sentence": "인간관계를 소중히 하는 예의바른 사람"
- },
- {
-  "month": "8월",
-  "day": "26일",
-  "birth_color": "#7D541C",
-  "name": "연초색",
-  "keyword1": "견실",
-  "keyword2": "조직력",
-  "keyword3": "현실주의",
-  "sentence": "자신이 우위에 서길 바라는 지도자"
- },
- {
-  "month": "8월",
-  "day": "27일",
-  "birth_color": "#A0D8EF",
-  "name": "스카이 블루",
-  "keyword1": "계획성",
-  "keyword2": "패션",
-  "sentence": "어떤 옷이든 어울리는 로맨티스트"
- },
- {
-  "month": "8월",
-  "day": "28일",
-  "birth_color": "#5D9CBF",
-  "name": "아쿠아 그레이",
-  "keyword1": "예술",
-  "keyword2": "감성",
-  "keyword3": "상상력",
-  "sentence": "많은 분야에서 주역을 원하는 크리에이터"
- },
- {
-  "month": "8월",
-  "day": "29일",
-  "birth_color": "#4B7CB6",
-  "name": "페일 샐비어 블루",
-  "keyword1": "향긋함",
-  "keyword2": "헌신",
-  "keyword3": "기품",
-  "sentence": "인맥쌓기가 특기인 신중파"
- },
- {
-  "month": "8월",
-  "day": "30일",
-  "birth_color": "#356CAC",
-  "name": "울트라마린",
-  "keyword1": "모성애",
-  "keyword2": "음악",
-  "keyword3": "기품",
-  "sentence": "마음의 현을 켜는 사람"
- },
- {
-  "month": "8월",
-  "day": "31일",
-  "birth_color": "#460E44",
-  "name": "자감",
-  "keyword1": "자기관리",
-  "keyword2": "권엄",
-  "keyword3": "고압적",
-  "sentence": "사람의 위에 서는 오피니언 리더"
- },
- {
-  "month": "9월",
-  "day": "1일",
-  "birth_color": "#7DBB7C",
-  "name": "프레시 그린",
-  "keyword1": "교양",
-  "keyword2": "섬세",
-  "keyword3": "신중함",
-  "sentence": "상냥한 목소리로 꽃피우는 연애소설의 여주인공"
- },
- {
-  "month": "9월",
-  "day": "2일",
-  "birth_color": "#368A56",
-  "name": "목초색",
-  "keyword1": "완고",
-  "keyword2": "공명정대",
-  "keyword3": "노력",
-  "sentence": "자기희생도 마다하지 않는 존경할 만한 사람"
- },
- {
-  "month": "9월",
-  "day": "3일",
-  "birth_color": "#016257",
-  "name": "홀리 그린",
-  "keyword1": "지각",
-  "keyword2": "상냥함",
-  "keyword3": "창작의욕",
-  "sentence": "유토피아를 꿈꾸는 문학소녀"
- },
- {
-  "month": "9월",
-  "day": "4일",
-  "birth_color": "#006B35",
-  "name": "비리디안",
-  "keyword1": "호기심",
-  "keyword2": "스릴",
-  "keyword3": "자발적",
-  "sentence": "냉정한 판단력이 있는 객관적인 사람"
- },
- {
-  "month": "9월",
-  "day": "5일",
-  "birth_color": "#005243",
-  "name": "철색",
-  "keyword1": "허영심",
-  "keyword2": "선악구별",
-  "keyword3": "질서",
-  "sentence": "조금씩 진리에 다가가는 고결한 사람"
- },
- {
-  "month": "9월",
-  "day": "6일",
-  "birth_color": "#003D26",
-  "name": "해송람색",
-  "keyword1": "자기자신",
-  "keyword2": "노력",
-  "sentence": "노력을 게을리 하지 않는 노력가"
- },
- {
-  "month": "9월",
-  "day": "7일",
-  "birth_color": "#6EBDC2",
-  "name": "담수색",
-  "keyword1": "조화",
-  "keyword2": "정숙",
-  "keyword3": "순수",
-  "sentence": "도움이 되는 것에서 삶의 보람을 느끼는 사람"
- },
- {
-  "month": "9월",
-  "day": "8일",
-  "birth_color": "#67B5B7",
-  "name": "아쿠아마린",
-  "keyword1": "모험",
-  "keyword2": "최정상",
-  "keyword3": "임기응변",
-  "sentence": "양심을 신조로 삼는 착실한 사람"
- },
- {
-  "month": "9월",
-  "day": "9일",
-  "birth_color": "#006069",
-  "name": "딥 틸 그린",
-  "keyword1": "배려",
-  "keyword2": "예의",
-  "keyword3": "건강",
-  "sentence": "호기심을 계속 지닌 젊은 사람"
- },
- {
-  "month": "9월",
-  "day": "10일",
-  "birth_color": "#17184B",
-  "name": "철감",
-  "keyword1": "냉정",
-  "keyword2": "자기평가",
-  "keyword3": "독창",
-  "sentence": "진두지휘를 하는 뛰어난 경영자"
- },
- {
-  "month": "9월",
-  "day": "11일",
-  "birth_color": "#003221",
-  "name": "블루 드 프루스",
-  "keyword1": "미식가",
-  "keyword2": "사상가",
-  "keyword3": "문재",
-  "sentence": "무엇이든 알기 쉽게 표현하는 재능이 있는 사람"
- },
- {
-  "month": "9월",
-  "day": "12일",
-  "birth_color": "#282B6E",
-  "name": "멀버리",
-  "keyword1": "큰그릇",
-  "keyword2": "지도자",
-  "keyword3": "감성",
-  "sentence": "자신이 나아가고 있는 길을 아는 식자"
- },
- {
-  "month": "9월",
-  "day": "13일",
-  "birth_color": "#28285A",
-  "name": "퍼플 네이비",
-  "keyword1": "꼼꼼함",
-  "keyword2": "세련",
-  "keyword3": "독창성",
-  "sentence": "그림 같은 섬세한 로맨티스트"
- },
- {
-  "month": "9월",
-  "day": "14일",
-  "birth_color": "#BF783E",
-  "name": "탠",
-  "keyword1": "착상",
-  "keyword2": "노력",
-  "keyword3": "철저추구",
-  "sentence": "의문이 풀릴 때까지 조사하는 정열가"
- },
- {
-  "month": "9월",
-  "day": "15일",
-  "birth_color": "#8A3B00",
-  "name": "갈색",
-  "keyword1": "의지",
-  "keyword2": "호기심",
-  "keyword3": "경험",
-  "sentence": "자기주장이 강한 스트레이트한 사람"
- },
- {
-  "month": "9월",
-  "day": "16일",
-  "birth_color": "#BD6856",
-  "name": "테라코타",
-  "keyword1": "심정",
-  "keyword2": "전통",
-  "keyword3": "주의주장",
-  "sentence": "호기롭고 대담한 사고방식의 선인"
- },
- {
-  "month": "9월",
-  "day": "17일",
-  "birth_color": "#7DBB7C",
-  "name": "옥회색",
-  "keyword1": "냉정침착",
-  "keyword2": "직관",
-  "keyword3": "배려",
-  "sentence": "안정적이고 믿음직한 리더"
- },
- {
-  "month": "9월",
-  "day": "18일",
-  "birth_color": "#BCCDDB",
-  "name": "파우더 블루",
-  "keyword1": "냉정",
-  "keyword2": "온후독실",
-  "keyword3": "위엄",
-  "sentence": "후진의 지도가 특기인 온후한 사람"
- },
- {
-  "month": "9월",
-  "day": "19일",
-  "birth_color": "#7C7684",
-  "name": "라일락 헤이지",
-  "keyword1": "엄격",
-  "keyword2": "일본풍",
-  "keyword3": "소질개발",
-  "sentence": "엄격함을 기본으로 원숙에 도달하는 노력함"
- },
- {
-  "month": "9월",
-  "day": "20일",
-  "birth_color": "#FFFCBF",
-  "name": "라이트 레몬",
-  "keyword1": "우수",
-  "keyword2": "순수",
-  "keyword3": "세련",
-  "sentence": "민감한 감성을 가진 솔직한 사람"
- },
- {
-  "month": "9월",
-  "day": "21일",
-  "birth_color": "#E3EDC8",
-  "name": "티 그린",
-  "keyword1": "고결",
-  "keyword2": "신비주의",
-  "keyword3": "고독",
-  "sentence": "기품있고 티 없는 신비주의자"
- },
- {
-  "month": "9월",
-  "day": "22일",
-  "birth_color": "#EDEE9E",
-  "name": "버전",
-  "keyword1": "즐거운대화",
-  "keyword2": "쾌활",
-  "sentence": "기분 좋은 분위기를 만드는 사람"
- },
- {
-  "month": "9월",
-  "day": "23일",
-  "birth_color": "#EBE960",
-  "name": "존 시트론",
-  "keyword1": "공정함",
-  "keyword2": "자력",
-  "keyword3": "자기희생",
-  "sentence": "보람을 제대로 느끼는 야심가"
- },
- {
-  "month": "9월",
-  "day": "24일",
-  "birth_color": "#D7CF3A",
-  "name": "황록색",
-  "keyword1": "승부",
-  "keyword2": "호기",
-  "keyword3": "직관",
-  "sentence": "규율을 타파하고 돌진하는 정열가"
- },
- {
-  "month": "9월",
-  "day": "25일",
-  "birth_color": "#FDB86D",
-  "name": "선 오렌지",
-  "keyword1": "배려",
-  "keyword2": "구상",
-  "keyword3": "순발력",
-  "sentence": "주위에 영향받기 쉬운 순진한 사람"
- },
- {
-  "month": "9월",
-  "day": "26일",
-  "birth_color": "#F37F44",
-  "name": "탠저린 오렌지",
-  "keyword1": "책임감",
-  "keyword2": "숙고",
-  "keyword3": "오리지널",
-  "sentence": "모방을 싫어하는 독특한 발상을 하는 사람"
- },
- {
-  "month": "9월",
-  "day": "27일",
-  "birth_color": "#F16F4F",
-  "name": "타이거 릴리",
-  "keyword1": "생명력",
-  "keyword2": "선구자",
-  "keyword3": "용기",
-  "sentence": "기상천외한 발상을 하는 선구자"
- },
- {
-  "month": "9월",
-  "day": "28일",
-  "birth_color": "#D3381C",
-  "name": "비색",
-  "keyword1": "꿈",
-  "keyword2": "존경",
-  "keyword3": "구상",
-  "sentence": "고상한 분위기의 존경할 만한 사람"
- },
- {
-  "month": "9월",
-  "day": "29일",
-  "birth_color": "#E95388",
-  "name": "오페라",
-  "keyword1": "천진난만",
-  "keyword2": "강인한 정신",
-  "sentence": "한 가지에 집중할 수 있는 사람"
- },
- {
-  "month": "9월",
-  "day": "30일",
-  "birth_color": "#89438C",
-  "name": "아마란스 퍼플",
-  "keyword1": "현실",
-  "keyword2": "본질",
-  "keyword3": "탐구심",
-  "sentence": "아름다운 토지를 추구하는 로맨티스트"
- },
- {
-  "month": "10월",
-  "day": "1일",
-  "birth_color": "#EE7948",
-  "name": "황단",
-  "keyword1": "훈련",
-  "keyword2": "생명력",
-  "keyword3": "리듬감",
-  "sentence": "예술과 스포츠에 뛰어난 활발한 사람"
- },
- {
-  "month": "10월",
-  "day": "2일",
-  "birth_color": "#8F2E14",
-  "name": "변병색",
-  "keyword1": "양기",
-  "keyword2": "창조",
-  "keyword3": "미소",
-  "sentence": "누구에게나 사랑받는 따듯한 마음의 소유자"
- },
- {
-  "month": "10월",
-  "day": "3일",
-  "birth_color": "#ED6D35",
-  "name": "캐럿 오렌지",
-  "keyword1": "파워",
-  "keyword2": "충실",
-  "keyword3": "도전",
-  "sentence": "홀로 있는 것을 싫어하는 사교적인 사람"
- },
- {
-  "month": "10월",
-  "day": "4일",
-  "birth_color": "#EC5415",
-  "name": "플레임 오렌지",
-  "keyword1": "감성",
-  "keyword2": "영리",
-  "keyword3": "미모",
-  "sentence": "감정을 숨긴 정열가"
- },
- {
-  "month": "10월",
-  "day": "5일",
-  "birth_color": "#C78A77",
-  "name": "정자색",
-  "keyword1": "보수적",
-  "keyword2": "의무감",
-  "keyword3": "책임감",
-  "sentence": "변덕을 용서하지 않는 합리주의자"
- },
- {
-  "month": "10월",
-  "day": "6일",
-  "birth_color": "#BE8F68",
-  "name": "시나몬",
-  "keyword1": "몸상태",
-  "keyword2": "정신안정",
-  "keyword3": "안녕",
-  "sentence": "비범한 것을 직관적으로 알아채는 사람"
- },
- {
-  "month": "10월",
-  "day": "7일",
-  "birth_color": "#946C45",
-  "name": "카페오레",
-  "keyword1": "지식",
-  "keyword2": "듬직함",
-  "keyword3": "결단력",
-  "sentence": "요리를 좋아하는 왕성한 생활력의 소유자"
- },
- {
-  "month": "10월",
-  "day": "8일",
-  "birth_color": "#B55233",
-  "name": "벽돌색",
-  "keyword1": "안락",
-  "keyword2": "행복",
-  "keyword3": "자유",
-  "sentence": "자연화 한 몸이 되는 자유로운 사람"
- },
- {
-  "month": "10월",
-  "day": "9일",
-  "birth_color": "#7B411C",
-  "name": "테라 로사",
-  "keyword1": "이론적",
-  "keyword2": "감수성",
-  "keyword3": "위험회피",
-  "sentence": "새로운 경지를 여는 경이로운 사람"
- },
- {
-  "month": "10월",
-  "day": "10일",
-  "birth_color": "#BA8B40",
-  "name": "오커",
-  "keyword1": "지력",
-  "keyword2": "선견지명",
-  "keyword3": "이해",
-  "sentence": "끊이지 않는 탐구심의 소유자"
- },
- {
-  "month": "10월",
-  "day": "11일",
-  "birth_color": "#B76651",
-  "name": "카멜",
-  "keyword1": "기억력",
-  "keyword2": "상상력",
-  "keyword3": "재능",
-  "sentence": "충동적인 언행을 하지 않는 정직한 사람"
- },
- {
-  "month": "10월",
-  "day": "12일",
-  "birth_color": "#823616",
-  "name": "번트 시에나",
-  "keyword1": "개성",
-  "keyword2": "장대",
-  "keyword3": "상상력",
-  "sentence": "소박한 상냥함을 가진 그윽한 사람"
- },
- {
-  "month": "10월",
-  "day": "13일",
-  "birth_color": "#6D3C32",
-  "name": "율피차",
-  "keyword1": "스태미너",
-  "keyword2": "신비적",
-  "keyword3": "보수적",
-  "sentence": "항상 음악과 함께하는 건강한 사람"
- },
- {
-  "month": "10월",
-  "day": "14일",
-  "birth_color": "#622D18",
-  "name": "세피아",
-  "keyword1": "교양",
-  "keyword2": "청순함",
-  "keyword3": "독창성",
-  "sentence": "풍부한 감성을 가진 변덕스러운 사람"
- },
- {
-  "month": "10월",
-  "day": "15일",
-  "birth_color": "#BB5520",
-  "name": "대자",
-  "keyword1": "모성애",
-  "keyword2": "자기발전",
-  "keyword3": "동찰력",
-  "sentence": "재치가 넘치는 총명한 사람"
- },
- {
-  "month": "10월",
-  "day": "16일",
-  "birth_color": "#E9BC00",
-  "name": "토파즈",
-  "keyword1": "우등생",
-  "keyword2": "입념",
-  "keyword3": "신중",
-  "sentence": "자신다움을 나타내는 재인"
- },
- {
-  "month": "10월",
-  "day": "17일",
-  "birth_color": "#D7D0CA",
-  "name": "오키드 화이트",
-  "keyword1": "깨끗함",
-  "keyword2": "이해력",
-  "keyword3": "배려",
-  "sentence": "온후한 마음과 도량이 넓은 사람"
- },
- {
-  "month": "10월",
-  "day": "18일",
-  "birth_color": "#C9C9C4",
-  "name": "펄 그레이",
-  "keyword1": "화발",
-  "keyword2": "우미",
-  "keyword3": "위엄",
-  "sentence": "정과 동이 융화한 매력적인 사람"
- },
- {
-  "month": "10월",
-  "day": "19일",
-  "birth_color": "#AFAFB0",
-  "name": "은회색",
-  "keyword1": "신중함",
-  "keyword2": "예의",
-  "keyword3": "기품",
-  "sentence": "배려 깊은 기품이 넘치는 사람"
- },
- {
-  "month": "10월",
-  "day": "20일",
-  "birth_color": "#7D7D7D",
-  "name": "마우스 그레이",
-  "keyword1": "자연",
-  "keyword2": "관습",
-  "keyword3": "시행착오",
-  "sentence": "안정된 인생을 보내는 평화주의자"
- },
- {
-  "month": "10월",
-  "day": "21일",
-  "birth_color": "#9E8B8E",
-  "name": "비둘기깃 회색",
-  "keyword1": "종교적",
-  "keyword2": "금욕",
-  "keyword3": "서정성",
-  "sentence": "신성한 사색으로 인간성을 회복하는 사람"
- },
- {
-  "month": "10월",
-  "day": "22일",
-  "birth_color": "#585C5B",
-  "name": "석판색",
-  "keyword1": "문화",
-  "keyword2": "선동",
-  "keyword3": "도회적",
-  "sentence": "일에 몰두하는 합리주의자"
- },
- {
-  "month": "10월",
-  "day": "23일",
-  "birth_color": "#D0AF4C",
-  "name": "겨자색",
-  "keyword1": "자신",
-  "keyword2": "기억력",
-  "keyword3": "불굴의 정신",
-  "sentence": "구상을 정제하여 실현하는 자신가"
- },
- {
-  "month": "10월",
-  "day": "24일",
-  "birth_color": "#646F2D",
-  "name": "씨 모스",
-  "keyword1": "정열",
-  "keyword2": "협력",
-  "keyword3": "꿈",
-  "sentence": "기초적인 사고가 확실한 사람"
- },
- {
-  "month": "10월",
-  "day": "25일",
-  "birth_color": "#9D8E87",
-  "name": "로즈 그레이",
-  "keyword1": "친절",
-  "keyword2": "경의",
-  "keyword3": "정숙",
-  "sentence": "듬직하게 행동하는 침착한 사람"
- },
- {
-  "month": "10월",
-  "day": "26일",
-  "birth_color": "#548778",
-  "name": "라이트 터콰이즈",
-  "keyword1": "자기주도적",
-  "keyword2": "지도자",
-  "keyword3": "활로",
-  "sentence": "항상 냉정하고 사려깊게 행동하는 사람"
- },
- {
-  "month": "10월",
-  "day": "27일",
-  "birth_color": "#476B6B",
-  "name": "청납호",
-  "keyword1": "계속",
-  "keyword2": "평온",
-  "keyword3": "자연",
-  "sentence": "항상 새로운 목표에 도전하는 사람"
- },
- {
-  "month": "10월",
-  "day": "28일",
-  "birth_color": "#6C6A6D",
-  "name": "비둘기깃 보라",
-  "keyword1": "긍정적",
-  "keyword2": "결벽",
-  "keyword3": "기품",
-  "sentence": "행동으로 배우는 실천주의자"
- },
- {
-  "month": "10월",
-  "day": "29일",
-  "birth_color": "#665951",
-  "name": "밤색",
-  "keyword1": "고집",
-  "keyword2": "건강",
-  "keyword3": "온건",
-  "sentence": "온건하지만 자신의 생각을 굽히지 않는 사람"
- },
- {
-  "month": "10월",
-  "day": "30일",
-  "birth_color": "#83515D",
-  "name": "빈야드",
-  "keyword1": "경험",
-  "keyword2": "상담가적",
-  "sentence": "문제의 해결에 협력하는 믿음직한 사람"
- },
- {
-  "month": "10월",
-  "day": "31일",
-  "birth_color": "#D1BADA",
-  "name": "라일락",
-  "keyword1": "재치",
-  "keyword2": "이론적",
-  "keyword3": "용맹",
-  "sentence": "성공하기 위해 불타는 정열가"
- },
- {
-  "month": "11월",
-  "day": "1일",
-  "birth_color": "#BF794E",
-  "name": "낙타색",
-  "keyword1": "경영력",
-  "keyword2": "자신과 긍지",
-  "keyword3": "참을성",
-  "sentence": "자신과 기운이 넘치는 뛰어난 재능을 선보이는 사람"
- },
- {
-  "month": "11월",
-  "day": "2일",
-  "birth_color": "#8B724A",
-  "name": "소록색",
-  "keyword1": "동찰력",
-  "keyword2": "현실파",
-  "keyword3": "유연성",
-  "sentence": "결코 흔들리지 않는 강한 의지의 소유자"
- },
- {
-  "month": "11월",
-  "day": "3일",
-  "birth_color": "#538322",
-  "name": "흑차색",
-  "keyword1": "공정",
-  "keyword2": "고결",
-  "keyword3": "신뢰",
-  "sentence": "사람들의 도움을 소중히 하는 사람"
- },
- {
-  "month": "11월",
-  "day": "4일",
-  "birth_color": "#504946",
-  "name": "토프",
-  "keyword1": "감각",
-  "keyword2": "장인기술",
-  "keyword3": "지고",
-  "sentence": "자신의 일에 긍지가 있는 자신가"
- },
- {
-  "month": "11월",
-  "day": "5일",
-  "birth_color": "#4E454A",
-  "name": "차콜 그레이",
-  "keyword1": "신념",
-  "keyword2": "남성적",
-  "keyword3": "예의범절",
-  "sentence": "의리와 인정이 두터운 사람, 돕기를 좋아하는 사람"
- },
- {
-  "month": "11월",
-  "day": "6일",
-  "birth_color": "#FFCC7B",
-  "name": "준 드 네이플스",
-  "keyword1": "배려",
-  "keyword2": "예감",
-  "keyword3": "밸런스",
-  "sentence": "사고와 행동의 밸런스가 잡힌 사람"
- },
- {
-  "month": "11월",
-  "day": "7일",
-  "birth_color": "#FEB75B",
-  "name": "선플라워",
-  "keyword1": "타이밍",
-  "keyword2": "미학센스",
-  "sentence": "사물을 양면에서 바라보는 창조자"
- },
- {
-  "month": "11월",
-  "day": "8일",
-  "birth_color": "#F5811E",
-  "name": "나스트리움 오렌지",
-  "keyword1": "조직",
-  "keyword2": "밸런스",
-  "keyword3": "협조성",
-  "sentence": "인간관계의 예민함을 중시하는 사람"
- },
- {
-  "month": "11월",
-  "day": "9일",
-  "birth_color": "#CD5E3C",
-  "name": "화색",
-  "keyword1": "낙천주의",
-  "keyword2": "대담",
-  "keyword3": "향상심",
-  "sentence": "자기자신의 힘을 믿는 사람"
- },
- {
-  "month": "11월",
-  "day": "10일",
-  "birth_color": "#8D6029",
-  "name": "타바코 브라운",
-  "keyword1": "의지",
-  "keyword2": "친밀",
-  "sentence": "비밀도 잘 들어주는 상냥한 사람"
- },
- {
-  "month": "11월",
-  "day": "11일",
-  "birth_color": "#FFDAFC",
-  "name": "페일 크림",
-  "keyword1": "용의주도",
-  "keyword2": "창조력",
-  "keyword3": "조용함",
-  "sentence": "수많은 품격있는 감성의 소유자"
- },
- {
-  "month": "11월",
-  "day": "12일",
-  "birth_color": "#DCD3B2",
-  "name": "모래색",
-  "keyword1": "건강",
-  "keyword2": "숙련",
-  "keyword3": "예술",
-  "sentence": "노력과 정진으로 정점을 갈고 닦는 사람"
- },
- {
-  "month": "11월",
-  "day": "13일",
-  "birth_color": "#9FA09E",
-  "name": "애쉬 그레이",
-  "keyword1": "건실함",
-  "keyword2": "공정한 판단",
-  "keyword3": "일",
-  "sentence": "시간을 아끼며 일에 몰두하는 사람"
- },
- {
-  "month": "11월",
-  "day": "14일",
-  "birth_color": "#55461B",
-  "name": "건메탈",
-  "keyword1": "스태미너",
-  "keyword2": "모성본능",
-  "sentence": "감정에 치우치지 않는 성실하고 보수적인 사람"
- },
- {
-  "month": "11월",
-  "day": "15일",
-  "birth_color": "#473A17",
-  "name": "묵색",
-  "keyword1": "신비적",
-  "keyword2": "완고",
-  "keyword3": "독립심",
-  "sentence": "꿈과 희망에 가득찬 정열가"
- },
- {
-  "month": "11월",
-  "day": "16일",
-  "birth_color": "#FABABA",
-  "name": "벚꽃조개색",
-  "keyword1": "사랑",
-  "keyword2": "로맨틱",
-  "keyword3": "품격",
-  "sentence": "교양 있는 세련된 취향의 사람"
- },
- {
-  "month": "11월",
-  "day": "17일",
-  "birth_color": "#DA81B2",
-  "name": "오키드 핑크",
-  "keyword1": "단아",
-  "keyword2": "기쁨",
-  "keyword3": "헌신",
-  "sentence": "대가없는 헌신적인 사랑의 소유자"
- },
- {
-  "month": "11월",
-  "day": "18일",
-  "birth_color": "#B4776B",
-  "name": "마쉬 로즈",
-  "keyword1": "신망",
-  "keyword2": "도전",
-  "keyword3": "육성",
-  "sentence": "지식과 학문을 익히는 박식한 사람"
- },
- {
-  "month": "11월",
-  "day": "19일",
-  "birth_color": "#B158CV",
-  "name": "클라렛",
-  "keyword1": "교양",
-  "keyword2": "감성",
-  "keyword3": "정신력",
-  "sentence": "품위 있고 세상에 둘도 없는 절세미인"
- },
- {
-  "month": "11월",
-  "day": "20일",
-  "birth_color": "#7D7B63",
-  "name": "도브 그레이",
-  "keyword1": "변덕",
-  "keyword2": "대범",
-  "keyword3": "예술",
-  "sentence": "불타는듯한 생명력의 소유자"
- },
- {
-  "month": "11월",
-  "day": "21일",
-  "birth_color": "#C8CEAC",
-  "name": "페일 살로",
-  "keyword1": "탐색",
-  "keyword2": "친구",
-  "keyword3": "자만",
-  "sentence": "두번째는 되기 싫은 자신가"
- },
- {
-  "month": "11월",
-  "day": "22일",
-  "birth_color": "#BBC8AC",
-  "name": "말차색",
-  "keyword1": "신조",
-  "keyword2": "이상",
-  "keyword3": "기량",
-  "sentence": "목표달성을 위해 맹렬히 행동하는 사람"
- },
- {
-  "month": "11월",
-  "day": "23일",
-  "birth_color": "#9E9478",
-  "name": "회즙색",
-  "keyword1": "자기의식",
-  "keyword2": "책임감",
-  "keyword3": "집중력",
-  "sentence": "새로운 일에 의욕을 불태우는 도전자"
- },
- {
-  "month": "11월",
-  "day": "24일",
-  "birth_color": "#7B7C7D",
-  "name": "납색",
-  "keyword1": "감정회피",
-  "keyword2": "고독",
-  "keyword3": "냉정",
-  "keyword4": "침착",
-  "sentence": "항상 감정을 조절하는 방관자"
- },
- {
-  "month": "11월",
-  "day": "25일",
-  "birth_color": "#39423F",
-  "name": "오프 블랙",
-  "keyword1": "보수적",
-  "keyword2": "변덕",
-  "keyword3": "엄숙",
-  "sentence": "위엄 있고 신비적인 사람"
- },
- {
-  "month": "11월",
-  "day": "26일",
-  "birth_color": "#FDB58F",
-  "name": "페일 애프리콧",
-  "keyword1": "따듯함",
-  "keyword2": "중립",
-  "keyword3": "예술",
-  "sentence": "사회에 잘 순응하는 실천파"
- },
- {
-  "month": "11월",
-  "day": "27일",
-  "birth_color": "#FCE2C4",
-  "name": "살구색",
-  "keyword1": "자활력",
-  "keyword2": "현실주의",
-  "keyword3": "정직",
-  "sentence": "현상에서 본질을 이끌어 내는 이론파"
- },
- {
-  "month": "11월",
-  "day": "28일",
-  "birth_color": "#B47226",
-  "name": "선탠",
-  "keyword1": "현실주의",
-  "keyword2": "실천",
-  "keyword3": "회의",
-  "sentence": "충분히 확인하는 실천가"
- },
- {
-  "month": "11월",
-  "day": "29일",
-  "birth_color": "#8C6B4A",
-  "name": "브릭 레드",
-  "keyword1": "자신",
-  "keyword2": "집중력",
-  "keyword3": "자력",
-  "sentence": "실망이나 낙담을 싫어하는 신중파"
- },
- {
-  "month": "11월",
-  "day": "30일",
-  "birth_color": "#54513E",
-  "name": "고엽색",
-  "keyword1": "신념",
-  "keyword2": "기초",
-  "keyword3": "신뢰",
-  "sentence": "자신의 신념을 확실히 다잡는 사람"
- },
- {
-  "month": "12월",
-  "day": "1일",
-  "birth_color": "#D6D6AF",
-  "name": "아마색",
-  "keyword1": "문화적",
-  "keyword2": "거드름",
-  "keyword3": "색채",
-  "sentence": "아름다움에 매력을 느끼는 예술가"
- },
- {
-  "month": "12월",
-  "day": "2일",
-  "birth_color": "#CAA980",
-  "name": "허니 스위트",
-  "keyword1": "태평",
-  "keyword2": "향상심",
-  "keyword3": "문화",
-  "sentence": "안정감을 보증하는 것에 끌리는 사람"
- },
- {
-  "month": "12월",
-  "day": "3일",
-  "birth_color": "#852E19",
-  "name": "율매",
-  "keyword1": "본질",
-  "keyword2": "실천",
-  "keyword3": "실적",
-  "sentence": "공상에 빠지기 보다 실천하는 사람"
- },
- {
-  "month": "12월",
-  "day": "4일",
-  "birth_color": "#5D5644",
-  "name": "타우니 올리브",
-  "keyword1": "개성",
-  "keyword2": "의연",
-  "keyword3": "사교적",
-  "sentence": "대담하고 용기 있는 사람"
- },
- {
-  "month": "12월",
-  "day": "5일",
-  "birth_color": "#4E4B3A",
-  "name": "흑자",
-  "keyword1": "저축",
-  "keyword2": "신념",
-  "keyword3": "든든함",
-  "sentence": "유행을 쫓지 않는 교양있는 학자 타입"
- },
- {
-  "month": "12월",
-  "day": "6일",
-  "birth_color": "#E5CC96",
-  "name": "시트론 그레이",
-  "keyword1": "재기종횡",
-  "keyword2": "재치",
-  "keyword3": "모성애",
-  "sentence": "끝없는 꿈을 품는 감성이 풍부한 사람"
- },
- {
-  "month": "12월",
-  "day": "7일",
-  "birth_color": "#E6D89B",
-  "name": "페일 라임라이트",
-  "keyword1": "야외",
-  "keyword2": "외교적",
-  "keyword3": "호기",
-  "sentence": "땀 흘리며 일하는 착실한 사람"
- },
- {
-  "month": "12월",
-  "day": "8일",
-  "birth_color": "#A69425",
-  "name": "채종유색",
-  "keyword1": "일상",
-  "keyword2": "태연",
-  "keyword3": "신뢰",
-  "sentence": "감정에 티가 없고 신용할 만한 사람"
- },
- {
-  "month": "12월",
-  "day": "9일",
-  "birth_color": "#B4935D",
-  "name": "오일 옐로",
-  "keyword1": "안정",
-  "keyword2": "냉정",
-  "keyword3": "관철",
-  "sentence": "힘든 역경에도 동요하지 않는 사람"
- },
- {
-  "month": "12월",
-  "day": "10일",
-  "birth_color": "#AC6B25",
-  "name": "브론즈",
-  "keyword1": "보수적",
-  "keyword2": "실천파",
-  "keyword3": "행동력",
-  "sentence": "눈에 띄는 것을 싫어하는 소극적인 사람"
- },
- {
-  "month": "12월",
-  "day": "11일",
-  "birth_color": "#FBBAA8",
-  "name": "씨 셸 핑크",
-  "keyword1": "청결",
-  "keyword2": "로맨틱",
-  "sentence": "몸가짐이 우아한 사람"
- },
- {
-  "month": "12월",
-  "day": "12일",
-  "birth_color": "#F79383",
-  "name": "연어색",
-  "keyword1": "유니크",
-  "keyword2": "결단",
-  "keyword3": "적극",
-  "sentence": "힘든 일도 두려워하지 않고 행동하는 아이디어맨"
- },
- {
-  "month": "12월",
-  "day": "13일",
-  "birth_color": "#F4816F",
-  "name": "선주",
-  "keyword1": "변심",
-  "keyword2": "상냥함",
-  "keyword3": "인간관계",
-  "sentence": "남을 즐겁게 해주는 변덕쟁이"
- },
- {
-  "month": "12월",
-  "day": "14일",
-  "birth_color": "#EB6101",
-  "name": "주색",
-  "keyword1": "사교적",
-  "keyword2": "인맥",
-  "keyword3": "완급조절",
-  "sentence": "존재하는 것만으로 매력을 발산하는 사람"
- },
- {
-  "month": "12월",
-  "day": "15일",
-  "birth_color": "#B16268",
-  "name": "번트 오렌지",
-  "keyword1": "충동적",
-  "keyword2": "정서",
-  "keyword3": "표현력",
-  "sentence": "마음이 밖을 향하는 스포츠 타입"
- },
- {
-  "month": "12월",
-  "day": "16일",
-  "birth_color": "#FDCEBA",
-  "name": "베이지 화이트",
-  "keyword1": "이성",
-  "keyword2": "인내",
-  "keyword3": "마음껏",
-  "sentence": "자신의 힘으로 위기에서 벗어나는 용자"
- },
- {
-  "month": "12월",
-  "day": "17일",
-  "birth_color": "#EEDCB3",
-  "name": "베이지",
-  "keyword1": "밸런스",
-  "keyword2": "사근함",
-  "sentence": "주위 사람을 밝게 만들어주는 사람"
- },
- {
-  "month": "12월",
-  "day": "18일",
-  "birth_color": "#B4766B",
-  "name": "브라운 골드",
-  "keyword1": "청순",
-  "keyword2": "감정은폐",
-  "keyword3": "꿈",
-  "sentence": "걷잡을 수 없는 꿈을 쫓는 따듯한 사람"
- },
- {
-  "month": "12월",
-  "day": "19일",
-  "birth_color": "#DEB068",
-  "name": "조청색",
-  "keyword1": "학문",
-  "keyword2": "가정",
-  "keyword3": "정신적 충족",
-  "sentence": "완고하고 제멋대로인 사람을 싫어하는 정직한 사람"
- },
- {
-  "month": "12월",
-  "day": "20일",
-  "birth_color": "#715C61",
-  "name": "헤더",
-  "keyword1": "안정감",
-  "keyword2": "신념",
-  "keyword3": "활로",
-  "sentence": "즐거음을 추구하는 유머러스한 사람"
- },
- {
-  "month": "12월",
-  "day": "21일",
-  "birth_color": "#E0B5D3",
-  "name": "릴라",
-  "keyword1": "고상",
-  "keyword2": "품위",
-  "keyword3": "명석",
-  "sentence": "몸과 마음 모두 세련된 사람"
- },
- {
-  "month": "12월",
-  "day": "22일",
-  "birth_color": "#9079B6",
-  "name": "헬리오트로피움",
-  "keyword1": "감성",
-  "keyword2": "고귀",
-  "keyword3": "젊음",
-  "sentence": "로맨틱한 감정으로 가득찬 사람"
- },
- {
-  "month": "12월",
-  "day": "23일",
-  "birth_color": "#674196",
-  "name": "창포색",
-  "keyword1": "신비적",
-  "keyword2": "예술적",
-  "keyword3": "철학적",
-  "sentence": "옛 나라에서의 생활을 꿈꾸는 사람"
- },
- {
-  "month": "12월",
-  "day": "24일",
-  "birth_color": "#241B36",
-  "name": "에그플랜트",
-  "keyword1": "보수적",
-  "keyword2": "엄숙",
-  "keyword3": "안심",
-  "sentence": "착실하고 진실로 행동하는 야무진 사람"
- },
- {
-  "month": "12월",
-  "day": "25일",
-  "birth_color": "#824880",
-  "name": "가지색",
-  "keyword1": "노파심",
-  "keyword2": "심미안",
-  "keyword3": "세련",
-  "sentence": "세상과 동떨어진 소극적인 사고의 사람"
- },
- {
-  "month": "12월",
-  "day": "26일",
-  "birth_color": "#E6B422",
-  "name": "골드",
-  "keyword1": "이상",
-  "keyword2": "대범",
-  "keyword3": "화사함",
-  "sentence": "든든한 보호자 타입의 야무진 사람"
- },
- {
-  "month": "12월",
-  "day": "27일",
-  "birth_color": "#AFB293",
-  "name": "살로",
-  "keyword1": "위엄",
-  "keyword2": "자기애",
-  "keyword3": "자책",
-  "sentence": "자기자신을 재산이라 여기는 자신가"
- },
- {
-  "month": "12월",
-  "day": "28일",
-  "birth_color": "#CB981B",
-  "name": "존 미엘",
-  "keyword1": "긍지",
-  "keyword2": "견식",
-  "keyword3": "변덕",
-  "sentence": "재산이 많은 통 큰 사람"
- },
- {
-  "month": "12월",
-  "day": "29일",
-  "birth_color": "#B2A280",
-  "name": "머스터드",
-  "keyword1": "정온",
-  "keyword2": "조화",
-  "keyword3": "환경",
-  "sentence": "자애로 가득찬 세계관의 소유자"
- },
- {
-  "month": "12월",
-  "day": "30일",
-  "birth_color": "#B26724",
-  "name": "어텀 리프",
-  "keyword1": "오의",
-  "keyword2": "자신",
-  "keyword3": "로맨틱",
-  "sentence": "많은 사람들의 버팀목이 되는 사람"
- },
- {
-  "month": "12월",
-  "day": "31일",
-  "birth_color": "#00AFCC",
-  "name": "터콰이즈 블루",
-  "keyword1": "개성",
-  "keyword2": "비교",
-  "keyword3": "심플",
-  "sentence": "개성적인 패션을 즐기는 사람"
- }
+  {
+    "month": "1월",
+    "day": "1일",
+    "birth_color": "#FFFFE5",
+    "name": "순백",
+    "keyword1": "순수",
+    "keyword2": "우아",
+    "keyword3": "심플",
+    "sentence": "마음이 아름다운 최고의 여성"
+  },
+  {
+    "month": "1월",
+    "day": "2일",
+    "birth_color": "#E6EAE6",
+    "name": "프로스티 화이트",
+    "keyword1": "감성",
+    "keyword2": "논리",
+    "keyword3": "청정",
+    "sentence": "미학적인 사고에 매료된 사람"
+  },
+  {
+    "month": "1월",
+    "day": "3일",
+    "birth_color": "#AFAFB0",
+    "name": "실버 그레이",
+    "keyword1": "용기",
+    "keyword2": "밸런스",
+    "keyword3": "경영력",
+    "sentence": "품격 높은 마음의 소유자"
+  },
+  {
+    "month": "1월",
+    "day": "4일",
+    "birth_color": "#8D9192",
+    "name": "알루미늄 그레이",
+    "keyword1": "밝음",
+    "keyword2": "에너지",
+    "sentence": "두려움을 모르는 밝은 도전자"
+  },
+  {
+    "month": "1월",
+    "day": "5일",
+    "birth_color": "#736D71",
+    "name": "스틸 그레이",
+    "keyword1": "직관력",
+    "keyword2": "동찰력",
+    "keyword3": "잠재력",
+    "sentence": "재치 있는 야무진 사람"
+  },
+  {
+    "month": "1월",
+    "day": "6일",
+    "birth_color": "#705B67",
+    "name": "포도 회색",
+    "keyword1": "논리",
+    "keyword2": "스피드",
+    "keyword3": "모험심",
+    "sentence": "드라마틱한 생활의 실천자"
+  },
+  {
+    "month": "1월",
+    "day": "7일",
+    "birth_color": "#0D0015",
+    "name": "칠흑",
+    "keyword1": "정열",
+    "keyword2": "재능",
+    "keyword3": "상상력",
+    "sentence": "도전하는 발상력 풍부한 정열가"
+  },
+  {
+    "month": "1월",
+    "day": "8일",
+    "birth_color": "#B8C43A",
+    "name": "시트론 옐로",
+    "keyword1": "종교적",
+    "keyword2": "우주적 구상",
+    "sentence": "자연을 사랑하는 서정가"
+  },
+  {
+    "month": "1월",
+    "day": "9일",
+    "birth_color": "#69821B",
+    "name": "이끼색",
+    "keyword1": "신비성",
+    "keyword2": "상상력",
+    "sentence": "타인의 따듯함을 느낄 수 있는 사람"
+  },
+  {
+    "month": "1월",
+    "day": "10일",
+    "birth_color": "#7B8D42",
+    "name": "풀색",
+    "keyword1": "영지",
+    "keyword2": "예술",
+    "keyword3": "세련",
+    "sentence": "광대한 감정세계의 소유자"
+  },
+  {
+    "month": "1월",
+    "day": "11일",
+    "birth_color": "#BDD99F",
+    "name": "미스트 그린",
+    "keyword1": "노력",
+    "keyword2": "재능",
+    "keyword3": "용기",
+    "sentence": "신시대를 만드는 이상적인 사람"
+  },
+  {
+    "month": "1월",
+    "day": "12일",
+    "birth_color": "#D6E9CA",
+    "name": "백록",
+    "keyword1": "기품",
+    "keyword2": "외교",
+    "keyword3": "동찰력",
+    "sentence": "행동력 있는 도전가"
+  },
+  {
+    "month": "1월",
+    "day": "13일",
+    "birth_color": "#37A34A",
+    "name": "패럿 그린",
+    "keyword1": "행동력",
+    "keyword2": "겸손",
+    "keyword3": "냉정",
+    "keyword4": "침착",
+    "sentence": "자기만의 방식으로 살아가는 자립가"
+  },
+  {
+    "month": "1월",
+    "day": "14일",
+    "birth_color": "#7B8D42",
+    "name": "그래스 그린",
+    "keyword1": "감성",
+    "keyword2": "유머러스",
+    "keyword3": "숙성",
+    "sentence": "성숙한 감성의 예술가"
+  },
+  {
+    "month": "1월",
+    "day": "15일",
+    "birth_color": "#00552E",
+    "name": "심록",
+    "keyword1": "신조",
+    "keyword2": "모범",
+    "keyword3": "자애",
+    "sentence": "빛나는 별 같은 눈동자의 소유자"
+  },
+  {
+    "month": "1월",
+    "day": "16일",
+    "birth_color": "#F0F6DA",
+    "name": "화이트 릴리",
+    "keyword1": "대담",
+    "keyword2": "상상력",
+    "keyword3": "신념",
+    "sentence": "자연을 사랑하는 실천가"
+  },
+  {
+    "month": "1월",
+    "day": "17일",
+    "birth_color": "#006E54",
+    "name": "맹황색",
+    "keyword1": "생활",
+    "keyword2": "지도력",
+    "keyword3": "미소",
+    "sentence": "배짱과 호기심많은 미식가"
+  },
+  {
+    "month": "1월",
+    "day": "18일",
+    "birth_color": "#44744B",
+    "name": "포리지",
+    "keyword1": "성실",
+    "keyword2": "세련",
+    "keyword3": "겸허",
+    "sentence": "어리고 순수한 사람"
+  },
+  {
+    "month": "1월",
+    "day": "19일",
+    "birth_color": "#9FC24D",
+    "name": "리프 그린",
+    "keyword1": "상냥함",
+    "keyword2": "자존심",
+    "keyword3": "정신성",
+    "sentence": "어떤 일에도 열심인 노력가"
+  },
+  {
+    "month": "1월",
+    "day": "20일",
+    "birth_color": "#288C66",
+    "name": "포레스트 그린",
+    "keyword1": "에너지",
+    "keyword2": "자기투자",
+    "keyword3": "확신",
+    "sentence": "이상이 확실한 사람"
+  },
+  {
+    "month": "1월",
+    "day": "21일",
+    "birth_color": "#A0D8EF",
+    "name": "하늘색",
+    "keyword1": "감성",
+    "keyword2": "가능성",
+    "keyword3": "예술성",
+    "sentence": "아름다움을 느끼는 재능"
+  },
+  {
+    "month": "1월",
+    "day": "22일",
+    "birth_color": "#00A3AF",
+    "name": "옥청색",
+    "keyword1": "행복",
+    "keyword2": "사랑",
+    "keyword3": "우정",
+    "sentence": "배려심 있는 사람"
+  },
+  {
+    "month": "1월",
+    "day": "23일",
+    "birth_color": "#38A1D8",
+    "name": "노초",
+    "keyword1": "젊음",
+    "keyword2": "정서",
+    "keyword3": "집중력",
+    "sentence": "평화롭고 평온한 마음의 소유자"
+  },
+  {
+    "month": "1월",
+    "day": "24일",
+    "birth_color": "#00688B",
+    "name": "오리깃색",
+    "keyword1": "두뇌명석",
+    "keyword2": "성실",
+    "keyword3": "감수성",
+    "sentence": "즐거움 꿈을 향해가는 낙천가"
+  },
+  {
+    "month": "1월",
+    "day": "25일",
+    "birth_color": "#0F2350",
+    "name": "농람",
+    "keyword1": "이상",
+    "keyword2": "현실",
+    "keyword3": "새로운 생활",
+    "sentence": "평안한 생활이 가능한 사람"
+  },
+  {
+    "month": "1월",
+    "day": "26일",
+    "birth_color": "#E3D7A3",
+    "name": "크림",
+    "keyword1": "풍부한표정",
+    "keyword2": "조직",
+    "keyword3": "재치",
+    "sentence": "태양 같은 개성의 소유자"
+  },
+  {
+    "month": "1월",
+    "day": "27일",
+    "birth_color": "#FEF400",
+    "name": "페일 레몬",
+    "keyword1": "맵시",
+    "keyword2": "신비적인 눈",
+    "sentence": "세련된 분위기를 가진 사람"
+  },
+  {
+    "month": "1월",
+    "day": "28일",
+    "birth_color": "#FFD900",
+    "name": "민들레색",
+    "keyword1": "모험",
+    "keyword2": "밝음",
+    "keyword3": "호기심",
+    "sentence": "태어날 때부터 낙천가"
+  },
+  {
+    "month": "1월",
+    "day": "29일",
+    "birth_color": "#C3D825",
+    "name": "어린풀색",
+    "keyword1": "운동신경",
+    "keyword2": "지각력",
+    "keyword3": "명예",
+    "sentence": "비범한 설득력의 소유자"
+  },
+  {
+    "month": "1월",
+    "day": "30일",
+    "birth_color": "#529C47",
+    "name": "메도 그린",
+    "keyword1": "넘치는 사랑",
+    "keyword2": "동물애호",
+    "sentence": "동식물과 상성이 좋은 사람"
+  },
+  {
+    "month": "1월",
+    "day": "31일",
+    "birth_color": "#E0EBAF",
+    "name": "어린싹색",
+    "keyword1": "감상적",
+    "keyword2": "순응",
+    "keyword3": "예의",
+    "sentence": "상처받기 쉬운 로맨티스트"
+  },
+  {
+    "month": "2월",
+    "day": "1일",
+    "birth_color": "#3F4E93",
+    "name": "콘플라워 블루",
+    "keyword1": "문화적",
+    "keyword2": "사교적",
+    "sentence": "사회적으로도 매우 인정받는 예술가"
+  },
+  {
+    "month": "2월",
+    "day": "2일",
+    "birth_color": "#BC64A4",
+    "name": "연보라",
+    "keyword1": "상상력",
+    "keyword2": "경모",
+    "keyword3": "직관력",
+    "sentence": "타인과 확실한 차가 있는 개성파"
+  },
+  {
+    "month": "2월",
+    "day": "3일",
+    "birth_color": "#21297E",
+    "name": "딥로얄 블루",
+    "keyword1": "직관력",
+    "keyword2": "수줍음",
+    "keyword3": "위엄",
+    "sentence": "자신의 가치를 아는 천상 프린세스"
+  },
+  {
+    "month": "2월",
+    "day": "4일",
+    "birth_color": "#CCA6BF",
+    "name": "홍등색",
+    "keyword1": "감성",
+    "keyword2": "재색겸비",
+    "keyword3": "외향성",
+    "sentence": "타인과 다르고 싶어하는 개성파"
+  },
+  {
+    "month": "2월",
+    "day": "5일",
+    "birth_color": "#50347E",
+    "name": "팬지 퍼플",
+    "keyword1": "교육적",
+    "keyword2": "시적",
+    "keyword3": "신비",
+    "keyword4": "몽환",
+    "sentence": "나아갈 길을 아는 영감의 소유자"
+  },
+  {
+    "month": "2월",
+    "day": "6일",
+    "birth_color": "#DEBDD8",
+    "name": "페일 라일락",
+    "keyword1": "가정",
+    "keyword2": "표현력",
+    "keyword3": "품위",
+    "sentence": "타인을 감동시키는 힘의 소유지"
+  },
+  {
+    "month": "2월",
+    "day": "7일",
+    "birth_color": "#B269A1",
+    "name": "모벳",
+    "keyword1": "자주성",
+    "keyword2": "천재",
+    "keyword3": "감성",
+    "sentence": "외곬수에 사명감이 있는 기대주"
+  },
+  {
+    "month": "2월",
+    "day": "8일",
+    "birth_color": "#6C2735",
+    "name": "버건디",
+    "keyword1": "정열",
+    "keyword2": "애교",
+    "keyword3": "사려깊음",
+    "sentence": "흉내가 특기인 귀여운 장난꾸러기"
+  },
+  {
+    "month": "2월",
+    "day": "9일",
+    "birth_color": "#EA4A6E",
+    "name": "푸크시아 퍼플",
+    "keyword1": "국제감각",
+    "keyword2": "활발",
+    "keyword3": "지도자",
+    "sentence": "활약하는 인간, 인간미 있는 열혈한"
+  },
+  {
+    "month": "2월",
+    "day": "10일",
+    "birth_color": "#EA618E",
+    "name": "로즈 레드",
+    "keyword1": "애정",
+    "keyword2": "감수성",
+    "keyword3": "지성",
+    "sentence": "타인을 돕고 북돋우는 상냥한 사람"
+  },
+  {
+    "month": "2월",
+    "day": "11일",
+    "birth_color": "#D3336F",
+    "name": "홍색",
+    "keyword1": "개방적",
+    "keyword2": "단순명쾌",
+    "keyword3": "표현",
+    "sentence": "어떤 일이든 마음속 깊이 기뻐하는 솔직한 사람"
+  },
+  {
+    "month": "2월",
+    "day": "12일",
+    "birth_color": "#D5345E",
+    "name": "카민",
+    "keyword1": "외교적",
+    "keyword2": "정열",
+    "keyword3": "격함",
+    "sentence": "조용하지만 적극적인 행도파"
+  },
+  {
+    "month": "2월",
+    "day": "13일",
+    "birth_color": "#585B54",
+    "name": "휘파람새색",
+    "keyword1": "가정",
+    "keyword2": "착실함",
+    "keyword3": "향상심",
+    "sentence": "자신의 가치관을 소중히 키우는 예술가"
+  },
+  {
+    "month": "2월",
+    "day": "14일",
+    "birth_color": "#726D40",
+    "name": "해송색",
+    "keyword1": "이율배반",
+    "keyword2": "성실",
+    "keyword3": "기품",
+    "sentence": "도회적인 센스를 갖춘 사람"
+  },
+  {
+    "month": "2월",
+    "day": "15일",
+    "birth_color": "#89C3EB",
+    "name": "물망초색",
+    "keyword1": "우정",
+    "keyword2": "평화",
+    "keyword3": "조화",
+    "sentence": "행동전에 2번 생각하는 신중파"
+  },
+  {
+    "month": "2월",
+    "day": "16일",
+    "birth_color": "#A4C1D7",
+    "name": "스모크 블루",
+    "keyword1": "겸허",
+    "keyword2": "견실",
+    "keyword3": "극기심",
+    "sentence": "항상 자신을 끌어올리려는 노력가"
+  },
+  {
+    "month": "2월",
+    "day": "17일",
+    "birth_color": "#4C5E74",
+    "name": "스몰트",
+    "keyword1": "끈기",
+    "keyword2": "완벽주의",
+    "keyword3": "품격",
+    "sentence": "일에 몰두하는 사람"
+  },
+  {
+    "month": "2월",
+    "day": "18일",
+    "birth_color": "#6C3524",
+    "name": "초콜릿",
+    "keyword1": "불굴",
+    "keyword2": "번뜩임",
+    "keyword3": "자기정당화",
+    "sentence": "자신의 생각의 올바르다 주장할 수 있는 사람"
+  },
+  {
+    "month": "2월",
+    "day": "19일",
+    "birth_color": "#223A70",
+    "name": "감색",
+    "keyword1": "그릇이큼",
+    "keyword2": "지도자",
+    "keyword3": "감성",
+    "sentence": "자신이 향하는 길을 아는 사람"
+  },
+  {
+    "month": "2월",
+    "day": "20일",
+    "birth_color": "#FFF1CF",
+    "name": "아기새색",
+    "keyword1": "매혹",
+    "keyword2": "개성",
+    "keyword3": "절도",
+    "sentence": "독창적인 센스를 가진 개성파"
+  },
+  {
+    "month": "2월",
+    "day": "21일",
+    "birth_color": "#FFF799",
+    "name": "라임라이트",
+    "keyword1": "매혹",
+    "keyword2": "개성",
+    "keyword3": "절도",
+    "sentence": "강렬한 개성과 주장의 소유자"
+  },
+  {
+    "month": "2월",
+    "day": "22일",
+    "birth_color": "#FABF14",
+    "name": "울금색",
+    "keyword1": "감성",
+    "keyword2": "즐거움",
+    "keyword3": "예술",
+    "sentence": "즐겁게 새로운 것을 추구하는 낙천가"
+  },
+  {
+    "month": "2월",
+    "day": "23일",
+    "birth_color": "#FFEC47",
+    "name": "유채꽃색",
+    "keyword1": "인도주의",
+    "keyword2": "불언실행",
+    "sentence": "사람들에게 환희를 가져다주는 행동파"
+  },
+  {
+    "month": "2월",
+    "day": "24일",
+    "birth_color": "#D8E2AE",
+    "name": "리드 그린",
+    "keyword1": "휴식",
+    "keyword2": "사교적",
+    "sentence": "항상 희망을 품고 전진하는 사람"
+  },
+  {
+    "month": "2월",
+    "day": "25일",
+    "birth_color": "#E5E8E1",
+    "name": "미스트 화이트",
+    "keyword1": "목적",
+    "keyword2": "감명",
+    "keyword3": "명예",
+    "sentence": "끈기로 목적을 달성하는 노력가"
+  },
+  {
+    "month": "2월",
+    "day": "26일",
+    "birth_color": "#BECEBC",
+    "name": "이엽색",
+    "keyword1": "원만",
+    "keyword2": "노력",
+    "keyword3": "정확",
+    "sentence": "어려운 문제에도 최선을 다하는 도전가"
+  },
+  {
+    "month": "2월",
+    "day": "27일",
+    "birth_color": "#A1A46D",
+    "name": "버들차",
+    "keyword1": "즐거움",
+    "keyword2": "대범함",
+    "keyword3": "개방적",
+    "sentence": "규율에 얽매이지 않는 인기인"
+  },
+  {
+    "month": "2월",
+    "day": "28일",
+    "birth_color": "#5F6527",
+    "name": "올리브 그린",
+    "keyword1": "감성",
+    "keyword2": "견실",
+    "keyword3": "우아",
+    "sentence": "사람들과의 교류를 소중히 하는 사람"
+  },
+  {
+    "month": "2월",
+    "day": "29일",
+    "birth_color": "#578A3D",
+    "name": "아이비 그린",
+    "keyword1": "도덕",
+    "keyword2": "지능",
+    "keyword3": "구상",
+    "sentence": "친구를 잘 돌보는 사람"
+  },
+  {
+    "month": "3월",
+    "day": "1일",
+    "birth_color": "#F5B199",
+    "name": "연홍색",
+    "keyword1": "책임감",
+    "keyword2": "배려",
+    "keyword3": "상냥함",
+    "sentence": "사람들에게 기운을 주는 인기인"
+  },
+  {
+    "month": "3월",
+    "day": "2일",
+    "birth_color": "#FDEDE4",
+    "name": "베이비 핑크",
+    "keyword1": "이상",
+    "keyword2": "가정적",
+    "keyword3": "포용력",
+    "sentence": "행복한 가정을 가진 사람"
+  },
+  {
+    "month": "3월",
+    "day": "3일",
+    "birth_color": "#F4B3C2",
+    "name": "연분홍색",
+    "keyword1": "연애",
+    "keyword2": "예의",
+    "keyword3": "반지르르함",
+    "sentence": "사랑받고 있으면 아릅답게 빛나는 사람"
+  },
+  {
+    "month": "3월",
+    "day": "4일",
+    "birth_color": "#EA5550",
+    "name": "파피 레드",
+    "keyword1": "주인공",
+    "keyword2": "고상",
+    "keyword3": "민감",
+    "sentence": "평균으론 만족하지 않는 사람"
+  },
+  {
+    "month": "3월",
+    "day": "5일",
+    "birth_color": "#CF0125",
+    "name": "체리 레드",
+    "keyword1": "현실주의",
+    "keyword2": "감성",
+    "keyword3": "정열",
+    "sentence": "이상적인 사고방식의 야무진 사람"
+  },
+  {
+    "month": "3월",
+    "day": "6일",
+    "birth_color": "#FEF4F4",
+    "name": "벚꽃색",
+    "keyword1": "애정",
+    "keyword2": "배려",
+    "keyword3": "건전",
+    "sentence": "사람을 감동시키는 힘이 깃든 사람"
+  },
+  {
+    "month": "3월",
+    "day": "7일",
+    "birth_color": "#F3A68C",
+    "name": "새먼 핑크",
+    "keyword1": "부드러움",
+    "keyword2": "상냥함",
+    "keyword3": "감성",
+    "sentence": "타인의 행복을 가슴 깊이 비는 인격자"
+  },
+  {
+    "month": "3월",
+    "day": "8일",
+    "birth_color": "#F2A0A1",
+    "name": "홍매색",
+    "keyword1": "애정",
+    "keyword2": "안정",
+    "keyword3": "여성스러움",
+    "sentence": "사랑이 흘러넘치는 여성스러운 사람"
+  },
+  {
+    "month": "3월",
+    "day": "9일",
+    "birth_color": "#F5B1AA",
+    "name": "산호색",
+    "keyword1": "의욕",
+    "keyword2": "용맹",
+    "keyword3": "외교적",
+    "sentence": "동경을 실현하려고 애쓰는 행동파"
+  },
+  {
+    "month": "3월",
+    "day": "10일",
+    "birth_color": "#E8383D",
+    "name": "시그널 레드",
+    "keyword1": "지속력",
+    "keyword2": "지도자",
+    "sentence": "많은 분야에서 활약하는 인기인"
+  },
+  {
+    "month": "3월",
+    "day": "11일",
+    "birth_color": "#F4DDA5",
+    "name": "숫돌가루색",
+    "keyword1": "자비로움",
+    "keyword2": "정열",
+    "keyword3": "손재주",
+    "sentence": "따듯하고 관대한 마음의 소유자"
+  },
+  {
+    "month": "3월",
+    "day": "12일",
+    "birth_color": "#E65454",
+    "name": "오렌지 버밀리온",
+    "keyword1": "천진함",
+    "keyword2": "감성",
+    "keyword3": "순수",
+    "sentence": "타인을 올바른 방향으로 이끄는 천사"
+  },
+  {
+    "month": "3월",
+    "day": "13일",
+    "birth_color": "#ED6D3D",
+    "name": "감색",
+    "keyword1": "튼튼함",
+    "keyword2": "조직력",
+    "keyword3": "대망",
+    "sentence": "건강함을 어필하는 인기인"
+  },
+  {
+    "month": "3월",
+    "day": "14일",
+    "birth_color": "#E23620",
+    "name": "스칼렛",
+    "keyword1": "에너지",
+    "keyword2": "명랑",
+    "keyword3": "정열",
+    "sentence": "화려한 활기로 넘치는 행동파"
+  },
+  {
+    "month": "3월",
+    "day": "15일",
+    "birth_color": "#D11C1E",
+    "name": "루즈",
+    "keyword1": "활발",
+    "keyword2": "건강",
+    "keyword3": "외향성",
+    "sentence": "자발적으로 행동하는 정열가"
+  },
+  {
+    "month": "3월",
+    "day": "16일",
+    "birth_color": "#D2A4C8",
+    "name": "연분홍 등나무",
+    "keyword1": "직관력",
+    "keyword2": "정신고양",
+    "keyword3": "품위",
+    "sentence": "몸도 마음도 여성스러운 솔직한 사람"
+  },
+  {
+    "month": "3월",
+    "day": "17일",
+    "birth_color": "#915DA3",
+    "name": "모브",
+    "keyword1": "상상력",
+    "keyword2": "센스",
+    "keyword3": "매혹적",
+    "sentence": "계속 새로운 것을 만들어내는 창조자"
+  },
+  {
+    "month": "3월",
+    "day": "18일",
+    "birth_color": "#985B9E",
+    "name": "캄파뉼라 퍼플",
+    "keyword1": "예민",
+    "keyword2": "신비적",
+    "keyword3": "고귀",
+    "sentence": "모든 것에 민감한 신비한 사람"
+  },
+  {
+    "month": "3월",
+    "day": "19일",
+    "birth_color": "#581074",
+    "name": "비오레",
+    "keyword1": "침착함",
+    "keyword2": "건강",
+    "keyword3": "안정감",
+    "sentence": "호수 같이 마음이 잔잔하고 아름다운 사람"
+  },
+  {
+    "month": "3월",
+    "day": "20일",
+    "birth_color": "#895B8A",
+    "name": "옛자색",
+    "keyword1": "침착함",
+    "keyword2": "품위",
+    "keyword3": "고귀",
+    "sentence": "언제나 냉정하게 사물을 판단하는 사람"
+  },
+  {
+    "month": "3월",
+    "day": "21일",
+    "birth_color": "#AAA7D0",
+    "name": "페일 오키드",
+    "keyword1": "천부적 재능",
+    "keyword2": "신비",
+    "keyword3": "무관계",
+    "sentence": "주위의 환경을 아름답게 바꾸는 사람"
+  },
+  {
+    "month": "3월",
+    "day": "22일",
+    "birth_color": "#B464A0",
+    "name": "딥 모벳",
+    "keyword1": "품격",
+    "keyword2": "민감함",
+    "keyword3": "사양",
+    "sentence": "어디에서든 누구에게든 사랑받는 인기인"
+  },
+  {
+    "month": "3월",
+    "day": "23일",
+    "birth_color": "#745399",
+    "name": "에도 보라",
+    "keyword1": "안정",
+    "keyword2": "세련",
+    "keyword3": "예술적 재능",
+    "sentence": "결코 자만하지 않은 품격자"
+  },
+  {
+    "month": "3월",
+    "day": "24일",
+    "birth_color": "#934491",
+    "name": "맬로",
+    "keyword1": "직감적",
+    "keyword2": "고상",
+    "keyword3": "주관적",
+    "sentence": "마음의 친구를 원하는 로맨티스트"
+  },
+  {
+    "month": "3월",
+    "day": "25일",
+    "birth_color": "#B33E5C",
+    "name": "와인 레드",
+    "keyword1": "주인공의 품격",
+    "keyword2": "개성",
+    "keyword3": "자신",
+    "sentence": "직관력과 위엄으로 이름을 떨치는 예술가"
+  },
+  {
+    "month": "3월",
+    "day": "26일",
+    "birth_color": "#CAE2C6",
+    "name": "실버 그린",
+    "keyword1": "가능성",
+    "keyword2": "행동력",
+    "keyword3": "명석",
+    "sentence": "과감하게 몰두하는 노력가"
+  },
+  {
+    "month": "3월",
+    "day": "27일",
+    "birth_color": "#BEE0CE",
+    "name": "오팔 그린",
+    "keyword1": "미모",
+    "keyword2": "육성",
+    "keyword3": "자기표현",
+    "sentence": "꽃의 생명이 피듯 아름다운 사람"
+  },
+  {
+    "month": "3월",
+    "day": "28일",
+    "birth_color": "#A7D3CF",
+    "name": "페일 아쿠아",
+    "keyword1": "감사",
+    "keyword2": "교양",
+    "keyword3": "배려",
+    "sentence": "옆에서 신기한 향이 풍기는 사람"
+  },
+  {
+    "month": "3월",
+    "day": "29일",
+    "birth_color": "#A3D3DD",
+    "name": "스프레이 그린",
+    "keyword1": "겸허",
+    "keyword2": "착실함",
+    "keyword3": "전문적",
+    "sentence": "복잡한 문제도 간단하게 해결하는 사람"
+  },
+  {
+    "month": "3월",
+    "day": "30일",
+    "birth_color": "#49BDF0",
+    "name": "파스텔 블루",
+    "keyword1": "트렌드",
+    "keyword2": "정열과 안락함",
+    "sentence": "창작력을 기르는 로맨티스트"
+  },
+  {
+    "month": "3월",
+    "day": "31일",
+    "birth_color": "#ECE093",
+    "name": "스트로",
+    "keyword1": "격려",
+    "keyword2": "감동",
+    "keyword3": "환희와 비애",
+    "sentence": "자유롭게 행동하는 스포츠맨"
+  },
+  {
+    "month": "4월",
+    "day": "1일",
+    "birth_color": "#FDEFF2",
+    "name": "연벚꽃",
+    "keyword1": "세련",
+    "keyword2": "친구",
+    "keyword3": "미소",
+    "sentence": "행복한 분위기를 만드는 로맨티스트"
+  },
+  {
+    "month": "4월",
+    "day": "2일",
+    "birth_color": "#FBDAC8",
+    "name": "셸 핑크",
+    "keyword1": "시적 정서",
+    "keyword2": "두뇌명석",
+    "keyword3": "순수",
+    "sentence": "천재적감성을 갖춘 노력가"
+  },
+  {
+    "month": "4월",
+    "day": "3일",
+    "birth_color": "#F5A0BD",
+    "name": "푸크시아 핑크",
+    "keyword1": "배려",
+    "keyword2": "천진함",
+    "keyword3": "상상력",
+    "sentence": "트렌드를 읽는 감각이 뛰어난 사람"
+  },
+  {
+    "month": "4월",
+    "day": "4일",
+    "birth_color": "#E383A4",
+    "name": "딥 오키드 핑크",
+    "keyword1": "정서",
+    "keyword2": "사교적",
+    "keyword3": "목표",
+    "sentence": "따듯한 마음으로 가득한 사람"
+  },
+  {
+    "month": "4월",
+    "day": "5일",
+    "birth_color": "#84A2D4",
+    "name": "청등색",
+    "keyword1": "친교",
+    "keyword2": "정열",
+    "keyword3": "세련",
+    "sentence": "모든 것이 세련된 베스트 드레서"
+  },
+  {
+    "month": "4월",
+    "day": "6일",
+    "birth_color": "#68A9CF",
+    "name": "초크 블루",
+    "keyword1": "천진함",
+    "keyword2": "맑은 시선",
+    "keyword3": "세련",
+    "sentence": "현실에서 유리된 아름다움을 추구하는 사람"
+  },
+  {
+    "month": "4월",
+    "day": "7일",
+    "birth_color": "#F1F5DC",
+    "name": "흰백합",
+    "keyword1": "다재",
+    "keyword2": "내향성",
+    "keyword3": "창의적",
+    "sentence": "흥미를 품고 다양한 시도를 하는 노력가"
+  },
+  {
+    "month": "4월",
+    "day": "8일",
+    "birth_color": "#69B076",
+    "name": "연두색",
+    "keyword1": "희망",
+    "keyword2": "용의주도",
+    "keyword3": "경애",
+    "sentence": "따스한 존재감을 풍기는 사람"
+  },
+  {
+    "month": "4월",
+    "day": "9일",
+    "birth_color": "#FBCA4D",
+    "name": "치자색",
+    "keyword1": "스포츠",
+    "keyword2": "유려한 동작",
+    "sentence": "상황에 맞춰 정확하게 행동하는 사람"
+  },
+  {
+    "month": "4월",
+    "day": "10일",
+    "birth_color": "#E5A323",
+    "name": "펌킨",
+    "keyword1": "맑은 눈",
+    "keyword2": "청순",
+    "keyword3": "치밀",
+    "sentence": "젊은 세대의 감성이 뛰어난 선구자"
+  },
+  {
+    "month": "4월",
+    "day": "11일",
+    "birth_color": "#ECDECF",
+    "name": "찐밤색",
+    "keyword1": "노력가",
+    "keyword2": "현실주의",
+    "keyword3": "양기",
+    "sentence": "세상일에 정통한 견실한 장인형"
+  },
+  {
+    "month": "4월",
+    "day": "12일",
+    "birth_color": "#A29779",
+    "name": "리큐 담갈색",
+    "keyword1": "전통",
+    "keyword2": "기교",
+    "keyword3": "주장",
+    "sentence": "전통을 중시하는 비기를 소지한 자신가"
+  },
+  {
+    "month": "4월",
+    "day": "13일",
+    "birth_color": "#E8ECE9",
+    "name": "프로스티 그레이",
+    "keyword1": "낙관적",
+    "keyword2": "밝음",
+    "keyword3": "철학적",
+    "sentence": "풍부한 생활경험이 있는 유머러스한 사람"
+  },
+  {
+    "month": "4월",
+    "day": "14일",
+    "birth_color": "#949495",
+    "name": "회색",
+    "keyword1": "미모",
+    "keyword2": "낭창함",
+    "keyword3": "배려",
+    "sentence": "사람의 영혼을 매료시키는 선녀 같은 사람"
+  },
+  {
+    "month": "4월",
+    "day": "15일",
+    "birth_color": "#D5DAD4",
+    "name": "페일 미스트 화이트",
+    "keyword1": "중립",
+    "keyword2": "보수적",
+    "keyword3": "전통",
+    "sentence": "의리와 인정이 두터운 정의감 넘치는 사람"
+  },
+  {
+    "month": "4월",
+    "day": "16일",
+    "birth_color": "#CBD0D3",
+    "name": "스카이 그레이",
+    "keyword1": "온건",
+    "keyword2": "쾌할",
+    "keyword3": "겸손",
+    "sentence": "일을 요령있게 해내는 온건파"
+  },
+  {
+    "month": "4월",
+    "day": "17일",
+    "birth_color": "#898989",
+    "name": "배틀쉽 그레이",
+    "keyword1": "올곧음",
+    "keyword2": "책임감",
+    "keyword3": "객관적",
+    "sentence": "어떤 장애에도 동요하지 않은 견실한 사람"
+  },
+  {
+    "month": "4월",
+    "day": "18일",
+    "birth_color": "#626063",
+    "name": "슬레이트 그레이",
+    "keyword1": "재치",
+    "keyword2": "긍지",
+    "keyword3": "양심",
+    "sentence": "기쁨을 얻기 위해 맹진하는 행동파"
+  },
+  {
+    "month": "4월",
+    "day": "19일",
+    "birth_color": "#524E4D",
+    "name": "소탄색",
+    "keyword1": "엄숙",
+    "keyword2": "성실",
+    "keyword3": "기량",
+    "sentence": "동찰력과 기량을 같이 겸비한 사람"
+  },
+  {
+    "month": "4월",
+    "day": "20일",
+    "birth_color": "#C7DC68",
+    "name": "어린묘목색",
+    "keyword1": "규율",
+    "keyword2": "말투",
+    "keyword3": "애정",
+    "sentence": "맑고 빛나는 감성의 소유자"
+  },
+  {
+    "month": "4월",
+    "day": "21일",
+    "birth_color": "#D8E698",
+    "name": "어린나물색",
+    "keyword1": "온후",
+    "keyword2": "성의",
+    "keyword3": "감상적",
+    "sentence": "항상 솔직한 자세로 임하는 사람"
+  },
+  {
+    "month": "4월",
+    "day": "22일",
+    "birth_color": "#2AA74B",
+    "name": "앵록",
+    "keyword1": "리더십",
+    "keyword2": "지도자",
+    "sentence": "일하는 것을 좋아하는 사람"
+  },
+  {
+    "month": "4월",
+    "day": "23일",
+    "birth_color": "#88CB9D",
+    "name": "갈대잎색",
+    "keyword1": "조화",
+    "keyword2": "순응",
+    "keyword3": "인간관계",
+    "sentence": "사회의 신용을 모으는 착실한 사람"
+  },
+  {
+    "month": "4월",
+    "day": "24일",
+    "birth_color": "#A3D49C",
+    "name": "스프라우트",
+    "keyword1": "우아",
+    "keyword2": "상냥함",
+    "keyword3": "문학",
+    "sentence": "문학에 이끌리느 상냥한 사람"
+  },
+  {
+    "month": "4월",
+    "day": "25일",
+    "birth_color": "#79C288",
+    "name": "에르브",
+    "keyword1": "섬세",
+    "keyword2": "스포츠",
+    "keyword3": "시간",
+    "sentence": "일에 보람을 느끼는 도전자"
+  },
+  {
+    "month": "4월",
+    "day": "26일",
+    "birth_color": "#73C266",
+    "name": "딥 피 그린",
+    "keyword1": "향상심",
+    "keyword2": "봉사",
+    "keyword3": "완성",
+    "sentence": "재능을 갈고 닦는 것을 잊지 않는 노력가"
+  },
+  {
+    "month": "4월",
+    "day": "27일",
+    "birth_color": "#00A968",
+    "name": "에메랄드 그린",
+    "keyword1": "인생",
+    "keyword2": "경험",
+    "keyword3": "단련",
+    "sentence": "꿈을 향해 도전하는 사람"
+  },
+  {
+    "month": "4월",
+    "day": "28일",
+    "birth_color": "#00947A",
+    "name": "터콰이즈 그린",
+    "keyword1": "성숙",
+    "keyword2": "밸런스",
+    "keyword3": "창의",
+    "sentence": "다양한 계획을 만들어내는 아이디어맨"
+  },
+  {
+    "month": "4월",
+    "day": "29일",
+    "birth_color": "#00A6AF",
+    "name": "연옥색",
+    "keyword1": "천진함",
+    "keyword2": "신비성",
+    "keyword3": "치유",
+    "sentence": "천진한 마음의 소유자"
+  },
+  {
+    "month": "4월",
+    "day": "30일",
+    "birth_color": "#00B2BC",
+    "name": "애저 블루",
+    "keyword1": "협조",
+    "keyword2": "행동",
+    "keyword3": "성장",
+    "sentence": "성장하는 사람"
+  },
+  {
+    "month": "5월",
+    "day": "1일",
+    "birth_color": "#009B9F",
+    "name": "터콰이즈",
+    "keyword1": "기민",
+    "keyword2": "서정성",
+    "sentence": "누구에게나 사랑받는 인기인"
+  },
+  {
+    "month": "5월",
+    "day": "2일",
+    "birth_color": "#009854",
+    "name": "말라카이트 그린",
+    "keyword1": "정열적",
+    "keyword2": "유머러스",
+    "keyword3": "정숙",
+    "sentence": "사교적이지만 선동을 싫어하는 자연파"
+  },
+  {
+    "month": "5월",
+    "day": "3일",
+    "birth_color": "#01686D",
+    "name": "틸 그린",
+    "keyword1": "대지",
+    "keyword2": "정서적",
+    "keyword3": "목가적",
+    "sentence": "맑은 시냇가를 동경하는 목가적인 사람"
+  },
+  {
+    "month": "5월",
+    "day": "4일",
+    "birth_color": "#014127",
+    "name": "쇠오리색",
+    "keyword1": "재생능력",
+    "keyword2": "경영력",
+    "keyword3": "쇄신력",
+    "sentence": "정정당당한 키퍼슨"
+  },
+  {
+    "month": "5월",
+    "day": "5일",
+    "birth_color": "#BCE2E8",
+    "name": "물색",
+    "keyword1": "분방",
+    "keyword2": "동찰",
+    "keyword3": "주역",
+    "sentence": "이념을 구현화할 수 있는 예술가"
+  },
+  {
+    "month": "5월",
+    "day": "6일",
+    "birth_color": "#70C6F5",
+    "name": "포겟-미-낫 블루",
+    "keyword1": "직관",
+    "keyword2": "상냥함",
+    "keyword3": "아이디어",
+    "sentence": "재능을 발휘하는 여성스러운 사람"
+  },
+  {
+    "month": "5월",
+    "day": "7일",
+    "birth_color": "#4C6CB3",
+    "name": "군청색",
+    "keyword1": "사려깊음",
+    "keyword2": "규율",
+    "keyword3": "낭창함",
+    "sentence": "칭찬을 받는 마돈나"
+  },
+  {
+    "month": "5월",
+    "day": "8일",
+    "birth_color": "#316745",
+    "name": "천세록",
+    "keyword1": "정중",
+    "keyword2": "인내",
+    "keyword3": "겸손",
+    "sentence": "숙고하고 발언하는 신중파"
+  },
+  {
+    "month": "5월",
+    "day": "9일",
+    "birth_color": "#2CB232",
+    "name": "패러킷 그린",
+    "keyword1": "조화",
+    "keyword2": "밸런스",
+    "sentence": "조화와 밸런스를 갖춘 행동파"
+  },
+  {
+    "month": "5월",
+    "day": "10일",
+    "birth_color": "#F5F6CA",
+    "name": "에그셸",
+    "keyword1": "소녀",
+    "keyword2": "감상적",
+    "keyword3": "관대",
+    "sentence": "장난스런 사랑에 빠지지 않는 야무진 사람"
+  },
+  {
+    "month": "5월",
+    "day": "11일",
+    "birth_color": "#D1DE4C",
+    "name": "레터스 그린",
+    "keyword1": "도전",
+    "keyword2": "수다쟁이",
+    "sentence": "실패를 각오하고 새로운 일에 도전하는 사람"
+  },
+  {
+    "month": "5월",
+    "day": "12일",
+    "birth_color": "#E3E548",
+    "name": "샤르트뢰즈 옐로",
+    "keyword1": "미식가",
+    "keyword2": "사교적",
+    "keyword3": "전원적",
+    "sentence": "성실한 인품과 사교성을 겸비한 사람"
+  },
+  {
+    "month": "5월",
+    "day": "13일",
+    "birth_color": "#E4DC8A",
+    "name": "마른풀색",
+    "keyword1": "이해력",
+    "keyword2": "아이디어",
+    "sentence": "자신의 생각을 정확하게 말할 수 있는 사람"
+  },
+  {
+    "month": "5월",
+    "day": "14일",
+    "birth_color": "#72640C",
+    "name": "올리브",
+    "keyword1": "자연",
+    "keyword2": "상냥함",
+    "sentence": "꽃이나 풀을 키우는 기쁨을 아는 자연애호가"
+  },
+  {
+    "month": "5월",
+    "day": "15일",
+    "birth_color": "#D0C67C",
+    "name": "콜로니얼 옐로",
+    "keyword1": "양심",
+    "keyword2": "향상심",
+    "keyword3": "체계화",
+    "sentence": "항상 지식을 모으는 향상심으로 가득찬 사람"
+  },
+  {
+    "month": "5월",
+    "day": "16일",
+    "birth_color": "#A49627",
+    "name": "페일 머스터드",
+    "keyword1": "올곧음",
+    "keyword2": "세심",
+    "keyword3": "강한마음",
+    "sentence": "견실하고 완고한 기질의 명인 타입"
+  },
+  {
+    "month": "5월",
+    "day": "17일",
+    "birth_color": "#8D6F2F",
+    "name": "골든 오커",
+    "keyword1": "명민",
+    "keyword2": "뛰어남",
+    "keyword3": "동찰",
+    "sentence": "자신의 생각을 굽히지 않는 완고한 사람"
+  },
+  {
+    "month": "5월",
+    "day": "18일",
+    "birth_color": "#464646",
+    "name": "올리브차",
+    "keyword1": "정확한발언",
+    "keyword2": "학식",
+    "keyword3": "보수",
+    "sentence": "지식이 풍부한 온건파"
+  },
+  {
+    "month": "5월",
+    "day": "19일",
+    "birth_color": "#494A41",
+    "name": "천세차",
+    "keyword1": "중립",
+    "keyword2": "공평",
+    "keyword3": "밸런스",
+    "sentence": "어떤 문제도 대응하는 뛰어난 사람"
+  },
+  {
+    "month": "5월",
+    "day": "20일",
+    "birth_color": "#8CCAB0",
+    "name": "딥 아쿠아",
+    "keyword1": "감상적",
+    "keyword2": "아름다운 용모",
+    "sentence": "센티멘탈한 행복의 여신"
+  },
+  {
+    "month": "5월",
+    "day": "21일",
+    "birth_color": "#47885E",
+    "name": "녹상색",
+    "keyword1": "두뇌명석",
+    "keyword2": "기교",
+    "keyword3": "적응",
+    "sentence": "항상 자극과 감동을 추구하는 긍정적인 사람"
+  },
+  {
+    "month": "5월",
+    "day": "22일",
+    "birth_color": "#036122",
+    "name": "스프루스 그린",
+    "keyword1": "정직",
+    "keyword2": "성실",
+    "keyword3": "밸런스",
+    "sentence": "대가없는 사랑으로 넘치는 인정많은 사람"
+  },
+  {
+    "month": "5월",
+    "day": "23일",
+    "birth_color": "#034415",
+    "name": "보틀 그린",
+    "keyword1": "자연",
+    "keyword2": "개성",
+    "keyword3": "관용",
+    "sentence": "낭랑하고 남을 꾸짖지 않는 마음 넓은 사람"
+  },
+  {
+    "month": "5월",
+    "day": "24일",
+    "birth_color": "#264939",
+    "name": "사이프러스 그린",
+    "keyword1": "조화",
+    "keyword2": "배려",
+    "keyword3": "정리",
+    "sentence": "모두에게서 신뢰받는 누님 타입"
+  },
+  {
+    "month": "5월",
+    "day": "25일",
+    "birth_color": "#FACE9D",
+    "name": "네이플스 옐로",
+    "keyword1": "낭랑함",
+    "keyword2": "순조로움",
+    "sentence": "남을 잘 돌보며 사랑받는 인기인"
+  },
+  {
+    "month": "5월",
+    "day": "26일",
+    "birth_color": "#F9CC77",
+    "name": "메리골드 옐로",
+    "keyword1": "생명력",
+    "keyword2": "정서적",
+    "keyword3": "정열",
+    "sentence": "태양 같은 밝고 건강미 넘치는 미인"
+  },
+  {
+    "month": "5월",
+    "day": "27일",
+    "birth_color": "#F8B500",
+    "name": "황매화색",
+    "keyword1": "씩씩함",
+    "keyword2": "영지",
+    "keyword3": "해방",
+    "sentence": "밝고 온화하며, 자유를 사랑하는 사람"
+  },
+  {
+    "month": "5월",
+    "day": "28일",
+    "birth_color": "#B36029",
+    "name": "올드 골드",
+    "keyword1": "전통계승",
+    "keyword2": "관찰력",
+    "sentence": "일을 즐길 줄 아는 야무진 사람"
+  },
+  {
+    "month": "5월",
+    "day": "29일",
+    "birth_color": "#7A5347",
+    "name": "커피 브라운",
+    "keyword1": "규율",
+    "keyword2": "모범",
+    "keyword3": "자신",
+    "sentence": "항상 위를 노릴 수 있는 기량을 갖춘 사람"
+  },
+  {
+    "month": "5월",
+    "day": "30일",
+    "birth_color": "#E8D3D1",
+    "name": "회벚꽃",
+    "keyword1": "로맨티스트",
+    "keyword2": "지식",
+    "sentence": "우아하고 세련된 윤곽의 소유자"
+  },
+  {
+    "month": "5월",
+    "day": "31일",
+    "birth_color": "#F0908D",
+    "name": "연분홍",
+    "keyword1": "교양",
+    "keyword2": "숭고",
+    "keyword3": "재원",
+    "sentence": "일을 착착 처리하는 능력자"
+  },
+  {
+    "month": "6월",
+    "day": "1일",
+    "birth_color": "#BEA2CA",
+    "name": "페일 크로커스",
+    "keyword1": "여성스러움",
+    "keyword2": "자만",
+    "sentence": "품위를 갖춘 여성 중의 여성"
+  },
+  {
+    "month": "6월",
+    "day": "2일",
+    "birth_color": "#7058A3",
+    "name": "제비꽃색",
+    "keyword1": "변덕",
+    "keyword2": "매력적",
+    "sentence": "결코 아양떨지 않는 품격 높은 여성"
+  },
+  {
+    "month": "6월",
+    "day": "3일",
+    "birth_color": "#5C1767",
+    "name": "플루플루",
+    "keyword1": "느긋함",
+    "keyword2": "진리",
+    "keyword3": "고독",
+    "sentence": "항상 밸런스를 명심하는 사람"
+  },
+  {
+    "month": "6월",
+    "day": "4일",
+    "birth_color": "#F7F7D9",
+    "name": "페일 화이트 릴리",
+    "keyword1": "천진함",
+    "keyword2": "풍부한 재능",
+    "keyword3": "자극",
+    "sentence": "어릴 때로 되돌아가고 싶은 순진한 마음의 소유자"
+  },
+  {
+    "month": "6월",
+    "day": "5일",
+    "birth_color": "#DDEAB2",
+    "name": "페일 프레쉬 그린",
+    "keyword1": "규칙적",
+    "keyword2": "역경에 강함",
+    "sentence": "리듬감 있는 생활을 즐기는 사람"
+  },
+  {
+    "month": "6월",
+    "day": "6일",
+    "birth_color": "#E0DE94",
+    "name": "멜론 옐로",
+    "keyword1": "인도주의",
+    "keyword2": "서비스정신",
+    "sentence": "인간관계를 소중히 하는 평온한 사람"
+  },
+  {
+    "month": "6월",
+    "day": "7일",
+    "birth_color": "#657D61",
+    "name": "엘름 그린",
+    "keyword1": "청렴결백",
+    "keyword2": "정신력",
+    "sentence": "커뮤니케이션이 특기인 국제파"
+  },
+  {
+    "month": "6월",
+    "day": "8일",
+    "birth_color": "#665A1A",
+    "name": "올리브 드랩",
+    "keyword1": "애정",
+    "keyword2": "밸런스",
+    "keyword3": "뛰어난 어학",
+    "sentence": "타인의 의견이나 행동에 관용적인 사람"
+  },
+  {
+    "month": "6월",
+    "day": "9일",
+    "birth_color": "#FFF8A8",
+    "name": "크림",
+    "keyword1": "몸가짐",
+    "keyword2": "세련",
+    "keyword3": "품격",
+    "sentence": "용모가 주위의 주목을 모으는 품격있는 사람"
+  },
+  {
+    "month": "6월",
+    "day": "10일",
+    "birth_color": "#FFF352",
+    "name": "레몬 옐로",
+    "keyword1": "밝음",
+    "keyword2": "현실",
+    "keyword3": "경영력",
+    "sentence": "밝고 주위를 기운 나게 하는 자신가"
+  },
+  {
+    "month": "6월",
+    "day": "11일",
+    "birth_color": "#F6D700",
+    "name": "노란 수선화",
+    "keyword1": "학문",
+    "keyword2": "연구개발",
+    "keyword3": "기획력",
+    "sentence": "가장 앞에서 연구를 즐기는 정열가"
+  },
+  {
+    "month": "6월",
+    "day": "12일",
+    "birth_color": "#FAC559",
+    "name": "사프란 옐로",
+    "keyword1": "체력",
+    "keyword2": "용모수려",
+    "sentence": "밸런스 있는 식사를 즐기는 사람"
+  },
+  {
+    "month": "6월",
+    "day": "13일",
+    "birth_color": "#FCC800",
+    "name": "해바라기색",
+    "keyword1": "수다쟁이",
+    "keyword2": "건강함",
+    "keyword3": "향상심",
+    "sentence": "희망에 가슴이 부푼 밝은 사람"
+  },
+  {
+    "month": "6월",
+    "day": "14일",
+    "birth_color": "#F8F4E6",
+    "name": "아이보리",
+    "keyword1": "신뢰",
+    "keyword2": "성실",
+    "keyword3": "보수적",
+    "sentence": "중간입장에 서는 신중한 사람"
+  },
+  {
+    "month": "6월",
+    "day": "15일",
+    "birth_color": "#F7B894",
+    "name": "라이트 애프리콧",
+    "keyword1": "인내심 강함",
+    "keyword2": "맹돌진",
+    "sentence": "철저한 성실성이 장점인 사람"
+  },
+  {
+    "month": "6월",
+    "day": "16일",
+    "birth_color": "#C39143",
+    "name": "황토색",
+    "keyword1": "평가",
+    "keyword2": "끈기있음",
+    "sentence": "노력으로 목표를 달성하는 노력형"
+  },
+  {
+    "month": "6월",
+    "day": "17일",
+    "birth_color": "#E29399",
+    "name": "올드 로즈",
+    "keyword1": "정신적 안정",
+    "keyword2": "일이 취미",
+    "sentence": "경험을 지식과 기술로 갖춘 사람"
+  },
+  {
+    "month": "6월",
+    "day": "18일",
+    "birth_color": "#724943",
+    "name": "마호가니 브라운",
+    "keyword1": "자신",
+    "keyword2": "침착함",
+    "keyword3": "자연",
+    "sentence": "유머 센스가 넘치는 견실한 사람"
+  },
+  {
+    "month": "6월",
+    "day": "19일",
+    "birth_color": "#FCD575",
+    "name": "달걀색",
+    "keyword1": "스포츠",
+    "keyword2": "건강",
+    "keyword3": "조직",
+    "sentence": "스포츠를 좋아하는 노력가"
+  },
+  {
+    "month": "6월",
+    "day": "20일",
+    "birth_color": "#F19D45",
+    "name": "선라이트 옐로",
+    "keyword1": "사교적",
+    "keyword2": "친구",
+    "keyword3": "에너지",
+    "sentence": "항생 행동으로 선도하는 모범생"
+  },
+  {
+    "month": "6월",
+    "day": "21일",
+    "birth_color": "#F39800",
+    "name": "금차",
+    "keyword1": "예술",
+    "keyword2": "스포츠",
+    "keyword3": "미식가",
+    "sentence": "요리도구도 따지는 미식가"
+  },
+  {
+    "month": "6월",
+    "day": "22일",
+    "birth_color": "#973B2C",
+    "name": "가넷 브라운",
+    "keyword1": "에너지",
+    "keyword2": "무아",
+    "keyword3": "수다쟁이",
+    "sentence": "사람을 좋아하고 애교 많은 발랄한 사람"
+  },
+  {
+    "month": "6월",
+    "day": "23일",
+    "birth_color": "#773C30",
+    "name": "적갈색",
+    "keyword1": "희망",
+    "keyword2": "향상심",
+    "keyword3": "지도력",
+    "sentence": "인생경험으로 원숙하고 관대한 사람"
+  },
+  {
+    "month": "6월",
+    "day": "24일",
+    "birth_color": "#F9BDC5",
+    "name": "라이트 오키드 핑크",
+    "keyword1": "미소",
+    "keyword2": "상냥함",
+    "keyword3": "영원",
+    "sentence": "요정처럼 기품 넘치는 사람"
+  },
+  {
+    "month": "6월",
+    "day": "25일",
+    "birth_color": "#E1849E",
+    "name": "페일 체리 핑크",
+    "keyword1": "용기",
+    "keyword2": "우아",
+    "keyword3": "안락함",
+    "sentence": "타인의 마음을 사로잡는 신중한 사람"
+  },
+  {
+    "month": "6월",
+    "day": "26일",
+    "birth_color": "#EB5381",
+    "name": "카네이션 핑크",
+    "keyword1": "낯 안가림",
+    "keyword2": "숭고",
+    "sentence": "호의적이고 타인에게 사랑받는 영원한 연인"
+  },
+  {
+    "month": "6월",
+    "day": "27일",
+    "birth_color": "#F19CA7",
+    "name": "로즈 핑크",
+    "keyword1": "격한 감정",
+    "keyword2": "외교적",
+    "sentence": "타인이 감격할 찬스를 주는 정열가"
+  },
+  {
+    "month": "6월",
+    "day": "28일",
+    "birth_color": "#CF0141",
+    "name": "페퍼 레드",
+    "keyword1": "에너지",
+    "keyword2": "맑은 마음",
+    "sentence": "긍정적인 마음가짐으로 사람들에게서 존경받는 재인"
+  },
+  {
+    "month": "6월",
+    "day": "29일",
+    "birth_color": "#BBE2F1",
+    "name": "베이비 블루",
+    "keyword1": "평화",
+    "keyword2": "정온",
+    "keyword3": "사려깊음",
+    "sentence": "타인의 요구에 곧바로 대응하는 사람"
+  },
+  {
+    "month": "6월",
+    "day": "30일",
+    "birth_color": "#5383C3",
+    "name": "박군청",
+    "keyword1": "개성",
+    "keyword2": "이상",
+    "keyword3": "향상심",
+    "sentence": "주위를 사로잡는 매력의 소유자"
+  },
+  {
+    "month": "7월",
+    "day": "1일",
+    "birth_color": "#007199",
+    "name": "덕 블루",
+    "keyword1": "평화",
+    "keyword2": "공상",
+    "keyword3": "환경문제",
+    "sentence": "지구를 생명이라 생각하는 환경론자"
+  },
+  {
+    "month": "7월",
+    "day": "2일",
+    "birth_color": "#0068B7",
+    "name": "코발트 블루",
+    "keyword1": "재주좋음",
+    "keyword2": "섬세",
+    "sentence": "감성 풍부한 세련된 도시파"
+  },
+  {
+    "month": "7월",
+    "day": "3일",
+    "birth_color": "#003F8E",
+    "name": "잉크 블루",
+    "keyword1": "기품",
+    "keyword2": "견디는 자",
+    "keyword3": "자신",
+    "sentence": "타인이 부러워할 정도의 자신가"
+  },
+  {
+    "month": "7월",
+    "day": "4일",
+    "birth_color": "#3FB5D3",
+    "name": "아쿠아",
+    "keyword1": "정온",
+    "keyword2": "숭고",
+    "keyword3": "자기발전",
+    "sentence": "정신상태를 컨트롤 할 수 있는 사람"
+  },
+  {
+    "month": "7월",
+    "day": "5일",
+    "birth_color": "#4593A0",
+    "name": "페일 색소폰 블루",
+    "keyword1": "감성",
+    "keyword2": "자유",
+    "keyword3": "감춰진 정열",
+    "sentence": "애정으로 가득한 조용한 성격의 사람"
+  },
+  {
+    "month": "7월",
+    "day": "6일",
+    "birth_color": "#59B9C6",
+    "name": "신바시색",
+    "keyword1": "상황판단",
+    "keyword2": "결정력",
+    "keyword3": "신념",
+    "sentence": "긍정적이며 일도 생활도 즐기는 사람"
+  },
+  {
+    "month": "7월",
+    "day": "7일",
+    "birth_color": "#016171",
+    "name": "블루 카나드",
+    "keyword1": "총명",
+    "keyword2": "대망",
+    "keyword3": "찬스",
+    "sentence": "하나를 들으면 열을 아는 재주 많은 사람"
+  },
+  {
+    "month": "7월",
+    "day": "8일",
+    "birth_color": "#006888",
+    "name": "마린 블루",
+    "keyword1": "다재",
+    "keyword2": "노력",
+    "keyword3": "침착함",
+    "sentence": "노력으로 진리를 추구하는 정열가"
+  },
+  {
+    "month": "7월",
+    "day": "9일",
+    "birth_color": "#F7F6F5",
+    "name": "펄 화이트",
+    "keyword1": "비밀",
+    "keyword2": "고독",
+    "keyword3": "정의감",
+    "sentence": "타인이 기대는 걸 좋아하는 고결한 사람"
+  },
+  {
+    "month": "7월",
+    "day": "10일",
+    "birth_color": "#608FC3",
+    "name": "페일 파스텔 블루",
+    "keyword1": "상냥함",
+    "keyword2": "감미",
+    "keyword3": "겸허",
+    "sentence": "여성의 아름다움을 상징하는 사람"
+  },
+  {
+    "month": "7월",
+    "day": "11일",
+    "birth_color": "#5371AD",
+    "name": "라벤더 블루",
+    "keyword1": "예의",
+    "keyword2": "심미안",
+    "keyword3": "색채감",
+    "sentence": "사람을 매혹하는 매력의 소유자"
+  },
+  {
+    "month": "7월",
+    "day": "12일",
+    "birth_color": "#044182",
+    "name": "마죠리카 블루",
+    "keyword1": "교양",
+    "keyword2": "품격높음",
+    "keyword3": "행복한 미래",
+    "sentence": "진리를 추구하는 사람들의 지도자"
+  },
+  {
+    "month": "7월",
+    "day": "13일",
+    "birth_color": "#192F60",
+    "name": "감청",
+    "keyword1": "자존심",
+    "keyword2": "공의로움",
+    "keyword3": "직관력",
+    "sentence": "불행한 사람을 지나치지 않는 자비로운 사람"
+  },
+  {
+    "month": "7월",
+    "day": "14일",
+    "birth_color": "#FDEDE4",
+    "name": "딥 베이비 핑크",
+    "keyword1": "감성",
+    "keyword2": "진심",
+    "keyword3": "따듯함",
+    "sentence": "일도 생활도 즐기는 긍정적인 사람"
+  },
+  {
+    "month": "7월",
+    "day": "15일",
+    "birth_color": "#B370A6",
+    "name": "페일 모벳",
+    "keyword1": "섬세",
+    "keyword2": "암시",
+    "keyword3": "신중함",
+    "sentence": "귀여운 것에 끌리는 아름다운 사람"
+  },
+  {
+    "month": "7월",
+    "day": "16일",
+    "birth_color": "#94ADDA",
+    "name": "파운틴 블루",
+    "keyword1": "춤과음악",
+    "keyword2": "자유",
+    "keyword3": "개성",
+    "sentence": "자유분방한 생활을 바라는 사람"
+  },
+  {
+    "month": "7월",
+    "day": "17일",
+    "birth_color": "#6B76AE",
+    "name": "샐비어 블루",
+    "keyword1": "경영력",
+    "keyword2": "세련",
+    "keyword3": "재치",
+    "sentence": "길을 갈고 닦기 위해 존재하는 여성"
+  },
+  {
+    "month": "7월",
+    "day": "18일",
+    "birth_color": "#7F1184",
+    "name": "로얄 퍼플",
+    "keyword1": "지성",
+    "keyword2": "신비성",
+    "keyword3": "향",
+    "sentence": "도와준 사람을 모두 성공으로 이끄는 사람"
+  },
+  {
+    "month": "7월",
+    "day": "19일",
+    "birth_color": "#F7A7A0",
+    "name": "딥 셸 핑크",
+    "keyword1": "섬세",
+    "keyword2": "즐거움",
+    "keyword3": "따듯함",
+    "sentence": "언제나 신중하고 변하지 않는 사랑의 소유자"
+  },
+  {
+    "month": "7월",
+    "day": "20일",
+    "birth_color": "#E49E61",
+    "name": "밀색",
+    "keyword1": "배려",
+    "keyword2": "공상",
+    "keyword3": "감수성",
+    "sentence": "우아함의 축복을 받은 요정 같은 여성"
+  },
+  {
+    "month": "7월",
+    "day": "21일",
+    "birth_color": "#C56950",
+    "name": "하바나 로즈",
+    "keyword1": "그윽함",
+    "keyword2": "약동",
+    "keyword3": "모성",
+    "sentence": "아름답고 예의바른 사람"
+  },
+  {
+    "month": "7월",
+    "day": "22일",
+    "birth_color": "#B94047",
+    "name": "연지",
+    "keyword1": "기지",
+    "keyword2": "향상심",
+    "keyword3": "탄력적",
+    "sentence": "자신의 역량을 깨닫고 갈고 닦는 사람"
+  },
+  {
+    "month": "7월",
+    "day": "23일",
+    "birth_color": "#B7282E",
+    "name": "꼭두서니색",
+    "keyword1": "엄격",
+    "keyword2": "가능성",
+    "keyword3": "적극성",
+    "sentence": "세계적 시야를 가진 온건파"
+  },
+  {
+    "month": "7월",
+    "day": "24일",
+    "birth_color": "#F5949F",
+    "name": "큐피드 핑크",
+    "keyword1": "미소",
+    "keyword2": "양식",
+    "keyword3": "소질",
+    "sentence": "자연스러운 색기로 도취시키는 미인"
+  },
+  {
+    "month": "7월",
+    "day": "25일",
+    "birth_color": "#DE82A7",
+    "name": "로터스 핑크",
+    "keyword1": "영구불변",
+    "keyword2": "헌신과 저항",
+    "sentence": "기품 있는 정신의 소유자"
+  },
+  {
+    "month": "7월",
+    "day": "26일",
+    "birth_color": "#AF363B",
+    "name": "로즈 매더",
+    "keyword1": "경애",
+    "keyword2": "우아",
+    "keyword3": "유머러스",
+    "sentence": "마음에 울리는 언동으로 감동시키는 정열가"
+  },
+  {
+    "month": "7월",
+    "day": "27일",
+    "birth_color": "#8D3446",
+    "name": "크림슨",
+    "keyword1": "경험",
+    "keyword2": "재능",
+    "keyword3": "행동력",
+    "sentence": "여성스러운 성숙이 혼재한 다감한 사람"
+  },
+  {
+    "month": "7월",
+    "day": "28일",
+    "birth_color": "#404040",
+    "name": "먹감나무색",
+    "keyword1": "유머러스",
+    "keyword2": "섬세",
+    "keyword3": "영지",
+    "sentence": "이상과 세련덴 정신의 정열가"
+  },
+  {
+    "month": "7월",
+    "day": "29일",
+    "birth_color": "#008DB7",
+    "name": "세루리언 블루",
+    "keyword1": "성실",
+    "keyword2": "영감",
+    "keyword3": "배려",
+    "sentence": "진심으로 사람을 대하는 상냥한 사람"
+  },
+  {
+    "month": "7월",
+    "day": "30일",
+    "birth_color": "#009E9F",
+    "name": "피콕 블루",
+    "keyword1": "깊은애정",
+    "keyword2": "조화",
+    "keyword3": "우정",
+    "sentence": "자신을 알고 갈고 닦는 사람"
+  },
+  {
+    "month": "7월",
+    "day": "31일",
+    "birth_color": "#044D78",
+    "name": "페르시안 블루",
+    "keyword1": "신비적",
+    "keyword2": "쿨함",
+    "keyword3": "밝음",
+    "sentence": "표정에 드러내지 않고 속으로 감동하는 사람"
+  },
+  {
+    "month": "8월",
+    "day": "1일",
+    "birth_color": "#438CB5",
+    "name": "블루 셸",
+    "keyword1": "사교적",
+    "keyword2": "참을성",
+    "keyword3": "성실",
+    "sentence": "모두에게 성실한 사교적인 사람"
+  },
+  {
+    "month": "8월",
+    "day": "2일",
+    "birth_color": "#0098D4",
+    "name": "피어 요트 블루",
+    "keyword1": "지능",
+    "keyword2": "책임",
+    "keyword3": "스피디",
+    "sentence": "내향적이고 격식을 중요시하는 보수주의자"
+  },
+  {
+    "month": "8월",
+    "day": "3일",
+    "birth_color": "#409ECC",
+    "name": "요트 블루",
+    "keyword1": "근엄",
+    "keyword2": "완벽주의",
+    "keyword3": "인맥",
+    "sentence": "사람을 마음 깊은 곳에서 믿는 믿음직한 사람"
+  },
+  {
+    "month": "8월",
+    "day": "4일",
+    "birth_color": "#0063A7",
+    "name": "시안 블루",
+    "keyword1": "기품있음",
+    "keyword2": "품격",
+    "keyword3": "정점",
+    "sentence": "끈기 있고 곤란한 상황에도 맞서는 인내심 있는 사람"
+  },
+  {
+    "month": "8월",
+    "day": "5일",
+    "birth_color": "#1E50A2",
+    "name": "유리색",
+    "keyword1": "온화함",
+    "keyword2": "신뢰",
+    "keyword3": "존경",
+    "sentence": "사람들에게 사랑받고 존경받는 사람"
+  },
+  {
+    "month": "8월",
+    "day": "6일",
+    "birth_color": "#004C97",
+    "name": "라피스 라줄리",
+    "keyword1": "조예",
+    "keyword2": "교양",
+    "sentence": "배려 넘치는 지적인 사람"
+  },
+  {
+    "month": "8월",
+    "day": "7일",
+    "birth_color": "#02428C",
+    "name": "로얄 블루",
+    "keyword1": "매력적",
+    "keyword2": "재치",
+    "sentence": "지식을 추구하여 달려가는 탐색가"
+  },
+  {
+    "month": "8월",
+    "day": "8일",
+    "birth_color": "#164A84",
+    "name": "감유리",
+    "keyword1": "직관",
+    "keyword2": "소박",
+    "keyword3": "승부",
+    "sentence": "직관의 저 너머를 바라보는 사람"
+  },
+  {
+    "month": "8월",
+    "day": "9일",
+    "birth_color": "#202F55",
+    "name": "네이비 블루",
+    "keyword1": "지적",
+    "keyword2": "문화",
+    "keyword3": "세련",
+    "sentence": "질 나쁜 것을 싫어하는 로맨티스트"
+  },
+  {
+    "month": "8월",
+    "day": "10일",
+    "birth_color": "#3F61A1",
+    "name": "하이드렌지아 블루",
+    "keyword1": "예술",
+    "keyword2": "재능",
+    "keyword3": "표현력",
+    "sentence": "감성을 갈고 닦아 아릅답게 나타내는 예술가"
+  },
+  {
+    "month": "8월",
+    "day": "11일",
+    "birth_color": "#55295B",
+    "name": "오디색",
+    "keyword1": "직관",
+    "keyword2": "신념",
+    "keyword3": "종교",
+    "sentence": "정신세계를 느끼기 쉬운 신비주의자"
+  },
+  {
+    "month": "8월",
+    "day": "12일",
+    "birth_color": "#A6A5C4",
+    "name": "등나무 회색",
+    "keyword1": "정열",
+    "keyword2": "고독",
+    "keyword3": "절도",
+    "sentence": "자신의 존재를 바라보는 로맨티스트"
+  },
+  {
+    "month": "8월",
+    "day": "13일",
+    "birth_color": "#83CCD2",
+    "name": "백군",
+    "keyword1": "감성",
+    "keyword2": "기민",
+    "keyword3": "신념",
+    "sentence": "견실한 인품으로 신뢰와 존경받는 사람"
+  },
+  {
+    "month": "8월",
+    "day": "14일",
+    "birth_color": "#4CB8E7",
+    "name": "마이오소티스",
+    "keyword1": "빛나는 미성",
+    "keyword2": "생기",
+    "keyword3": "표현력",
+    "sentence": "사람의 마음을 정점으로 이끄는 미성의 소유자"
+  },
+  {
+    "month": "8월",
+    "day": "15일",
+    "birth_color": "#FFD900",
+    "name": "황색",
+    "keyword1": "재치",
+    "keyword2": "상냥한마음",
+    "keyword3": "가정적",
+    "sentence": "따듯한 애정으로 자란 총명한 사람"
+  },
+  {
+    "month": "8월",
+    "day": "16일",
+    "birth_color": "#FFFA9C",
+    "name": "라이트 크림",
+    "keyword1": "감성",
+    "keyword2": "의사",
+    "keyword3": "리듬",
+    "sentence": "감성을 움직여 리듬으로 표현하는 천재"
+  },
+  {
+    "month": "8월",
+    "day": "17일",
+    "birth_color": "#FFF97D",
+    "name": "프림로즈 옐로",
+    "keyword1": "사랑과 우정",
+    "keyword2": "호기심",
+    "keyword3": "탐구심",
+    "sentence": "선명한 소녀시절을 보낸 순진무구한 사람"
+  },
+  {
+    "month": "8월",
+    "day": "18일",
+    "birth_color": "#F6AD49",
+    "name": "주황색",
+    "keyword1": "지고",
+    "keyword2": "명랑",
+    "keyword3": "자유",
+    "sentence": "정신을 중시하는 현자"
+  },
+  {
+    "month": "8월",
+    "day": "19일",
+    "birth_color": "#F79101",
+    "name": "골든 오렌지",
+    "keyword1": "제멋대로",
+    "keyword2": "선구자",
+    "sentence": "넘버 원을 추구하는 긍지 높은 사람"
+  },
+  {
+    "month": "8월",
+    "day": "20일",
+    "birth_color": "#F08300",
+    "name": "밀감색",
+    "keyword1": "에너지",
+    "keyword2": "대망",
+    "keyword3": "현실",
+    "sentence": "몸과 마음 모두 건강한 현실주의자"
+  },
+  {
+    "month": "8월",
+    "day": "21일",
+    "birth_color": "#DD7A56",
+    "name": "육계색",
+    "keyword1": "에너지",
+    "keyword2": "인간관계",
+    "sentence": "밸런스 좋게 전체를 통합하는 지도자"
+  },
+  {
+    "month": "8월",
+    "day": "22일",
+    "birth_color": "#FFCC83",
+    "name": "골든 콘",
+    "keyword1": "감정이입",
+    "keyword2": "창작력",
+    "sentence": "독특함이 가득한 마음의 소유자"
+  },
+  {
+    "month": "8월",
+    "day": "23일",
+    "birth_color": "#FEAE01",
+    "name": "딥 선플라워",
+    "keyword1": "타이밍",
+    "keyword2": "미학센스",
+    "sentence": "사물을 양측에서 볼 수 있는 창조자"
+  },
+  {
+    "month": "8월",
+    "day": "24일",
+    "birth_color": "#C4972F",
+    "name": "옐로 오커",
+    "keyword1": "노력",
+    "keyword2": "트레이닝",
+    "keyword3": "행동",
+    "sentence": "자신을 더 끌어올리려는 노력가"
+  },
+  {
+    "month": "8월",
+    "day": "25일",
+    "birth_color": "#CAAC71",
+    "name": "버프",
+    "keyword1": "절도",
+    "keyword2": "평화",
+    "keyword3": "우아",
+    "sentence": "인간관계를 소중히 하는 예의바른 사람"
+  },
+  {
+    "month": "8월",
+    "day": "26일",
+    "birth_color": "#7D541C",
+    "name": "연초색",
+    "keyword1": "견실",
+    "keyword2": "조직력",
+    "keyword3": "현실주의",
+    "sentence": "자신이 우위에 서길 바라는 지도자"
+  },
+  {
+    "month": "8월",
+    "day": "27일",
+    "birth_color": "#A0D8EF",
+    "name": "스카이 블루",
+    "keyword1": "계획성",
+    "keyword2": "패션",
+    "sentence": "어떤 옷이든 어울리는 로맨티스트"
+  },
+  {
+    "month": "8월",
+    "day": "28일",
+    "birth_color": "#5D9CBF",
+    "name": "아쿠아 그레이",
+    "keyword1": "예술",
+    "keyword2": "감성",
+    "keyword3": "상상력",
+    "sentence": "많은 분야에서 주역을 원하는 크리에이터"
+  },
+  {
+    "month": "8월",
+    "day": "29일",
+    "birth_color": "#4B7CB6",
+    "name": "페일 샐비어 블루",
+    "keyword1": "향긋함",
+    "keyword2": "헌신",
+    "keyword3": "기품",
+    "sentence": "인맥쌓기가 특기인 신중파"
+  },
+  {
+    "month": "8월",
+    "day": "30일",
+    "birth_color": "#356CAC",
+    "name": "울트라마린",
+    "keyword1": "모성애",
+    "keyword2": "음악",
+    "keyword3": "기품",
+    "sentence": "마음의 현을 켜는 사람"
+  },
+  {
+    "month": "8월",
+    "day": "31일",
+    "birth_color": "#460E44",
+    "name": "자감",
+    "keyword1": "자기관리",
+    "keyword2": "권엄",
+    "keyword3": "고압적",
+    "sentence": "사람의 위에 서는 오피니언 리더"
+  },
+  {
+    "month": "9월",
+    "day": "1일",
+    "birth_color": "#7DBB7C",
+    "name": "프레시 그린",
+    "keyword1": "교양",
+    "keyword2": "섬세",
+    "keyword3": "신중함",
+    "sentence": "상냥한 목소리로 꽃피우는 연애소설의 여주인공"
+  },
+  {
+    "month": "9월",
+    "day": "2일",
+    "birth_color": "#368A56",
+    "name": "목초색",
+    "keyword1": "완고",
+    "keyword2": "공명정대",
+    "keyword3": "노력",
+    "sentence": "자기희생도 마다하지 않는 존경할 만한 사람"
+  },
+  {
+    "month": "9월",
+    "day": "3일",
+    "birth_color": "#016257",
+    "name": "홀리 그린",
+    "keyword1": "지각",
+    "keyword2": "상냥함",
+    "keyword3": "창작의욕",
+    "sentence": "유토피아를 꿈꾸는 문학소녀"
+  },
+  {
+    "month": "9월",
+    "day": "4일",
+    "birth_color": "#006B35",
+    "name": "비리디안",
+    "keyword1": "호기심",
+    "keyword2": "스릴",
+    "keyword3": "자발적",
+    "sentence": "냉정한 판단력이 있는 객관적인 사람"
+  },
+  {
+    "month": "9월",
+    "day": "5일",
+    "birth_color": "#005243",
+    "name": "철색",
+    "keyword1": "허영심",
+    "keyword2": "선악구별",
+    "keyword3": "질서",
+    "sentence": "조금씩 진리에 다가가는 고결한 사람"
+  },
+  {
+    "month": "9월",
+    "day": "6일",
+    "birth_color": "#003D26",
+    "name": "해송람색",
+    "keyword1": "자기자신",
+    "keyword2": "노력",
+    "sentence": "노력을 게을리 하지 않는 노력가"
+  },
+  {
+    "month": "9월",
+    "day": "7일",
+    "birth_color": "#6EBDC2",
+    "name": "담수색",
+    "keyword1": "조화",
+    "keyword2": "정숙",
+    "keyword3": "순수",
+    "sentence": "도움이 되는 것에서 삶의 보람을 느끼는 사람"
+  },
+  {
+    "month": "9월",
+    "day": "8일",
+    "birth_color": "#67B5B7",
+    "name": "아쿠아마린",
+    "keyword1": "모험",
+    "keyword2": "최정상",
+    "keyword3": "임기응변",
+    "sentence": "양심을 신조로 삼는 착실한 사람"
+  },
+  {
+    "month": "9월",
+    "day": "9일",
+    "birth_color": "#006069",
+    "name": "딥 틸 그린",
+    "keyword1": "배려",
+    "keyword2": "예의",
+    "keyword3": "건강",
+    "sentence": "호기심을 계속 지닌 젊은 사람"
+  },
+  {
+    "month": "9월",
+    "day": "10일",
+    "birth_color": "#17184B",
+    "name": "철감",
+    "keyword1": "냉정",
+    "keyword2": "자기평가",
+    "keyword3": "독창",
+    "sentence": "진두지휘를 하는 뛰어난 경영자"
+  },
+  {
+    "month": "9월",
+    "day": "11일",
+    "birth_color": "#003221",
+    "name": "블루 드 프루스",
+    "keyword1": "미식가",
+    "keyword2": "사상가",
+    "keyword3": "문재",
+    "sentence": "무엇이든 알기 쉽게 표현하는 재능이 있는 사람"
+  },
+  {
+    "month": "9월",
+    "day": "12일",
+    "birth_color": "#282B6E",
+    "name": "멀버리",
+    "keyword1": "큰그릇",
+    "keyword2": "지도자",
+    "keyword3": "감성",
+    "sentence": "자신이 나아가고 있는 길을 아는 식자"
+  },
+  {
+    "month": "9월",
+    "day": "13일",
+    "birth_color": "#28285A",
+    "name": "퍼플 네이비",
+    "keyword1": "꼼꼼함",
+    "keyword2": "세련",
+    "keyword3": "독창성",
+    "sentence": "그림 같은 섬세한 로맨티스트"
+  },
+  {
+    "month": "9월",
+    "day": "14일",
+    "birth_color": "#BF783E",
+    "name": "탠",
+    "keyword1": "착상",
+    "keyword2": "노력",
+    "keyword3": "철저추구",
+    "sentence": "의문이 풀릴 때까지 조사하는 정열가"
+  },
+  {
+    "month": "9월",
+    "day": "15일",
+    "birth_color": "#8A3B00",
+    "name": "갈색",
+    "keyword1": "의지",
+    "keyword2": "호기심",
+    "keyword3": "경험",
+    "sentence": "자기주장이 강한 스트레이트한 사람"
+  },
+  {
+    "month": "9월",
+    "day": "16일",
+    "birth_color": "#BD6856",
+    "name": "테라코타",
+    "keyword1": "심정",
+    "keyword2": "전통",
+    "keyword3": "주의주장",
+    "sentence": "호기롭고 대담한 사고방식의 선인"
+  },
+  {
+    "month": "9월",
+    "day": "17일",
+    "birth_color": "#7DBB7C",
+    "name": "옥회색",
+    "keyword1": "냉정침착",
+    "keyword2": "직관",
+    "keyword3": "배려",
+    "sentence": "안정적이고 믿음직한 리더"
+  },
+  {
+    "month": "9월",
+    "day": "18일",
+    "birth_color": "#BCCDDB",
+    "name": "파우더 블루",
+    "keyword1": "냉정",
+    "keyword2": "온후독실",
+    "keyword3": "위엄",
+    "sentence": "후진의 지도가 특기인 온후한 사람"
+  },
+  {
+    "month": "9월",
+    "day": "19일",
+    "birth_color": "#7C7684",
+    "name": "라일락 헤이지",
+    "keyword1": "엄격",
+    "keyword2": "일본풍",
+    "keyword3": "소질개발",
+    "sentence": "엄격함을 기본으로 원숙에 도달하는 노력함"
+  },
+  {
+    "month": "9월",
+    "day": "20일",
+    "birth_color": "#FFFCBF",
+    "name": "라이트 레몬",
+    "keyword1": "우수",
+    "keyword2": "순수",
+    "keyword3": "세련",
+    "sentence": "민감한 감성을 가진 솔직한 사람"
+  },
+  {
+    "month": "9월",
+    "day": "21일",
+    "birth_color": "#E3EDC8",
+    "name": "티 그린",
+    "keyword1": "고결",
+    "keyword2": "신비주의",
+    "keyword3": "고독",
+    "sentence": "기품있고 티 없는 신비주의자"
+  },
+  {
+    "month": "9월",
+    "day": "22일",
+    "birth_color": "#EDEE9E",
+    "name": "버전",
+    "keyword1": "즐거운대화",
+    "keyword2": "쾌활",
+    "sentence": "기분 좋은 분위기를 만드는 사람"
+  },
+  {
+    "month": "9월",
+    "day": "23일",
+    "birth_color": "#EBE960",
+    "name": "존 시트론",
+    "keyword1": "공정함",
+    "keyword2": "자력",
+    "keyword3": "자기희생",
+    "sentence": "보람을 제대로 느끼는 야심가"
+  },
+  {
+    "month": "9월",
+    "day": "24일",
+    "birth_color": "#D7CF3A",
+    "name": "황록색",
+    "keyword1": "승부",
+    "keyword2": "호기",
+    "keyword3": "직관",
+    "sentence": "규율을 타파하고 돌진하는 정열가"
+  },
+  {
+    "month": "9월",
+    "day": "25일",
+    "birth_color": "#FDB86D",
+    "name": "선 오렌지",
+    "keyword1": "배려",
+    "keyword2": "구상",
+    "keyword3": "순발력",
+    "sentence": "주위에 영향받기 쉬운 순진한 사람"
+  },
+  {
+    "month": "9월",
+    "day": "26일",
+    "birth_color": "#F37F44",
+    "name": "탠저린 오렌지",
+    "keyword1": "책임감",
+    "keyword2": "숙고",
+    "keyword3": "오리지널",
+    "sentence": "모방을 싫어하는 독특한 발상을 하는 사람"
+  },
+  {
+    "month": "9월",
+    "day": "27일",
+    "birth_color": "#F16F4F",
+    "name": "타이거 릴리",
+    "keyword1": "생명력",
+    "keyword2": "선구자",
+    "keyword3": "용기",
+    "sentence": "기상천외한 발상을 하는 선구자"
+  },
+  {
+    "month": "9월",
+    "day": "28일",
+    "birth_color": "#D3381C",
+    "name": "비색",
+    "keyword1": "꿈",
+    "keyword2": "존경",
+    "keyword3": "구상",
+    "sentence": "고상한 분위기의 존경할 만한 사람"
+  },
+  {
+    "month": "9월",
+    "day": "29일",
+    "birth_color": "#E95388",
+    "name": "오페라",
+    "keyword1": "천진난만",
+    "keyword2": "강인한 정신",
+    "sentence": "한 가지에 집중할 수 있는 사람"
+  },
+  {
+    "month": "9월",
+    "day": "30일",
+    "birth_color": "#89438C",
+    "name": "아마란스 퍼플",
+    "keyword1": "현실",
+    "keyword2": "본질",
+    "keyword3": "탐구심",
+    "sentence": "아름다운 토지를 추구하는 로맨티스트"
+  },
+  {
+    "month": "10월",
+    "day": "1일",
+    "birth_color": "#EE7948",
+    "name": "황단",
+    "keyword1": "훈련",
+    "keyword2": "생명력",
+    "keyword3": "리듬감",
+    "sentence": "예술과 스포츠에 뛰어난 활발한 사람"
+  },
+  {
+    "month": "10월",
+    "day": "2일",
+    "birth_color": "#8F2E14",
+    "name": "변병색",
+    "keyword1": "양기",
+    "keyword2": "창조",
+    "keyword3": "미소",
+    "sentence": "누구에게나 사랑받는 따듯한 마음의 소유자"
+  },
+  {
+    "month": "10월",
+    "day": "3일",
+    "birth_color": "#ED6D35",
+    "name": "캐럿 오렌지",
+    "keyword1": "파워",
+    "keyword2": "충실",
+    "keyword3": "도전",
+    "sentence": "홀로 있는 것을 싫어하는 사교적인 사람"
+  },
+  {
+    "month": "10월",
+    "day": "4일",
+    "birth_color": "#EC5415",
+    "name": "플레임 오렌지",
+    "keyword1": "감성",
+    "keyword2": "영리",
+    "keyword3": "미모",
+    "sentence": "감정을 숨긴 정열가"
+  },
+  {
+    "month": "10월",
+    "day": "5일",
+    "birth_color": "#C78A77",
+    "name": "정자색",
+    "keyword1": "보수적",
+    "keyword2": "의무감",
+    "keyword3": "책임감",
+    "sentence": "변덕을 용서하지 않는 합리주의자"
+  },
+  {
+    "month": "10월",
+    "day": "6일",
+    "birth_color": "#BE8F68",
+    "name": "시나몬",
+    "keyword1": "몸상태",
+    "keyword2": "정신안정",
+    "keyword3": "안녕",
+    "sentence": "비범한 것을 직관적으로 알아채는 사람"
+  },
+  {
+    "month": "10월",
+    "day": "7일",
+    "birth_color": "#946C45",
+    "name": "카페오레",
+    "keyword1": "지식",
+    "keyword2": "듬직함",
+    "keyword3": "결단력",
+    "sentence": "요리를 좋아하는 왕성한 생활력의 소유자"
+  },
+  {
+    "month": "10월",
+    "day": "8일",
+    "birth_color": "#B55233",
+    "name": "벽돌색",
+    "keyword1": "안락",
+    "keyword2": "행복",
+    "keyword3": "자유",
+    "sentence": "자연화 한 몸이 되는 자유로운 사람"
+  },
+  {
+    "month": "10월",
+    "day": "9일",
+    "birth_color": "#7B411C",
+    "name": "테라 로사",
+    "keyword1": "이론적",
+    "keyword2": "감수성",
+    "keyword3": "위험회피",
+    "sentence": "새로운 경지를 여는 경이로운 사람"
+  },
+  {
+    "month": "10월",
+    "day": "10일",
+    "birth_color": "#BA8B40",
+    "name": "오커",
+    "keyword1": "지력",
+    "keyword2": "선견지명",
+    "keyword3": "이해",
+    "sentence": "끊이지 않는 탐구심의 소유자"
+  },
+  {
+    "month": "10월",
+    "day": "11일",
+    "birth_color": "#B76651",
+    "name": "카멜",
+    "keyword1": "기억력",
+    "keyword2": "상상력",
+    "keyword3": "재능",
+    "sentence": "충동적인 언행을 하지 않는 정직한 사람"
+  },
+  {
+    "month": "10월",
+    "day": "12일",
+    "birth_color": "#823616",
+    "name": "번트 시에나",
+    "keyword1": "개성",
+    "keyword2": "장대",
+    "keyword3": "상상력",
+    "sentence": "소박한 상냥함을 가진 그윽한 사람"
+  },
+  {
+    "month": "10월",
+    "day": "13일",
+    "birth_color": "#6D3C32",
+    "name": "율피차",
+    "keyword1": "스태미너",
+    "keyword2": "신비적",
+    "keyword3": "보수적",
+    "sentence": "항상 음악과 함께하는 건강한 사람"
+  },
+  {
+    "month": "10월",
+    "day": "14일",
+    "birth_color": "#622D18",
+    "name": "세피아",
+    "keyword1": "교양",
+    "keyword2": "청순함",
+    "keyword3": "독창성",
+    "sentence": "풍부한 감성을 가진 변덕스러운 사람"
+  },
+  {
+    "month": "10월",
+    "day": "15일",
+    "birth_color": "#BB5520",
+    "name": "대자",
+    "keyword1": "모성애",
+    "keyword2": "자기발전",
+    "keyword3": "동찰력",
+    "sentence": "재치가 넘치는 총명한 사람"
+  },
+  {
+    "month": "10월",
+    "day": "16일",
+    "birth_color": "#E9BC00",
+    "name": "토파즈",
+    "keyword1": "우등생",
+    "keyword2": "입념",
+    "keyword3": "신중",
+    "sentence": "자신다움을 나타내는 재인"
+  },
+  {
+    "month": "10월",
+    "day": "17일",
+    "birth_color": "#D7D0CA",
+    "name": "오키드 화이트",
+    "keyword1": "깨끗함",
+    "keyword2": "이해력",
+    "keyword3": "배려",
+    "sentence": "온후한 마음과 도량이 넓은 사람"
+  },
+  {
+    "month": "10월",
+    "day": "18일",
+    "birth_color": "#C9C9C4",
+    "name": "펄 그레이",
+    "keyword1": "화발",
+    "keyword2": "우미",
+    "keyword3": "위엄",
+    "sentence": "정과 동이 융화한 매력적인 사람"
+  },
+  {
+    "month": "10월",
+    "day": "19일",
+    "birth_color": "#AFAFB0",
+    "name": "은회색",
+    "keyword1": "신중함",
+    "keyword2": "예의",
+    "keyword3": "기품",
+    "sentence": "배려 깊은 기품이 넘치는 사람"
+  },
+  {
+    "month": "10월",
+    "day": "20일",
+    "birth_color": "#7D7D7D",
+    "name": "마우스 그레이",
+    "keyword1": "자연",
+    "keyword2": "관습",
+    "keyword3": "시행착오",
+    "sentence": "안정된 인생을 보내는 평화주의자"
+  },
+  {
+    "month": "10월",
+    "day": "21일",
+    "birth_color": "#9E8B8E",
+    "name": "비둘기깃 회색",
+    "keyword1": "종교적",
+    "keyword2": "금욕",
+    "keyword3": "서정성",
+    "sentence": "신성한 사색으로 인간성을 회복하는 사람"
+  },
+  {
+    "month": "10월",
+    "day": "22일",
+    "birth_color": "#585C5B",
+    "name": "석판색",
+    "keyword1": "문화",
+    "keyword2": "선동",
+    "keyword3": "도회적",
+    "sentence": "일에 몰두하는 합리주의자"
+  },
+  {
+    "month": "10월",
+    "day": "23일",
+    "birth_color": "#D0AF4C",
+    "name": "겨자색",
+    "keyword1": "자신",
+    "keyword2": "기억력",
+    "keyword3": "불굴의 정신",
+    "sentence": "구상을 정제하여 실현하는 자신가"
+  },
+  {
+    "month": "10월",
+    "day": "24일",
+    "birth_color": "#646F2D",
+    "name": "씨 모스",
+    "keyword1": "정열",
+    "keyword2": "협력",
+    "keyword3": "꿈",
+    "sentence": "기초적인 사고가 확실한 사람"
+  },
+  {
+    "month": "10월",
+    "day": "25일",
+    "birth_color": "#9D8E87",
+    "name": "로즈 그레이",
+    "keyword1": "친절",
+    "keyword2": "경의",
+    "keyword3": "정숙",
+    "sentence": "듬직하게 행동하는 침착한 사람"
+  },
+  {
+    "month": "10월",
+    "day": "26일",
+    "birth_color": "#548778",
+    "name": "라이트 터콰이즈",
+    "keyword1": "자기주도적",
+    "keyword2": "지도자",
+    "keyword3": "활로",
+    "sentence": "항상 냉정하고 사려깊게 행동하는 사람"
+  },
+  {
+    "month": "10월",
+    "day": "27일",
+    "birth_color": "#476B6B",
+    "name": "청납호",
+    "keyword1": "계속",
+    "keyword2": "평온",
+    "keyword3": "자연",
+    "sentence": "항상 새로운 목표에 도전하는 사람"
+  },
+  {
+    "month": "10월",
+    "day": "28일",
+    "birth_color": "#6C6A6D",
+    "name": "비둘기깃 보라",
+    "keyword1": "긍정적",
+    "keyword2": "결벽",
+    "keyword3": "기품",
+    "sentence": "행동으로 배우는 실천주의자"
+  },
+  {
+    "month": "10월",
+    "day": "29일",
+    "birth_color": "#665951",
+    "name": "밤색",
+    "keyword1": "고집",
+    "keyword2": "건강",
+    "keyword3": "온건",
+    "sentence": "온건하지만 자신의 생각을 굽히지 않는 사람"
+  },
+  {
+    "month": "10월",
+    "day": "30일",
+    "birth_color": "#83515D",
+    "name": "빈야드",
+    "keyword1": "경험",
+    "keyword2": "상담가적",
+    "sentence": "문제의 해결에 협력하는 믿음직한 사람"
+  },
+  {
+    "month": "10월",
+    "day": "31일",
+    "birth_color": "#D1BADA",
+    "name": "라일락",
+    "keyword1": "재치",
+    "keyword2": "이론적",
+    "keyword3": "용맹",
+    "sentence": "성공하기 위해 불타는 정열가"
+  },
+  {
+    "month": "11월",
+    "day": "1일",
+    "birth_color": "#BF794E",
+    "name": "낙타색",
+    "keyword1": "경영력",
+    "keyword2": "자신과 긍지",
+    "keyword3": "참을성",
+    "sentence": "자신과 기운이 넘치는 뛰어난 재능을 선보이는 사람"
+  },
+  {
+    "month": "11월",
+    "day": "2일",
+    "birth_color": "#8B724A",
+    "name": "소록색",
+    "keyword1": "동찰력",
+    "keyword2": "현실파",
+    "keyword3": "유연성",
+    "sentence": "결코 흔들리지 않는 강한 의지의 소유자"
+  },
+  {
+    "month": "11월",
+    "day": "3일",
+    "birth_color": "#538322",
+    "name": "흑차색",
+    "keyword1": "공정",
+    "keyword2": "고결",
+    "keyword3": "신뢰",
+    "sentence": "사람들의 도움을 소중히 하는 사람"
+  },
+  {
+    "month": "11월",
+    "day": "4일",
+    "birth_color": "#504946",
+    "name": "토프",
+    "keyword1": "감각",
+    "keyword2": "장인기술",
+    "keyword3": "지고",
+    "sentence": "자신의 일에 긍지가 있는 자신가"
+  },
+  {
+    "month": "11월",
+    "day": "5일",
+    "birth_color": "#4E454A",
+    "name": "차콜 그레이",
+    "keyword1": "신념",
+    "keyword2": "남성적",
+    "keyword3": "예의범절",
+    "sentence": "의리와 인정이 두터운 사람, 돕기를 좋아하는 사람"
+  },
+  {
+    "month": "11월",
+    "day": "6일",
+    "birth_color": "#FFCC7B",
+    "name": "준 드 네이플스",
+    "keyword1": "배려",
+    "keyword2": "예감",
+    "keyword3": "밸런스",
+    "sentence": "사고와 행동의 밸런스가 잡힌 사람"
+  },
+  {
+    "month": "11월",
+    "day": "7일",
+    "birth_color": "#FEB75B",
+    "name": "선플라워",
+    "keyword1": "타이밍",
+    "keyword2": "미학센스",
+    "sentence": "사물을 양면에서 바라보는 창조자"
+  },
+  {
+    "month": "11월",
+    "day": "8일",
+    "birth_color": "#F5811E",
+    "name": "나스트리움 오렌지",
+    "keyword1": "조직",
+    "keyword2": "밸런스",
+    "keyword3": "협조성",
+    "sentence": "인간관계의 예민함을 중시하는 사람"
+  },
+  {
+    "month": "11월",
+    "day": "9일",
+    "birth_color": "#CD5E3C",
+    "name": "화색",
+    "keyword1": "낙천주의",
+    "keyword2": "대담",
+    "keyword3": "향상심",
+    "sentence": "자기자신의 힘을 믿는 사람"
+  },
+  {
+    "month": "11월",
+    "day": "10일",
+    "birth_color": "#8D6029",
+    "name": "타바코 브라운",
+    "keyword1": "의지",
+    "keyword2": "친밀",
+    "keyword3": "상냥",
+    "sentence": "비밀도 잘 들어주는 상냥한 사람"
+  },
+  {
+    "month": "11월",
+    "day": "11일",
+    "birth_color": "#FFDAFC",
+    "name": "페일 크림",
+    "keyword1": "용의주도",
+    "keyword2": "창조력",
+    "keyword3": "조용함",
+    "sentence": "수많은 품격있는 감성의 소유자"
+  },
+  {
+    "month": "11월",
+    "day": "12일",
+    "birth_color": "#DCD3B2",
+    "name": "모래색",
+    "keyword1": "건강",
+    "keyword2": "숙련",
+    "keyword3": "예술",
+    "sentence": "노력과 정진으로 정점을 갈고 닦는 사람"
+  },
+  {
+    "month": "11월",
+    "day": "13일",
+    "birth_color": "#9FA09E",
+    "name": "애쉬 그레이",
+    "keyword1": "건실함",
+    "keyword2": "공정한 판단",
+    "keyword3": "일",
+    "sentence": "시간을 아끼며 일에 몰두하는 사람"
+  },
+  {
+    "month": "11월",
+    "day": "14일",
+    "birth_color": "#55461B",
+    "name": "건메탈",
+    "keyword1": "스태미너",
+    "keyword2": "모성본능",
+    "sentence": "감정에 치우치지 않는 성실하고 보수적인 사람"
+  },
+  {
+    "month": "11월",
+    "day": "15일",
+    "birth_color": "#473A17",
+    "name": "묵색",
+    "keyword1": "신비적",
+    "keyword2": "완고",
+    "keyword3": "독립심",
+    "sentence": "꿈과 희망에 가득찬 정열가"
+  },
+  {
+    "month": "11월",
+    "day": "16일",
+    "birth_color": "#FABABA",
+    "name": "벚꽃조개색",
+    "keyword1": "사랑",
+    "keyword2": "로맨틱",
+    "keyword3": "품격",
+    "sentence": "교양 있는 세련된 취향의 사람"
+  },
+  {
+    "month": "11월",
+    "day": "17일",
+    "birth_color": "#DA81B2",
+    "name": "오키드 핑크",
+    "keyword1": "단아",
+    "keyword2": "기쁨",
+    "keyword3": "헌신",
+    "sentence": "대가없는 헌신적인 사랑의 소유자"
+  },
+  {
+    "month": "11월",
+    "day": "18일",
+    "birth_color": "#B4776B",
+    "name": "마쉬 로즈",
+    "keyword1": "신망",
+    "keyword2": "도전",
+    "keyword3": "육성",
+    "sentence": "지식과 학문을 익히는 박식한 사람"
+  },
+  {
+    "month": "11월",
+    "day": "19일",
+    "birth_color": "#B158CV",
+    "name": "클라렛",
+    "keyword1": "교양",
+    "keyword2": "감성",
+    "keyword3": "정신력",
+    "sentence": "품위 있고 세상에 둘도 없는 절세미인"
+  },
+  {
+    "month": "11월",
+    "day": "20일",
+    "birth_color": "#7D7B63",
+    "name": "도브 그레이",
+    "keyword1": "변덕",
+    "keyword2": "대범",
+    "keyword3": "예술",
+    "sentence": "불타는듯한 생명력의 소유자"
+  },
+  {
+    "month": "11월",
+    "day": "21일",
+    "birth_color": "#C8CEAC",
+    "name": "페일 살로",
+    "keyword1": "탐색",
+    "keyword2": "친구",
+    "keyword3": "자만",
+    "sentence": "두번째는 되기 싫은 자신가"
+  },
+  {
+    "month": "11월",
+    "day": "22일",
+    "birth_color": "#BBC8AC",
+    "name": "말차색",
+    "keyword1": "신조",
+    "keyword2": "이상",
+    "keyword3": "기량",
+    "sentence": "목표달성을 위해 맹렬히 행동하는 사람"
+  },
+  {
+    "month": "11월",
+    "day": "23일",
+    "birth_color": "#9E9478",
+    "name": "회즙색",
+    "keyword1": "자기의식",
+    "keyword2": "책임감",
+    "keyword3": "집중력",
+    "sentence": "새로운 일에 의욕을 불태우는 도전자"
+  },
+  {
+    "month": "11월",
+    "day": "24일",
+    "birth_color": "#7B7C7D",
+    "name": "납색",
+    "keyword1": "감정회피",
+    "keyword2": "고독",
+    "keyword3": "냉정",
+    "keyword4": "침착",
+    "sentence": "항상 감정을 조절하는 방관자"
+  },
+  {
+    "month": "11월",
+    "day": "25일",
+    "birth_color": "#39423F",
+    "name": "오프 블랙",
+    "keyword1": "보수적",
+    "keyword2": "변덕",
+    "keyword3": "엄숙",
+    "sentence": "위엄 있고 신비적인 사람"
+  },
+  {
+    "month": "11월",
+    "day": "26일",
+    "birth_color": "#FDB58F",
+    "name": "페일 애프리콧",
+    "keyword1": "따듯함",
+    "keyword2": "중립",
+    "keyword3": "예술",
+    "sentence": "사회에 잘 순응하는 실천파"
+  },
+  {
+    "month": "11월",
+    "day": "27일",
+    "birth_color": "#FCE2C4",
+    "name": "살구색",
+    "keyword1": "자활력",
+    "keyword2": "현실주의",
+    "keyword3": "정직",
+    "sentence": "현상에서 본질을 이끌어 내는 이론파"
+  },
+  {
+    "month": "11월",
+    "day": "28일",
+    "birth_color": "#B47226",
+    "name": "선탠",
+    "keyword1": "현실주의",
+    "keyword2": "실천",
+    "keyword3": "회의",
+    "sentence": "충분히 확인하는 실천가"
+  },
+  {
+    "month": "11월",
+    "day": "29일",
+    "birth_color": "#8C6B4A",
+    "name": "브릭 레드",
+    "keyword1": "자신",
+    "keyword2": "집중력",
+    "keyword3": "자력",
+    "sentence": "실망이나 낙담을 싫어하는 신중파"
+  },
+  {
+    "month": "11월",
+    "day": "30일",
+    "birth_color": "#54513E",
+    "name": "고엽색",
+    "keyword1": "신념",
+    "keyword2": "기초",
+    "keyword3": "신뢰",
+    "sentence": "자신의 신념을 확실히 다잡는 사람"
+  },
+  {
+    "month": "12월",
+    "day": "1일",
+    "birth_color": "#D6D6AF",
+    "name": "아마색",
+    "keyword1": "문화적",
+    "keyword2": "거드름",
+    "keyword3": "색채",
+    "sentence": "아름다움에 매력을 느끼는 예술가"
+  },
+  {
+    "month": "12월",
+    "day": "2일",
+    "birth_color": "#CAA980",
+    "name": "허니 스위트",
+    "keyword1": "태평",
+    "keyword2": "향상심",
+    "keyword3": "문화",
+    "sentence": "안정감을 보증하는 것에 끌리는 사람"
+  },
+  {
+    "month": "12월",
+    "day": "3일",
+    "birth_color": "#852E19",
+    "name": "율매",
+    "keyword1": "본질",
+    "keyword2": "실천",
+    "keyword3": "실적",
+    "sentence": "공상에 빠지기 보다 실천하는 사람"
+  },
+  {
+    "month": "12월",
+    "day": "4일",
+    "birth_color": "#5D5644",
+    "name": "타우니 올리브",
+    "keyword1": "개성",
+    "keyword2": "의연",
+    "keyword3": "사교적",
+    "sentence": "대담하고 용기 있는 사람"
+  },
+  {
+    "month": "12월",
+    "day": "5일",
+    "birth_color": "#4E4B3A",
+    "name": "흑자",
+    "keyword1": "저축",
+    "keyword2": "신념",
+    "keyword3": "든든함",
+    "sentence": "유행을 쫓지 않는 교양있는 학자 타입"
+  },
+  {
+    "month": "12월",
+    "day": "6일",
+    "birth_color": "#E5CC96",
+    "name": "시트론 그레이",
+    "keyword1": "재기종횡",
+    "keyword2": "재치",
+    "keyword3": "모성애",
+    "sentence": "끝없는 꿈을 품는 감성이 풍부한 사람"
+  },
+  {
+    "month": "12월",
+    "day": "7일",
+    "birth_color": "#E6D89B",
+    "name": "페일 라임라이트",
+    "keyword1": "야외",
+    "keyword2": "외교적",
+    "keyword3": "호기",
+    "sentence": "땀 흘리며 일하는 착실한 사람"
+  },
+  {
+    "month": "12월",
+    "day": "8일",
+    "birth_color": "#A69425",
+    "name": "채종유색",
+    "keyword1": "일상",
+    "keyword2": "태연",
+    "keyword3": "신뢰",
+    "sentence": "감정에 티가 없고 신용할 만한 사람"
+  },
+  {
+    "month": "12월",
+    "day": "9일",
+    "birth_color": "#B4935D",
+    "name": "오일 옐로",
+    "keyword1": "안정",
+    "keyword2": "냉정",
+    "keyword3": "관철",
+    "sentence": "힘든 역경에도 동요하지 않는 사람"
+  },
+  {
+    "month": "12월",
+    "day": "10일",
+    "birth_color": "#AC6B25",
+    "name": "브론즈",
+    "keyword1": "보수적",
+    "keyword2": "실천파",
+    "keyword3": "행동력",
+    "sentence": "눈에 띄는 것을 싫어하는 소극적인 사람"
+  },
+  {
+    "month": "12월",
+    "day": "11일",
+    "birth_color": "#FBBAA8",
+    "name": "씨 셸 핑크",
+    "keyword1": "청결",
+    "keyword2": "로맨틱",
+    "sentence": "몸가짐이 우아한 사람"
+  },
+  {
+    "month": "12월",
+    "day": "12일",
+    "birth_color": "#F79383",
+    "name": "연어색",
+    "keyword1": "유니크",
+    "keyword2": "결단",
+    "keyword3": "적극",
+    "sentence": "힘든 일도 두려워하지 않고 행동하는 아이디어맨"
+  },
+  {
+    "month": "12월",
+    "day": "13일",
+    "birth_color": "#F4816F",
+    "name": "선주",
+    "keyword1": "변심",
+    "keyword2": "상냥함",
+    "keyword3": "인간관계",
+    "sentence": "남을 즐겁게 해주는 변덕쟁이"
+  },
+  {
+    "month": "12월",
+    "day": "14일",
+    "birth_color": "#EB6101",
+    "name": "주색",
+    "keyword1": "사교적",
+    "keyword2": "인맥",
+    "keyword3": "완급조절",
+    "sentence": "존재하는 것만으로 매력을 발산하는 사람"
+  },
+  {
+    "month": "12월",
+    "day": "15일",
+    "birth_color": "#B16268",
+    "name": "번트 오렌지",
+    "keyword1": "충동적",
+    "keyword2": "정서",
+    "keyword3": "표현력",
+    "sentence": "마음이 밖을 향하는 스포츠 타입"
+  },
+  {
+    "month": "12월",
+    "day": "16일",
+    "birth_color": "#FDCEBA",
+    "name": "베이지 화이트",
+    "keyword1": "이성",
+    "keyword2": "인내",
+    "keyword3": "마음껏",
+    "sentence": "자신의 힘으로 위기에서 벗어나는 용자"
+  },
+  {
+    "month": "12월",
+    "day": "17일",
+    "birth_color": "#EEDCB3",
+    "name": "베이지",
+    "keyword1": "밸런스",
+    "keyword2": "사근함",
+    "sentence": "주위 사람을 밝게 만들어주는 사람"
+  },
+  {
+    "month": "12월",
+    "day": "18일",
+    "birth_color": "#B4766B",
+    "name": "브라운 골드",
+    "keyword1": "청순",
+    "keyword2": "감정은폐",
+    "keyword3": "꿈",
+    "sentence": "걷잡을 수 없는 꿈을 쫓는 따듯한 사람"
+  },
+  {
+    "month": "12월",
+    "day": "19일",
+    "birth_color": "#DEB068",
+    "name": "조청색",
+    "keyword1": "학문",
+    "keyword2": "가정",
+    "keyword3": "정신적 충족",
+    "sentence": "완고하고 제멋대로인 사람을 싫어하는 정직한 사람"
+  },
+  {
+    "month": "12월",
+    "day": "20일",
+    "birth_color": "#715C61",
+    "name": "헤더",
+    "keyword1": "안정감",
+    "keyword2": "신념",
+    "keyword3": "활로",
+    "sentence": "즐거음을 추구하는 유머러스한 사람"
+  },
+  {
+    "month": "12월",
+    "day": "21일",
+    "birth_color": "#E0B5D3",
+    "name": "릴라",
+    "keyword1": "고상",
+    "keyword2": "품위",
+    "keyword3": "명석",
+    "sentence": "몸과 마음 모두 세련된 사람"
+  },
+  {
+    "month": "12월",
+    "day": "22일",
+    "birth_color": "#9079B6",
+    "name": "헬리오트로피움",
+    "keyword1": "감성",
+    "keyword2": "고귀",
+    "keyword3": "젊음",
+    "sentence": "로맨틱한 감정으로 가득찬 사람"
+  },
+  {
+    "month": "12월",
+    "day": "23일",
+    "birth_color": "#674196",
+    "name": "창포색",
+    "keyword1": "신비적",
+    "keyword2": "예술적",
+    "keyword3": "철학적",
+    "sentence": "옛 나라에서의 생활을 꿈꾸는 사람"
+  },
+  {
+    "month": "12월",
+    "day": "24일",
+    "birth_color": "#241B36",
+    "name": "에그플랜트",
+    "keyword1": "보수적",
+    "keyword2": "엄숙",
+    "keyword3": "안심",
+    "sentence": "착실하고 진실로 행동하는 야무진 사람"
+  },
+  {
+    "month": "12월",
+    "day": "25일",
+    "birth_color": "#824880",
+    "name": "가지색",
+    "keyword1": "노파심",
+    "keyword2": "심미안",
+    "keyword3": "세련",
+    "sentence": "세상과 동떨어진 소극적인 사고의 사람"
+  },
+  {
+    "month": "12월",
+    "day": "26일",
+    "birth_color": "#E6B422",
+    "name": "골드",
+    "keyword1": "이상",
+    "keyword2": "대범",
+    "keyword3": "화사함",
+    "sentence": "든든한 보호자 타입의 야무진 사람"
+  },
+  {
+    "month": "12월",
+    "day": "27일",
+    "birth_color": "#AFB293",
+    "name": "살로",
+    "keyword1": "위엄",
+    "keyword2": "자기애",
+    "keyword3": "자책",
+    "sentence": "자기자신을 재산이라 여기는 자신가"
+  },
+  {
+    "month": "12월",
+    "day": "28일",
+    "birth_color": "#CB981B",
+    "name": "존 미엘",
+    "keyword1": "긍지",
+    "keyword2": "견식",
+    "keyword3": "변덕",
+    "sentence": "재산이 많은 통 큰 사람"
+  },
+  {
+    "month": "12월",
+    "day": "29일",
+    "birth_color": "#B2A280",
+    "name": "머스터드",
+    "keyword1": "정온",
+    "keyword2": "조화",
+    "keyword3": "환경",
+    "sentence": "자애로 가득찬 세계관의 소유자"
+  },
+  {
+    "month": "12월",
+    "day": "30일",
+    "birth_color": "#B26724",
+    "name": "어텀 리프",
+    "keyword1": "오의",
+    "keyword2": "자신",
+    "keyword3": "로맨틱",
+    "sentence": "많은 사람들의 버팀목이 되는 사람"
+  },
+  {
+    "month": "12월",
+    "day": "31일",
+    "birth_color": "#00AFCC",
+    "name": "터콰이즈 블루",
+    "keyword1": "개성",
+    "keyword2": "비교",
+    "keyword3": "심플",
+    "sentence": "개성적인 패션을 즐기는 사람"
+  }
 ]
