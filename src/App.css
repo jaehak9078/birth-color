@@ -10,31 +10,63 @@
   }
 }
 
+@font-face {
+  font-family: "BagelFatOne-Regular";
+  src: url("./fonts/BagelFatOne-Regular.ttf") format("truetype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "HangamePoker-Regular";
+  src: url("./fonts/HangamePoker-Regular.ttf") format("truetype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "HangamePoker-Medium";
+  src: url("./fonts/HangamePoker-Medium.ttf") format("truetype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Ownglyph_ParkDaHyun";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/2411-3@1.0/Ownglyph_ParkDaHyun.woff2")
+    format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
 .birthColor {
   width: 100vw;
   height: 100vh;
-  font-size: 14px;
+  font-size: 18px;
   display: flex;
   justify-content: center;
+  align-items: center;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   transition: background-image 0.5s ease-in-out;
+  flex-direction: column;
+  font-family: "Ownglyph_ParkDaHyun";
 }
 
 .page-0 {
-  background-image: url("../public/001.png");
+  background-image: url("../public/crumpled_paper_1405.jpg");
 }
 
 .page-1 {
-  background-image: url("../public/003.png");
+  background-image: url("../public/crumpled_paper_1405.jpg");
 }
 
 .page-2 {
+  background-image: url("../public/crumpled_paper_1405.jpg");
+}
+.page-3 {
   background-image: url("../public/003.png");
 }
-
-.startPageLayout, .inputPageLayout {
+.startPageLayout,
+.inputPageLayout {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -43,12 +75,17 @@
   height: 100%;
 }
 
-.startButton{
-  font-size: 45px;
+.startButton {
+  font-size: clamp(32px, 8vw, 120px);
   font-weight: 700;
-  cursor:pointer;
+  cursor: pointer;
   opacity: 0;
   animation: fadeIn 1s ease-in-out forwards;
+  margin-top: 20px;
+}
+
+.startButton:hover {
+  /* color: #fff; */
 }
 
 .inputPageLayout button {
@@ -80,16 +117,18 @@
 .inputContainer input {
   margin-right: 10px; /* 입력 필드와 레이블 사이의 간격 */
   padding: 10px;
+  padding-left: 20px;
   font-size: 16px;
   width: 80px; /* 입력 필드의 가로 길이 조정 */
   text-align: center; /* 입력 내용 가운데 정렬 */
   opacity: 0; /* 초기 상태에서 숨김 */
   animation: fadeIn 1s ease-in-out forwards; /* 애니메이션 적용 */
+  font-family: "Ownglyph_ParkDaHyun";
 }
 
 .inputLabel {
   font-size: 24px;
-  font-weight: 700;
+  font-weight: 500;
   opacity: 0; /* 초기 상태에서 숨김 */
   animation: fadeIn 1s ease-in-out forwards; /* 애니메이션 적용 */
 }
@@ -100,6 +139,10 @@ button {
   font-size: 17px;
   font-weight: 700;
   cursor: pointer;
+  background-color: #e54863;
+  border-radius: 20px;
+  border: none;
+  color: #fff;
 }
 
 .resultPageLayout {
@@ -108,22 +151,119 @@ button {
   align-items: center;
   justify-content: center;
   text-align: center;
+  height: 100%;
+  /* margin: 20px; */
 }
 
-.colorContentsBox{
-  display:flex;
+.resultPageLayout2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  /* margin: 20px; */
+}
+
+/* .colorContentsBox {
+  display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   width: 150px;
   height: 180px;
+} */
+.colorContentsBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+  width: 50vw;
+  /* height: 50vw; */
+  min-width: 240px;
+  min-height: 240px;
+  margin-top: 3vh;
+  margin-bottom: 3vh;
+  border: 2px solid black;
+  background-color: white;
+  /* padding-top: 20px; */
+  /* padding: 12px; */
+  padding-bottom: 5vh;
+}
+.colorTitle {
+  font-size: clamp(24px, 4vw, 52px);
+  font-weight: 600;
+  font-family: "Ownglyph_ParkDaHyun";
+}
+.titleImg {
+  width: 3vw;
+  height: 3vw;
+  min-width: 20px;
+  min-height: 20px;
+  margin-right: 8px;
+  margin-left: 8px;
+}
+.colorName {
+  font-size: clamp(32px, 6vw, 64px);
+  font-weight: 800;
+  margin-bottom: 10px;
+  margin-top: 0px;
+  /* font-family: "HangamePoker-Regular"; */
+  font-family: "Ownglyph_ParkDaHyun";
+}
+.rgbCodeText {
+  font-size: clamp(16px, 3vw, 48px);
+  font-weight: 600;
+  /* margin-bottom: 10px; */
+  margin-top: 12px;
+  /* font-family: "HangamePoker-Regular"; */
+  font-family: "Ownglyph_ParkDaHyun";
 }
 
+.contentsTextBox {
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 10px;
+  font-family: "Ownglyph_ParkDaHyun";
+  /* border: 2px solid black; */
+  width: 80%;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.buttonStyle {
+  /* margin-top: 20px; */
+  padding: 10px 10px;
+  font-size: 17px;
+  font-weight: 700;
+  cursor: pointer;
+  font-family: "Ownglyph_ParkDaHyun";
+  /* width: 3vw; */
+  /* height: 3vw; */
+  border-radius: 20px;
+  min-width: 140px;
+  /* background-color: transparent; */
+  background-color: #fff;
+  border: 2px solid black;
+  color: black;
+}
+
+/* .colorBox {
+  width: 100px; 
+  height: 100px; 
+  margin-bottom: 10px; 
+  display: inline-block;
+} */
+
 .colorBox {
-  width: 100px; /* 네모 칸의 너비 */
-  height: 100px; /* 네모 칸의 높이 */
-  margin-bottom: 10px; /* 네모 칸과 다른 요소 간의 간격 */
-  display:inline-block;
+  width: 20vw;
+  height: 12vw;
+  margin-bottom: 10px;
+  display: inline-block;
 }
 
 .resultText {
@@ -136,4 +276,30 @@ button {
   color: red;
   font-size: 14px;
   margin-top: 10px;
+}
+
+// 레이아웃 정의
+
+.flexRowDirection {
+  display: flex;
+  flex-direction: row;
+}
+
+.flexColumnDirection {
+  display: flex;
+  flex-direction: column;
+}
+
+.flexCenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.jCenter {
+  justify-content: center;
+}
+
+.aCenter {
+  align-items: center;
 }
