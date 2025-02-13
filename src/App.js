@@ -22,12 +22,11 @@ function App() {
     if (page === 2) {
       console.log("page 2");
       let count = 0;
-      const color = getRandomColor();
-      setLoadingColor(color);
+      getLoadingColor(count);
+
       const intervalId = setInterval(() => {
-        const color = getRandomColor();
-        setLoadingColor(color);
         count++;
+        getLoadingColor(count);
         if (count > 3) {
           clearInterval(intervalId);
           setPage(3);
@@ -178,9 +177,21 @@ function App() {
 
   const [loadingColor, setLoadingColor] = useState("#000000");
 
-  const getRandomColor = () => {
-    const randomColor = "#" + Math.floor(Math.random() * 16777215).toString(16);
-    return randomColor;
+  const getLoadingColor = (count) => {
+    // const randomColor = "#" + Math.floor(Math.random() * 16777215).toString(16);
+    // return randomColor;
+    if (count === 0) {
+      setLoadingColor("#fff");
+    }
+    if (count === 1) {
+      setLoadingColor("#db6138");
+    }
+    if (count === 2) {
+      setLoadingColor("#0a99ff");
+    }
+    if (count === 3) {
+      setLoadingColor("#F3C828");
+    }
   };
 
   return (
